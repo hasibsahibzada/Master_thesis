@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.1)  6 APR 2016 16:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.1)  6 APR 2016 21:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -843,7 +843,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks24
 \@floatcapt=\box54
 )
-Package scrhack Info: loading float hack on input line 58.
+Package scrhack Info: loading float hack on input line 60.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/float.hak
 File: float.hak 2015/05/06 v3.17a KOMA-Script package (hacking package float)
@@ -953,7 +953,7 @@ LaTeX Info: Redefining \pageref on input line 6369.
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of hyperref version, that doesn't
-(scrhack)             need that hack, on input line 59.
+(scrhack)             need that hack, on input line 61.
 
 
 Package hyperref Message: Driver (autodetected): hpdftex.
@@ -1011,6 +1011,15 @@ Package csquotes Info: ... found 'babel' package.
 
 LaTeX Warning: Label `fig:observation_env' multiply defined.
 
+
+LaTeX Warning: Label `tab:treatments' multiply defined.
+
+
+LaTeX Warning: Label `tab:treatments' multiply defined.
+
+
+LaTeX Warning: Label `tab:treatments' multiply defined.
+
 ) (./Chapters/4/AdvertisementDecision.aux
 
 LaTeX Warning: Label `fig:observation_env' multiply defined.
@@ -1035,21 +1044,21 @@ LaTeX Warning: Label `fig:paper_prototype' multiply defined.
 (./Appendices/Appendix.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 99.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 101.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -1206,16 +1215,16 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 99.
-Package scrbase Info: activating english \authorshipname on input line 99.
-Package scrbase Info: activating english \byname on input line 99.
-Package scrbase Info: activating english \abbrevname on input line 99.
-Package scrbase Info: activating english \constantsname on input line 99.
-Package scrbase Info: activating english \symbolsname on input line 99.
-Package scrbase Info: activating english \acknowledgementname on input line 99.
-
+(scrlayer)             \begin{document} on input line 101.
+Package scrbase Info: activating english \authorshipname on input line 101.
+Package scrbase Info: activating english \byname on input line 101.
+Package scrbase Info: activating english \abbrevname on input line 101.
+Package scrbase Info: activating english \constantsname on input line 101.
+Package scrbase Info: activating english \symbolsname on input line 101.
+Package scrbase Info: activating english \acknowledgementname on input line 101
+.
 \AtBeginShipoutBox=\box58
-Package hyperref Info: Link coloring OFF on input line 99.
+Package hyperref Info: Link coloring OFF on input line 101.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1224,9 +1233,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count184
 )
-LaTeX Info: Redefining \ref on input line 99.
-LaTeX Info: Redefining \pageref on input line 99.
-LaTeX Info: Redefining \nameref on input line 99.
+LaTeX Info: Redefining \ref on input line 101.
+LaTeX Info: Redefining \pageref on input line 101.
+LaTeX Info: Redefining \nameref on input line 101.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
@@ -1234,16 +1243,16 @@ LaTeX Info: Redefining \nameref on input line 99.
 
 \c__siunitx_mathsf_int=\count185
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 99.
+(Font)              <12> on input line 101.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 99.
+(Font)              <8> on input line 101.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 99.
+(Font)              <6> on input line 101.
 \c__siunitx_mathtt_int=\count186
 
 1: section
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 116.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 118.
 [1
 
 
@@ -1255,15 +1264,15 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
 --------------------
  Declaration of Authorship
 --------------------
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 153.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 155.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 153.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 155.
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
 
  []
 
@@ -1277,7 +1286,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 158--159
  Abstract
 --------------------
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 184.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 186.
 1: section
 [7] [8
 
@@ -1326,7 +1335,7 @@ on-
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.234 \end{constants}
+l.236 \end{constants}
                      
 1: section
 [23] [24
@@ -1335,7 +1344,7 @@ l.234 \end{constants}
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.250 \end{symbols}
+l.252 \end{symbols}
                    
 1: section
 [25] [26
@@ -1397,7 +1406,7 @@ LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <12> not available
 ]
 Chapter 2.
 1: section
-[5] <Figures/3/TheAudienceFunnel.png, id=1203, 821.0675pt x 319.1925pt>
+[5] <Figures/3/TheAudienceFunnel.png, id=1212, 821.0675pt x 319.1925pt>
 File: Figures/3/TheAudienceFunnel.png Graphic file (type png)
 
 <use Figures/3/TheAudienceFunnel.png>
@@ -1437,20 +1446,20 @@ T1/ppl/m/n/12 '', (2) ``\T1/ppl/m/it/12 avatar-like\T1/ppl/m/n/12 ''representat
 ions
  []
 
-<Figures/3/eyes.png, id=1233, 1927.2pt x 1084.05pt>
+<Figures/3/eyes.png, id=1242, 1927.2pt x 1084.05pt>
 File: Figures/3/eyes.png Graphic file (type png)
  <use Figures/3/eyes.png>
 Package pdftex.def Info: Figures/3/eyes.png used on input line 40.
 (pdftex.def)             Requested size: 142.24004pt x 113.80379pt.
 
-<Figures/3/fireworks.png, id=1234, 1927.2pt x 1084.05pt>
+<Figures/3/fireworks.png, id=1243, 1927.2pt x 1084.05pt>
 File: Figures/3/fireworks.png Graphic file (type png)
 
 <use Figures/3/fireworks.png>
 Package pdftex.def Info: Figures/3/fireworks.png used on input line 42.
 (pdftex.def)             Requested size: 142.24004pt x 113.80379pt.
 
-<Figures/3/silhouttee.png, id=1235, 1927.2pt x 1084.05pt>
+<Figures/3/silhouttee.png, id=1244, 1927.2pt x 1084.05pt>
 File: Figures/3/silhouttee.png Graphic file (type png)
 
 <use Figures/3/silhouttee.png>
@@ -1458,7 +1467,7 @@ Package pdftex.def Info: Figures/3/silhouttee.png used on input line 50.
 (pdftex.def)             Requested size: 142.24004pt x 113.80379pt.
  [9 <./Figures/3/eyes.png> <./Figures/3/fireworks.png>] [10 <./Figures/3/silhou
 ttee.png>]
-<Figures/3/Kasseturm_monitor.png, id=1251, 208.1376pt x 156.1032pt>
+<Figures/3/Kasseturm_monitor.png, id=1260, 208.1376pt x 156.1032pt>
 File: Figures/3/Kasseturm_monitor.png Graphic file (type png)
 
 <use Figures/3/Kasseturm_monitor.png>
@@ -1466,77 +1475,79 @@ Package pdftex.def Info: Figures/3/Kasseturm_monitor.png used on input line 95.
 
 (pdftex.def)             Requested size: 170.71652pt x 128.04355pt.
 
-<Figures/3/mensa_setup.jpg, id=1252, 772.8875pt x 509.905pt>
+<Figures/3/mensa_setup.jpg, id=1261, 772.8875pt x 509.905pt>
 File: Figures/3/mensa_setup.jpg Graphic file (type jpg)
 
 <use Figures/3/mensa_setup.jpg>
 Package pdftex.def Info: Figures/3/mensa_setup.jpg used on input line 97.
 (pdftex.def)             Requested size: 170.71652pt x 112.62292pt.
  [11 <./Figures/3/Kasseturm_monitor.png> <./Figures/3/mensa_setup.jpg>] <Figure
-s/3/hamid.png, id=1261, 226.446pt x 162.8484pt>
+s/3/hamid.png, id=1270, 226.446pt x 162.8484pt>
 File: Figures/3/hamid.png Graphic file (type png)
 
 <use Figures/3/hamid.png>
-Package pdftex.def Info: Figures/3/hamid.png used on input line 110.
+Package pdftex.def Info: Figures/3/hamid.png used on input line 108.
 (pdftex.def)             Requested size: 170.72208pt x 113.8117pt.
 
-<Figures/3/observer.png, id=1262, 208.1376pt x 162.8484pt>
+<Figures/3/observer.png, id=1271, 208.1376pt x 162.8484pt>
 File: Figures/3/observer.png Graphic file (type png)
 
 <use Figures/3/observer.png>
-Package pdftex.def Info: Figures/3/observer.png used on input line 112.
+Package pdftex.def Info: Figures/3/observer.png used on input line 110.
 (pdftex.def)             Requested size: 170.72475pt x 113.8117pt.
  [12 <./Figures/3/hamid.png> <./Figures/3/observer.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 164--167
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
-
+Overfull \hbox (0.77177pt too wide) in paragraph at lines 165--166
+[]\T1/ppl/m/n/12 Performing the ch-squared test, $\OML/cmm/m/it/12 ^^_[]$ \T1/p
+pl/m/it/12 (1, N=195)=1.522, p >.05 (p=.21)
  []
 
 [13]
-Overfull \hbox (9.90097pt too wide) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 215--218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+
+ []
+
+[14]
+Overfull \hbox (9.90097pt too wide) in paragraph at lines 221--222
 \T1/ppl/m/n/12 un-der-stand-able; ?the ad-ver-tise-ment should be clear too. ?,
  ?when
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--173
-
- []
-
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 191--193
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
 
  []
 
 [15]
-Overfull \hbox (4.77751pt too wide) in paragraph at lines 221--223
+Underfull \hbox (badness 10000) in paragraph at lines 242--244
+
+ []
+
+[16]
+Overfull \hbox (4.77751pt too wide) in paragraph at lines 272--274
 \T1/ppl/m/n/12 Long last-ing ad-ver-tise-ment are al-ways bor-ing and waste of 
 time,
  []
 
 
-Overfull \hbox (16.51286pt too wide) in paragraph at lines 224--226
+Overfull \hbox (16.51286pt too wide) in paragraph at lines 275--277
 \T1/ppl/m/n/12 like lo-ca-tion, Con-fus-ing ad-ver-tise-ment, Con-tro-ver-sial 
 ads, amount
  []
 
-) [16] [17]
+) [17] [18]
 \openout2 = `Chapters/4/AdvertisementDecision.aux'.
 
- (./Chapters/4/AdvertisementDecision.tex [18
-
-
-
-]
+ (./Chapters/4/AdvertisementDecision.tex
 Chapter 4.
 
 Overfull \hbox (7.61914pt too wide) in paragraph at lines 15--16
@@ -1545,7 +1556,11 @@ n about
  []
 
 1: section
-[19] <Figures/4/focus_group.png, id=1316, 172.0026pt x 115.1502pt>
+[19
+
+
+
+] <Figures/4/focus_group.png, id=1325, 172.0026pt x 115.1502pt>
 File: Figures/4/focus_group.png Graphic file (type png)
 
 <use Figures/4/focus_group.png>
@@ -1561,7 +1576,7 @@ Underfull \hbox (badness 1383) in paragraph at lines 40--40
  []\T1/ppl/m/sc/10.95 Figure 4.1: |\T1/ppl/m/n/10.95 Fo-cus group 
  []
 
-<Figures/4/meeting_room.png, id=1317, 172.0026pt x 117.0774pt>
+<Figures/4/meeting_room.png, id=1326, 172.0026pt x 117.0774pt>
 File: Figures/4/meeting_room.png Graphic file (type png)
 
 <use Figures/4/meeting_room.png>
@@ -1584,21 +1599,21 @@ d-ver-tise-ments
  []
 
 [21 <./Figures/4/meeting_room.png>]
-<Figures/4/drawings.png, id=1342, 198.9834pt x 151.767pt>
+<Figures/4/drawings.png, id=1351, 198.9834pt x 151.767pt>
 File: Figures/4/drawings.png Graphic file (type png)
 
 <use Figures/4/drawings.png>
 Package pdftex.def Info: Figures/4/drawings.png used on input line 91.
 (pdftex.def)             Requested size: 170.71652pt x 130.216pt.
 
-<Figures/4/discussions.png, id=1343, 198.9834pt x 149.8398pt>
+<Figures/4/discussions.png, id=1352, 198.9834pt x 149.8398pt>
 File: Figures/4/discussions.png Graphic file (type png)
 
 <use Figures/4/discussions.png>
 Package pdftex.def Info: Figures/4/discussions.png used on input line 93.
 (pdftex.def)             Requested size: 170.71652pt x 128.56247pt.
 
-<Figures/4/notes.png, id=1344, 217.2918pt x 161.8848pt>
+<Figures/4/notes.png, id=1353, 217.2918pt x 161.8848pt>
 File: Figures/4/notes.png Graphic file (type png)
 
 <use Figures/4/notes.png>
@@ -1623,28 +1638,28 @@ Overfull \hbox (1.6454pt too wide) in paragraph at lines 120--121
 ss
  []
 
-[23] <Figures/4/map.png, id=1374, 214.8828pt x 163.3302pt>
+[23] <Figures/4/map.png, id=1383, 214.8828pt x 163.3302pt>
 File: Figures/4/map.png Graphic file (type png)
 
 <use Figures/4/map.png>
 Package pdftex.def Info: Figures/4/map.png used on input line 134.
 (pdftex.def)             Requested size: 170.71652pt x 129.76215pt.
 
-<Figures/4/chess.png, id=1375, 225.9642pt x 163.3302pt>
+<Figures/4/chess.png, id=1384, 225.9642pt x 163.3302pt>
 File: Figures/4/chess.png Graphic file (type png)
 
 <use Figures/4/chess.png>
 Package pdftex.def Info: Figures/4/chess.png used on input line 136.
 (pdftex.def)             Requested size: 170.71652pt x 123.40201pt.
 
-<Figures/4/show_map.png, id=1376, 216.81pt x 165.2574pt>
+<Figures/4/show_map.png, id=1385, 216.81pt x 165.2574pt>
 File: Figures/4/show_map.png Graphic file (type png)
 
 <use Figures/4/show_map.png>
 Package pdftex.def Info: Figures/4/show_map.png used on input line 145.
 (pdftex.def)             Requested size: 170.71652pt x 130.13078pt.
 
-<Figures/4/tell_map.png, id=1377, 224.037pt x 165.7392pt>
+<Figures/4/tell_map.png, id=1386, 224.037pt x 165.7392pt>
 File: Figures/4/tell_map.png Graphic file (type png)
 
 <use Figures/4/tell_map.png>
@@ -1669,7 +1684,7 @@ Overfull \hbox (4.21382pt too wide) in paragraph at lines 196--198
 aflets
  []
 
-[25] <Figures/4/target_group.png, id=1395, 272.217pt x 169.5936pt>
+[25] <Figures/4/target_group.png, id=1404, 272.217pt x 169.5936pt>
 File: Figures/4/target_group.png Graphic file (type png)
 
 <use Figures/4/target_group.png>
@@ -1733,28 +1748,28 @@ Overfull \hbox (8.90288pt too wide) in paragraph at lines 61--62
 e along
  []
 
-<Figures/5/paper_board.png, id=1442, 244.2726pt x 163.3302pt>
+<Figures/5/paper_board.png, id=1451, 244.2726pt x 163.3302pt>
 File: Figures/5/paper_board.png Graphic file (type png)
 
 <use Figures/5/paper_board.png>
 Package pdftex.def Info: Figures/5/paper_board.png used on input line 66.
 (pdftex.def)             Requested size: 170.71756pt x 113.81197pt.
 
-<Figures/5/mobile_paper.png, id=1443, 309.3156pt x 153.6942pt>
+<Figures/5/mobile_paper.png, id=1452, 309.3156pt x 153.6942pt>
 File: Figures/5/mobile_paper.png Graphic file (type png)
 
 <use Figures/5/mobile_paper.png>
 Package pdftex.def Info: Figures/5/mobile_paper.png used on input line 68.
 (pdftex.def)             Requested size: 170.71407pt x 113.81398pt.
  [32]
-<Figures/5/body_interaction.png, id=1452, 216.81pt x 144.54pt>
+<Figures/5/body_interaction.png, id=1461, 216.81pt x 144.54pt>
 File: Figures/5/body_interaction.png Graphic file (type png)
 
 <use Figures/5/body_interaction.png>
 Package pdftex.def Info: Figures/5/body_interaction.png used on input line 83.
 (pdftex.def)             Requested size: 170.72554pt x 113.8104pt.
 
-<Figures/5/mobile_interactions.png, id=1453, 199.4652pt x 144.54pt>
+<Figures/5/mobile_interactions.png, id=1462, 199.4652pt x 144.54pt>
 File: Figures/5/mobile_interactions.png Graphic file (type png)
 
 <use Figures/5/mobile_interactions.png>
@@ -1768,7 +1783,7 @@ Overfull \hbox (9.08586pt too wide) in paragraph at lines 147--148
 x-ploratory
  []
 
-<Figures/5/interview_pic.png, id=1476, 252.945pt x 158.5122pt>
+<Figures/5/interview_pic.png, id=1485, 252.945pt x 158.5122pt>
 File: Figures/5/interview_pic.png Graphic file (type png)
 
 <use Figures/5/interview_pic.png>
@@ -1831,7 +1846,7 @@ Overfull \hbox (1.5265pt too wide) in paragraph at lines 88--89
 now which
  []
 
-[43] [44] <Figures/6/mobile_performance.png, id=1533, 415.7934pt x 209.1012pt>
+[43] [44] <Figures/6/mobile_performance.png, id=1542, 415.7934pt x 209.1012pt>
 File: Figures/6/mobile_performance.png Graphic file (type png)
 
 <use Figures/6/mobile_performance.png>
@@ -1839,21 +1854,21 @@ Package pdftex.def Info: Figures/6/mobile_performance.png used on input line 14
 6.
 (pdftex.def)             Requested size: 341.44131pt x 227.62862pt.
 
-<Figures/6/mobile_average.png, id=1534, 406.6392pt x 189.8292pt>
+<Figures/6/mobile_average.png, id=1543, 406.6392pt x 189.8292pt>
 File: Figures/6/mobile_average.png Graphic file (type png)
 
 <use Figures/6/mobile_average.png>
 Package pdftex.def Info: Figures/6/mobile_average.png used on input line 154.
 (pdftex.def)             Requested size: 341.4381pt x 227.62009pt.
  [45 <./Figures/6/mobile_performance.png>]
-<Figures/6/mobile_mean.png, id=1541, 365.2044pt x 226.9278pt>
+<Figures/6/mobile_mean.png, id=1550, 365.2044pt x 226.9278pt>
 File: Figures/6/mobile_mean.png Graphic file (type png)
 
 <use Figures/6/mobile_mean.png>
 Package pdftex.def Info: Figures/6/mobile_mean.png used on input line 164.
 (pdftex.def)             Requested size: 341.44766pt x 170.71828pt.
  [46 <./Figures/6/mobile_average.png> <./Figures/6/mobile_mean.png>]
-<Figures/6/body_performance.png, id=1548, 397.485pt x 209.1012pt>
+<Figures/6/body_performance.png, id=1557, 397.485pt x 209.1012pt>
 File: Figures/6/body_performance.png Graphic file (type png)
 
 <use Figures/6/body_performance.png>
@@ -1861,21 +1876,21 @@ Package pdftex.def Info: Figures/6/body_performance.png used on input line 176.
 
 (pdftex.def)             Requested size: 341.44226pt x 227.62862pt.
 
-<Figures/6/body_average.png, id=1549, 424.9476pt x 207.6558pt>
+<Figures/6/body_average.png, id=1558, 424.9476pt x 207.6558pt>
 File: Figures/6/body_average.png Graphic file (type png)
 
 <use Figures/6/body_average.png>
 Package pdftex.def Info: Figures/6/body_average.png used on input line 183.
 (pdftex.def)             Requested size: 341.43692pt x 227.63628pt.
  [47 <./Figures/6/body_performance.png> <./Figures/6/body_average.png>]
-<Figures/6/body_mean.png, id=1556, 374.8404pt x 242.3454pt>
+<Figures/6/body_mean.png, id=1565, 374.8404pt x 242.3454pt>
 File: Figures/6/body_mean.png Graphic file (type png)
 
 <use Figures/6/body_mean.png>
 Package pdftex.def Info: Figures/6/body_mean.png used on input line 192.
 (pdftex.def)             Requested size: 341.45418pt x 170.7167pt.
 
-<Figures/6/mobile_body_performance.png, id=1557, 476.0184pt x 158.994pt>
+<Figures/6/mobile_body_performance.png, id=1566, 476.0184pt x 158.994pt>
 File: Figures/6/mobile_body_performance.png Graphic file (type png)
 
 <use Figures/6/mobile_body_performance.png>
@@ -1883,7 +1898,7 @@ Package pdftex.def Info: Figures/6/mobile_body_performance.png used on input li
 ne 205.
 (pdftex.def)             Requested size: 341.44008pt x 170.72598pt.
  [48 <./Figures/6/body_mean.png> <./Figures/6/mobile_body_performance.png>]
-<Figures/6/mobile_body_aspect.png, id=1564, 416.757pt x 209.1012pt>
+<Figures/6/mobile_body_aspect.png, id=1573, 416.757pt x 209.1012pt>
 File: Figures/6/mobile_body_aspect.png Graphic file (type png)
 
 <use Figures/6/mobile_body_aspect.png>
@@ -1920,14 +1935,14 @@ Overfull \hbox (3.58926pt too wide) in paragraph at lines 296--298
 hich
  []
 
-[51] <Figures/6/word_recall.png, id=1605, 408.0846pt x 164.2938pt>
+[51] <Figures/6/word_recall.png, id=1614, 408.0846pt x 164.2938pt>
 File: Figures/6/word_recall.png Graphic file (type png)
 
 <use Figures/6/word_recall.png>
 Package pdftex.def Info: Figures/6/word_recall.png used on input line 304.
 (pdftex.def)             Requested size: 341.44994pt x 170.72864pt.
 
-<Figures/6/wordle.png, id=1606, 415.7934pt x 265.9536pt>
+<Figures/6/wordle.png, id=1615, 415.7934pt x 265.9536pt>
 File: Figures/6/wordle.png Graphic file (type png)
 
 <use Figures/6/wordle.png>
@@ -2060,7 +2075,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--23
 
 ]
 Appendix A.
-<Appendices/3/Glance_Count_Method.pdf, id=1721, 794.97pt x 614.295pt>
+<Appendices/3/Glance_Count_Method.pdf, id=1730, 794.97pt x 614.295pt>
 File: Appendices/3/Glance_Count_Method.pdf Graphic file (type pdf)
 
 <use Appendices/3/Glance_Count_Method.pdf>
@@ -2074,7 +2089,7 @@ Package pdftex.def Info: Appendices/3/Glance_Count_Method.pdf used on input lin
 e 8.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
 
-<Appendices/3/Glance_Count_Method.pdf, id=1724, page=1, 794.97pt x 614.295pt>
+<Appendices/3/Glance_Count_Method.pdf, id=1733, page=1, 794.97pt x 614.295pt>
 File: Appendices/3/Glance_Count_Method.pdf Graphic file (type pdf)
 
 <use Appendices/3/Glance_Count_Method.pdf, page 1>
@@ -2108,7 +2123,7 @@ Package pdftex.def Info: Appendices/3/Glance_Count_Method.pdf, page1 used on in
 put line 8.
 (pdftex.def)             Requested size: 1115.01257pt x 861.6006pt.
  [70 <./Appendices/3/Glance_Count_Method.pdf>]
-<Appendices/3/Consent_form.pdf, id=1756, 614.295pt x 794.97pt>
+<Appendices/3/Consent_form.pdf, id=1765, 614.295pt x 794.97pt>
 File: Appendices/3/Consent_form.pdf Graphic file (type pdf)
 
 <use Appendices/3/Consent_form.pdf>
@@ -2119,7 +2134,7 @@ File: Appendices/3/Consent_form.pdf Graphic file (type pdf)
 Package pdftex.def Info: Appendices/3/Consent_form.pdf used on input line 9.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Appendices/3/Consent_form.pdf, id=1759, page=1, 614.295pt x 794.97pt>
+<Appendices/3/Consent_form.pdf, id=1768, page=1, 614.295pt x 794.97pt>
 File: Appendices/3/Consent_form.pdf Graphic file (type pdf)
 
 <use Appendices/3/Consent_form.pdf, page 1>
@@ -2150,8 +2165,8 @@ File: Appendices/3/Consent_form.pdf Graphic file (type pdf)
 Package pdftex.def Info: Appendices/3/Consent_form.pdf, page1 used on input lin
 e 9.
 (pdftex.def)             Requested size: 861.6006pt x 1115.01257pt.
- [71 <./Appendices/3/Consent_form.pdf>] <Appendices/3/Questionnaire.pdf, id=179
-6, 614.295pt x 794.97pt>
+ [71 <./Appendices/3/Consent_form.pdf>] <Appendices/3/Questionnaire.pdf, id=180
+5, 614.295pt x 794.97pt>
 File: Appendices/3/Questionnaire.pdf Graphic file (type pdf)
 
 <use Appendices/3/Questionnaire.pdf>
@@ -2162,7 +2177,7 @@ File: Appendices/3/Questionnaire.pdf Graphic file (type pdf)
 Package pdftex.def Info: Appendices/3/Questionnaire.pdf used on input line 10.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Appendices/3/Questionnaire.pdf, id=1799, page=1, 614.295pt x 794.97pt>
+<Appendices/3/Questionnaire.pdf, id=1808, page=1, 614.295pt x 794.97pt>
 File: Appendices/3/Questionnaire.pdf Graphic file (type pdf)
 
 <use Appendices/3/Questionnaire.pdf, page 1>
@@ -2194,8 +2209,8 @@ Package pdftex.def Info: Appendices/3/Questionnaire.pdf, page1 used on input li
 ne 10.
 (pdftex.def)             Requested size: 861.6006pt x 1115.01257pt.
  [72 <./Appendices/3/Questionnaire.pdf>])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 314.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 314.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 316.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 316.
  (./main.aux (./Chapters/1/Introduction.aux) (./Chapters/2/Background.aux) (./C
 hapters/3/AttractionAttention.aux)
 (./Chapters/4/AdvertisementDecision.aux) (./Chapters/5/AdvertisementLowFi.aux)
@@ -2204,17 +2219,11 @@ hapters/3/AttractionAttention.aux)
 (./Chapters/8/InteractiveNonInteractiveStudy.aux)
 (./Chapters/9/InteractiveAdEnhancement.aux) (./Chapters/10/Conclusion.aux)
 (./Appendices/Appendix.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 314.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 314.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 316.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 316.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 4B0897137EE31273F3410B2E154BF482;12777.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 85592F554CEFE9714AF4A71E67DBFEA4;12777
-(rerunfilecheck)             After:  878B5A61308476CA3CCE48B50803B7E5;12777.
 
 LaTeX Warning: There were undefined references.
 
@@ -2223,10 +2232,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 23304 strings out of 493089
- 507082 string characters out of 6134843
- 544386 words of memory out of 5000000
- 25893 multiletter control sequences out of 15000+600000
+ 23308 strings out of 493089
+ 507139 string characters out of 6134843
+ 544409 words of memory out of 5000000
+ 25894 multiletter control sequences out of 15000+600000
  49069 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,20n,78p,10377b,948s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2242,10 +2251,10 @@ nts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
 e1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/
 palatino/uplr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatin
 o/uplri8a.pfb>
-Output written on main.pdf (100 pages, 6325776 bytes).
+Output written on main.pdf (100 pages, 6330086 bytes).
 PDF statistics:
- 1974 PDF objects out of 2073 (max. 8388607)
- 1751 compressed objects within 18 object streams
- 499 named destinations out of 1000 (max. 500000)
+ 1983 PDF objects out of 2073 (max. 8388607)
+ 1760 compressed objects within 18 object streams
+ 502 named destinations out of 1000 (max. 500000)
  1762 words of extra memory for PDF output out of 10000 (max. 10000000)
 
