@@ -29,8 +29,8 @@
 \BOOKMARK [3][-]{section*.16}{Motivation}{subsection.2.2.3}% 29
 \BOOKMARK [3][-]{section*.17}{Interaction}{subsection.2.2.3}% 30
 \BOOKMARK [2][-]{subsection.2.2.4}{Interaction modalities}{section.2.2}% 31
-\BOOKMARK [3][-]{section*.18}{Body}{subsection.2.2.4}% 32
-\BOOKMARK [3][-]{section*.19}{Mobile}{subsection.2.2.4}% 33
+\BOOKMARK [3][-]{section*.19}{Body}{subsection.2.2.4}% 32
+\BOOKMARK [3][-]{section*.20}{Mobile}{subsection.2.2.4}% 33
 \BOOKMARK [2][-]{subsection.2.2.5}{Interaction models}{section.2.2}% 34
 \BOOKMARK [2][-]{subsection.2.2.6}{Evaluation}{section.2.2}% 35
 \BOOKMARK [2][-]{subsection.2.2.7}{Approaches to Research}{section.2.2}% 36
@@ -38,148 +38,155 @@
 \BOOKMARK [0][-]{chapter.3}{Attraction attention}{}% 38
 \BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 39
 \BOOKMARK [1][-]{section.3.2}{Background and related works}{chapter.3}% 40
-\BOOKMARK [1][-]{section.3.3}{Attention}{chapter.3}% 41
-\BOOKMARK [1][-]{section.3.4}{Prototypes}{chapter.3}% 42
-\BOOKMARK [1][-]{section.3.5}{Study design}{chapter.3}% 43
-\BOOKMARK [2][-]{subsection.3.5.1}{Hypothesis}{section.3.5}% 44
-\BOOKMARK [1][-]{section.3.6}{Data gathering}{chapter.3}% 45
-\BOOKMARK [2][-]{subsection.3.6.1}{Observation}{section.3.6}% 46
-\BOOKMARK [2][-]{subsection.3.6.2}{Interviews}{section.3.6}% 47
-\BOOKMARK [2][-]{subsection.3.6.3}{Observation findings}{section.3.6}% 48
-\BOOKMARK [2][-]{subsection.3.6.4}{Interview Findings}{section.3.6}% 49
-\BOOKMARK [3][-]{section*.27}{Good Advertisement}{subsection.3.6.4}% 50
-\BOOKMARK [3][-]{section*.28}{Bad Advertisement}{subsection.3.6.4}% 51
-\BOOKMARK [1][-]{section.3.7}{Discussions}{chapter.3}% 52
-\BOOKMARK [1][-]{section.3.8}{Conclusion}{chapter.3}% 53
-\BOOKMARK [0][-]{chapter.4}{Advertisement decision}{}% 54
-\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 55
-\BOOKMARK [1][-]{section.4.2}{Goal}{chapter.4}% 56
-\BOOKMARK [1][-]{section.4.3}{Methods}{chapter.4}% 57
-\BOOKMARK [2][-]{subsection.4.3.1}{Participants}{section.4.3}% 58
-\BOOKMARK [2][-]{subsection.4.3.2}{Focus-Group Environment}{section.4.3}% 59
-\BOOKMARK [2][-]{subsection.4.3.3}{Warm Welcome and Introduction}{section.4.3}% 60
-\BOOKMARK [2][-]{subsection.4.3.4}{Discussion session}{section.4.3}% 61
-\BOOKMARK [2][-]{subsection.4.3.5}{Consent Form}{section.4.3}% 62
-\BOOKMARK [2][-]{subsection.4.3.6}{Topic Questions}{section.4.3}% 63
-\BOOKMARK [1][-]{section.4.4}{Session two }{chapter.4}% 64
-\BOOKMARK [2][-]{subsection.4.4.1}{Prototype and discussion pictures}{section.4.4}% 65
-\BOOKMARK [1][-]{section.4.5}{Data Gathering}{chapter.4}% 66
-\BOOKMARK [1][-]{section.4.6}{Conducting the Focus Group}{chapter.4}% 67
-\BOOKMARK [1][-]{section.4.7}{Analyzing}{chapter.4}% 68
-\BOOKMARK [1][-]{section.4.8}{First Session Findings}{chapter.4}% 69
-\BOOKMARK [2][-]{subsection.4.8.1}{Reason of Bauhaus-Walk and advertisement}{section.4.8}% 70
-\BOOKMARK [2][-]{subsection.4.8.2}{Target group}{section.4.8}% 71
-\BOOKMARK [2][-]{subsection.4.8.3}{Peak Tour times}{section.4.8}% 72
-\BOOKMARK [2][-]{subsection.4.8.4}{Possible advertisement location}{section.4.8}% 73
-\BOOKMARK [2][-]{subsection.4.8.5}{Content of advertisement}{section.4.8}% 74
-\BOOKMARK [2][-]{subsection.4.8.6}{Interaction of advertisement}{section.4.8}% 75
-\BOOKMARK [1][-]{section.4.9}{SecondSession Findings}{chapter.4}% 76
-\BOOKMARK [2][-]{subsection.4.9.1}{Prototype discussion}{section.4.9}% 77
-\BOOKMARK [3][-]{section*.36}{Chess-Game}{subsection.4.9.1}% 78
-\BOOKMARK [3][-]{section*.37}{Map-Game}{subsection.4.9.1}% 79
-\BOOKMARK [2][-]{subsection.4.9.2}{New ideas}{section.4.9}% 80
-\BOOKMARK [1][-]{section.4.10}{Conclusion}{chapter.4}% 81
-\BOOKMARK [0][-]{chapter.5}{Advertisement Low fidelity prototype}{}% 82
-\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 83
-\BOOKMARK [1][-]{section.5.2}{Requirement gathering}{chapter.5}% 84
-\BOOKMARK [2][-]{subsection.5.2.1}{Functional Requirements}{section.5.2}% 85
-\BOOKMARK [2][-]{subsection.5.2.2}{Non-functional Requirements}{section.5.2}% 86
-\BOOKMARK [1][-]{section.5.3}{Personas}{chapter.5}% 87
-\BOOKMARK [1][-]{section.5.4}{Use case diagrams}{chapter.5}% 88
-\BOOKMARK [1][-]{section.5.5}{Design study}{chapter.5}% 89
-\BOOKMARK [2][-]{subsection.5.5.1}{Procedures}{section.5.5}% 90
-\BOOKMARK [2][-]{subsection.5.5.2}{Subjects}{section.5.5}% 91
-\BOOKMARK [2][-]{subsection.5.5.3}{Evaluation}{section.5.5}% 92
-\BOOKMARK [2][-]{subsection.5.5.4}{Hypothesis}{section.5.5}% 93
-\BOOKMARK [3][-]{section*.40}{Body Interaction}{subsection.5.5.4}% 94
-\BOOKMARK [2][-]{subsection.5.5.5}{Mobile Interaction}{section.5.5}% 95
-\BOOKMARK [1][-]{section.5.6}{Data gathering}{chapter.5}% 96
-\BOOKMARK [2][-]{subsection.5.6.1}{Video recording}{section.5.6}% 97
-\BOOKMARK [2][-]{subsection.5.6.2}{Direct observation}{section.5.6}% 98
-\BOOKMARK [2][-]{subsection.5.6.3}{Think aloud}{section.5.6}% 99
-\BOOKMARK [2][-]{subsection.5.6.4}{Interviews}{section.5.6}% 100
-\BOOKMARK [1][-]{section.5.7}{Data Analyzing}{chapter.5}% 101
-\BOOKMARK [2][-]{subsection.5.7.1}{Usability issues chart}{section.5.7}% 102
-\BOOKMARK [2][-]{subsection.5.7.2}{Body Interactions usability chart}{section.5.7}% 103
-\BOOKMARK [3][-]{section*.42}{Mobile usability chart}{subsection.5.7.2}% 104
-\BOOKMARK [1][-]{section.5.8}{Hypothesis decisions}{chapter.5}% 105
-\BOOKMARK [2][-]{subsection.5.8.1}{Body Interaction}{section.5.8}% 106
-\BOOKMARK [2][-]{subsection.5.8.2}{Mobile Interaction}{section.5.8}% 107
-\BOOKMARK [2][-]{subsection.5.8.3}{Interview analyzing}{section.5.8}% 108
-\BOOKMARK [1][-]{section.5.9}{Conclusions}{chapter.5}% 109
-\BOOKMARK [0][-]{chapter.6}{Advertisement High Fidelity prototype}{}% 110
-\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 111
-\BOOKMARK [1][-]{section.6.2}{Interactive Advertisement}{chapter.6}% 112
-\BOOKMARK [2][-]{subsection.6.2.1}{Mobile}{section.6.2}% 113
-\BOOKMARK [3][-]{section*.43}{Features}{subsection.6.2.1}% 114
-\BOOKMARK [3][-]{section*.44}{Flow chart}{subsection.6.2.1}% 115
-\BOOKMARK [2][-]{subsection.6.2.2}{Body}{section.6.2}% 116
-\BOOKMARK [3][-]{section*.45}{Features}{subsection.6.2.2}% 117
-\BOOKMARK [3][-]{section*.46}{Flow chart}{subsection.6.2.2}% 118
-\BOOKMARK [1][-]{section.6.3}{Research questions}{chapter.6}% 119
-\BOOKMARK [2][-]{subsection.6.3.1}{Body and Mobile interactions}{section.6.3}% 120
-\BOOKMARK [2][-]{subsection.6.3.2}{Video advertisement}{section.6.3}% 121
-\BOOKMARK [1][-]{section.6.4}{Test Design}{chapter.6}% 122
-\BOOKMARK [2][-]{subsection.6.4.1}{Participants}{section.6.4}% 123
-\BOOKMARK [2][-]{subsection.6.4.2}{Task}{section.6.4}% 124
-\BOOKMARK [3][-]{section*.48}{Call to action understandability}{subsection.6.4.2}% 125
-\BOOKMARK [3][-]{section*.49}{Task understandability}{subsection.6.4.2}% 126
-\BOOKMARK [3][-]{section*.50}{Task completion time}{subsection.6.4.2}% 127
-\BOOKMARK [3][-]{section*.51}{Content of Advertisement}{subsection.6.4.2}% 128
-\BOOKMARK [3][-]{section*.52}{Usability issues}{subsection.6.4.2}% 129
-\BOOKMARK [1][-]{section.6.5}{Data Gathering }{chapter.6}% 130
-\BOOKMARK [2][-]{subsection.6.5.1}{Performance data}{section.6.5}% 131
-\BOOKMARK [2][-]{subsection.6.5.2}{Preference data}{section.6.5}% 132
-\BOOKMARK [2][-]{subsection.6.5.3}{Think aloud quotes}{section.6.5}% 133
-\BOOKMARK [2][-]{subsection.6.5.4}{Interview transcripts}{section.6.5}% 134
-\BOOKMARK [1][-]{section.6.6}{Findings}{chapter.6}% 135
-\BOOKMARK [2][-]{subsection.6.6.1}{Mobile Interaction performance}{section.6.6}% 136
-\BOOKMARK [2][-]{subsection.6.6.2}{Body Interaction performance}{section.6.6}% 137
-\BOOKMARK [2][-]{subsection.6.6.3}{Body Vs. Mobile performance}{section.6.6}% 138
-\BOOKMARK [2][-]{subsection.6.6.4}{Usability issues}{section.6.6}% 139
-\BOOKMARK [3][-]{section*.61}{Mobile Interaction}{subsection.6.6.4}% 140
-\BOOKMARK [3][-]{section*.62}{Body Interaction}{subsection.6.6.4}% 141
-\BOOKMARK [3][-]{section*.63}{Advertisement video}{subsection.6.6.4}% 142
-\BOOKMARK [1][-]{section.6.7}{Advertisement goal}{chapter.6}% 143
-\BOOKMARK [2][-]{subsection.6.7.1}{Did users understand about advertisement?}{section.6.7}% 144
-\BOOKMARK [2][-]{subsection.6.7.2}{Word cloud \(Wordle\)}{section.6.7}% 145
-\BOOKMARK [2][-]{subsection.6.7.3}{Key factors for advertisement understanding}{section.6.7}% 146
-\BOOKMARK [2][-]{subsection.6.7.4}{Interview Findings}{section.6.7}% 147
-\BOOKMARK [3][-]{section*.66}{Mobile Categories}{subsection.6.7.4}% 148
-\BOOKMARK [3][-]{section*.67}{Body Categories}{subsection.6.7.4}% 149
-\BOOKMARK [3][-]{section*.68}{Advertisement}{subsection.6.7.4}% 150
-\BOOKMARK [1][-]{section.6.8}{Discussion}{chapter.6}% 151
-\BOOKMARK [1][-]{section.6.9}{Conclusion}{chapter.6}% 152
-\BOOKMARK [0][-]{chapter.7}{Advertisement application}{}% 153
-\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 154
-\BOOKMARK [1][-]{section.7.2}{Requirement gathering}{chapter.7}% 155
-\BOOKMARK [1][-]{section.7.3}{Software }{chapter.7}% 156
-\BOOKMARK [1][-]{section.7.4}{Mobile}{chapter.7}% 157
-\BOOKMARK [1][-]{section.7.5}{Body}{chapter.7}% 158
-\BOOKMARK [1][-]{section.7.6}{Auto active}{chapter.7}% 159
-\BOOKMARK [1][-]{section.7.7}{Hardware}{chapter.7}% 160
-\BOOKMARK [1][-]{section.7.8}{Application logic}{chapter.7}% 161
-\BOOKMARK [0][-]{chapter.8}{Interactive and non Interactive on site study}{}% 162
-\BOOKMARK [1][-]{section.8.1}{Introduction}{chapter.8}% 163
-\BOOKMARK [1][-]{section.8.2}{Interactive Advertisement}{chapter.8}% 164
-\BOOKMARK [1][-]{section.8.3}{Auto Interactive Advertisement}{chapter.8}% 165
-\BOOKMARK [1][-]{section.8.4}{Problem Statement}{chapter.8}% 166
-\BOOKMARK [1][-]{section.8.5}{Design study}{chapter.8}% 167
-\BOOKMARK [1][-]{section.8.6}{Data gathering}{chapter.8}% 168
-\BOOKMARK [0][-]{chapter.9}{Advertisement enhancement}{}% 169
-\BOOKMARK [1][-]{section.9.1}{Introduction}{chapter.9}% 170
-\BOOKMARK [1][-]{section.9.2}{Introduction}{chapter.9}% 171
-\BOOKMARK [1][-]{section.9.3}{Attraction attention}{chapter.9}% 172
-\BOOKMARK [1][-]{section.9.4}{Motivation}{chapter.9}% 173
-\BOOKMARK [1][-]{section.9.5}{Interaction}{chapter.9}% 174
-\BOOKMARK [1][-]{section.9.6}{Design study}{chapter.9}% 175
-\BOOKMARK [1][-]{section.9.7}{Data gathering}{chapter.9}% 176
-\BOOKMARK [1][-]{section.9.8}{Findings and results}{chapter.9}% 177
-\BOOKMARK [1][-]{section.9.9}{Discussions}{chapter.9}% 178
-\BOOKMARK [0][-]{chapter.10}{Conclusion}{}% 179
-\BOOKMARK [1][-]{section.10.1}{Introduction}{chapter.10}% 180
-\BOOKMARK [1][-]{section.10.2}{Attention attraction study}{chapter.10}% 181
-\BOOKMARK [1][-]{section.10.3}{nteraction}{chapter.10}% 182
-\BOOKMARK [1][-]{section.10.4}{Motivation}{chapter.10}% 183
-\BOOKMARK [1][-]{section.10.5}{Future work}{chapter.10}% 184
-\BOOKMARK [0][-]{appendix.A}{Appendix Title Here}{}% 185
+\BOOKMARK [1][-]{section.3.3}{Approaches}{chapter.3}% 41
+\BOOKMARK [2][-]{subsection.3.3.1}{Prototypes}{section.3.3}% 42
+\BOOKMARK [2][-]{subsection.3.3.2}{Hypothesis}{section.3.3}% 43
+\BOOKMARK [1][-]{section.3.4}{Study design}{chapter.3}% 44
+\BOOKMARK [2][-]{subsection.3.4.1}{Participants}{section.3.4}% 45
+\BOOKMARK [2][-]{subsection.3.4.2}{Location}{section.3.4}% 46
+\BOOKMARK [2][-]{subsection.3.4.3}{Procedures}{section.3.4}% 47
+\BOOKMARK [1][-]{section.3.5}{Data gathering}{chapter.3}% 48
+\BOOKMARK [2][-]{subsection.3.5.1}{Observation}{section.3.5}% 49
+\BOOKMARK [2][-]{subsection.3.5.2}{Interviews}{section.3.5}% 50
+\BOOKMARK [1][-]{section.3.6}{Findings}{chapter.3}% 51
+\BOOKMARK [2][-]{subsection.3.6.1}{Observation findings}{section.3.6}% 52
+\BOOKMARK [2][-]{subsection.3.6.2}{Interview Findings}{section.3.6}% 53
+\BOOKMARK [3][-]{section*.26}{Good Advertisement}{subsection.3.6.2}% 54
+\BOOKMARK [3][-]{section*.27}{Bad Advertisement}{subsection.3.6.2}% 55
+\BOOKMARK [1][-]{section.3.7}{Discussions}{chapter.3}% 56
+\BOOKMARK [1][-]{section.3.8}{Conclusion}{chapter.3}% 57
+\BOOKMARK [0][-]{chapter.4}{Advertisement decision}{}% 58
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 59
+\BOOKMARK [1][-]{section.4.2}{Goal}{chapter.4}% 60
+\BOOKMARK [1][-]{section.4.3}{Methods}{chapter.4}% 61
+\BOOKMARK [2][-]{subsection.4.3.1}{Participants}{section.4.3}% 62
+\BOOKMARK [2][-]{subsection.4.3.2}{Focus-Group Environment}{section.4.3}% 63
+\BOOKMARK [2][-]{subsection.4.3.3}{Warm Welcome and Introduction}{section.4.3}% 64
+\BOOKMARK [2][-]{subsection.4.3.4}{Discussion session}{section.4.3}% 65
+\BOOKMARK [2][-]{subsection.4.3.5}{Consent Form}{section.4.3}% 66
+\BOOKMARK [2][-]{subsection.4.3.6}{Topic Questions}{section.4.3}% 67
+\BOOKMARK [1][-]{section.4.4}{Session two }{chapter.4}% 68
+\BOOKMARK [2][-]{subsection.4.4.1}{Prototype and discussion pictures}{section.4.4}% 69
+\BOOKMARK [1][-]{section.4.5}{Data Gathering}{chapter.4}% 70
+\BOOKMARK [1][-]{section.4.6}{Conducting the Focus Group}{chapter.4}% 71
+\BOOKMARK [1][-]{section.4.7}{Analyzing}{chapter.4}% 72
+\BOOKMARK [1][-]{section.4.8}{First Session Findings}{chapter.4}% 73
+\BOOKMARK [2][-]{subsection.4.8.1}{Reason of Bauhaus-Walk and advertisement}{section.4.8}% 74
+\BOOKMARK [2][-]{subsection.4.8.2}{Target group}{section.4.8}% 75
+\BOOKMARK [2][-]{subsection.4.8.3}{Peak Tour times}{section.4.8}% 76
+\BOOKMARK [2][-]{subsection.4.8.4}{Possible advertisement location}{section.4.8}% 77
+\BOOKMARK [2][-]{subsection.4.8.5}{Content of advertisement}{section.4.8}% 78
+\BOOKMARK [2][-]{subsection.4.8.6}{Interaction of advertisement}{section.4.8}% 79
+\BOOKMARK [1][-]{section.4.9}{SecondSession Findings}{chapter.4}% 80
+\BOOKMARK [2][-]{subsection.4.9.1}{Prototype discussion}{section.4.9}% 81
+\BOOKMARK [3][-]{section*.35}{Chess-Game}{subsection.4.9.1}% 82
+\BOOKMARK [3][-]{section*.36}{Map-Game}{subsection.4.9.1}% 83
+\BOOKMARK [2][-]{subsection.4.9.2}{New ideas}{section.4.9}% 84
+\BOOKMARK [1][-]{section.4.10}{Conclusion}{chapter.4}% 85
+\BOOKMARK [0][-]{chapter.5}{Advertisement Low fidelity prototype}{}% 86
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 87
+\BOOKMARK [1][-]{section.5.2}{Requirement gathering}{chapter.5}% 88
+\BOOKMARK [2][-]{subsection.5.2.1}{Functional Requirements}{section.5.2}% 89
+\BOOKMARK [2][-]{subsection.5.2.2}{Non-functional Requirements}{section.5.2}% 90
+\BOOKMARK [1][-]{section.5.3}{Personas}{chapter.5}% 91
+\BOOKMARK [1][-]{section.5.4}{Use case diagrams}{chapter.5}% 92
+\BOOKMARK [1][-]{section.5.5}{Design study}{chapter.5}% 93
+\BOOKMARK [2][-]{subsection.5.5.1}{Procedures}{section.5.5}% 94
+\BOOKMARK [2][-]{subsection.5.5.2}{Subjects}{section.5.5}% 95
+\BOOKMARK [2][-]{subsection.5.5.3}{Evaluation}{section.5.5}% 96
+\BOOKMARK [2][-]{subsection.5.5.4}{Hypothesis}{section.5.5}% 97
+\BOOKMARK [3][-]{section*.39}{Body Interaction}{subsection.5.5.4}% 98
+\BOOKMARK [2][-]{subsection.5.5.5}{Mobile Interaction}{section.5.5}% 99
+\BOOKMARK [1][-]{section.5.6}{Data gathering}{chapter.5}% 100
+\BOOKMARK [2][-]{subsection.5.6.1}{Video recording}{section.5.6}% 101
+\BOOKMARK [2][-]{subsection.5.6.2}{Direct observation}{section.5.6}% 102
+\BOOKMARK [2][-]{subsection.5.6.3}{Think aloud}{section.5.6}% 103
+\BOOKMARK [2][-]{subsection.5.6.4}{Interviews}{section.5.6}% 104
+\BOOKMARK [1][-]{section.5.7}{Data Analyzing}{chapter.5}% 105
+\BOOKMARK [2][-]{subsection.5.7.1}{Usability issues chart}{section.5.7}% 106
+\BOOKMARK [2][-]{subsection.5.7.2}{Body Interactions usability chart}{section.5.7}% 107
+\BOOKMARK [3][-]{section*.41}{Mobile usability chart}{subsection.5.7.2}% 108
+\BOOKMARK [1][-]{section.5.8}{Hypothesis decisions}{chapter.5}% 109
+\BOOKMARK [2][-]{subsection.5.8.1}{Body Interaction}{section.5.8}% 110
+\BOOKMARK [2][-]{subsection.5.8.2}{Mobile Interaction}{section.5.8}% 111
+\BOOKMARK [2][-]{subsection.5.8.3}{Interview analyzing}{section.5.8}% 112
+\BOOKMARK [1][-]{section.5.9}{Conclusions}{chapter.5}% 113
+\BOOKMARK [0][-]{chapter.6}{Advertisement High Fidelity prototype}{}% 114
+\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 115
+\BOOKMARK [1][-]{section.6.2}{Interactive Advertisement}{chapter.6}% 116
+\BOOKMARK [2][-]{subsection.6.2.1}{Mobile}{section.6.2}% 117
+\BOOKMARK [3][-]{section*.42}{Features}{subsection.6.2.1}% 118
+\BOOKMARK [3][-]{section*.43}{Flow chart}{subsection.6.2.1}% 119
+\BOOKMARK [2][-]{subsection.6.2.2}{Body}{section.6.2}% 120
+\BOOKMARK [3][-]{section*.44}{Features}{subsection.6.2.2}% 121
+\BOOKMARK [3][-]{section*.45}{Flow chart}{subsection.6.2.2}% 122
+\BOOKMARK [1][-]{section.6.3}{Research questions}{chapter.6}% 123
+\BOOKMARK [2][-]{subsection.6.3.1}{Body and Mobile interactions}{section.6.3}% 124
+\BOOKMARK [2][-]{subsection.6.3.2}{Video advertisement}{section.6.3}% 125
+\BOOKMARK [1][-]{section.6.4}{Test Design}{chapter.6}% 126
+\BOOKMARK [2][-]{subsection.6.4.1}{Participants}{section.6.4}% 127
+\BOOKMARK [2][-]{subsection.6.4.2}{Task}{section.6.4}% 128
+\BOOKMARK [3][-]{section*.47}{Call to action understandability}{subsection.6.4.2}% 129
+\BOOKMARK [3][-]{section*.48}{Task understandability}{subsection.6.4.2}% 130
+\BOOKMARK [3][-]{section*.49}{Task completion time}{subsection.6.4.2}% 131
+\BOOKMARK [3][-]{section*.50}{Content of Advertisement}{subsection.6.4.2}% 132
+\BOOKMARK [3][-]{section*.51}{Usability issues}{subsection.6.4.2}% 133
+\BOOKMARK [1][-]{section.6.5}{Data Gathering }{chapter.6}% 134
+\BOOKMARK [2][-]{subsection.6.5.1}{Performance data}{section.6.5}% 135
+\BOOKMARK [2][-]{subsection.6.5.2}{Preference data}{section.6.5}% 136
+\BOOKMARK [2][-]{subsection.6.5.3}{Think aloud quotes}{section.6.5}% 137
+\BOOKMARK [2][-]{subsection.6.5.4}{Interview transcripts}{section.6.5}% 138
+\BOOKMARK [1][-]{section.6.6}{Findings}{chapter.6}% 139
+\BOOKMARK [2][-]{subsection.6.6.1}{Mobile Interaction performance}{section.6.6}% 140
+\BOOKMARK [2][-]{subsection.6.6.2}{Body Interaction performance}{section.6.6}% 141
+\BOOKMARK [2][-]{subsection.6.6.3}{Body Vs. Mobile performance}{section.6.6}% 142
+\BOOKMARK [2][-]{subsection.6.6.4}{Usability issues}{section.6.6}% 143
+\BOOKMARK [3][-]{section*.60}{Mobile Interaction}{subsection.6.6.4}% 144
+\BOOKMARK [3][-]{section*.61}{Body Interaction}{subsection.6.6.4}% 145
+\BOOKMARK [3][-]{section*.62}{Advertisement video}{subsection.6.6.4}% 146
+\BOOKMARK [1][-]{section.6.7}{Advertisement goal}{chapter.6}% 147
+\BOOKMARK [2][-]{subsection.6.7.1}{Did users understand about advertisement?}{section.6.7}% 148
+\BOOKMARK [2][-]{subsection.6.7.2}{Word cloud \(Wordle\)}{section.6.7}% 149
+\BOOKMARK [2][-]{subsection.6.7.3}{Key factors for advertisement understanding}{section.6.7}% 150
+\BOOKMARK [2][-]{subsection.6.7.4}{Interview Findings}{section.6.7}% 151
+\BOOKMARK [3][-]{section*.65}{Mobile Categories}{subsection.6.7.4}% 152
+\BOOKMARK [3][-]{section*.66}{Body Categories}{subsection.6.7.4}% 153
+\BOOKMARK [3][-]{section*.67}{Advertisement}{subsection.6.7.4}% 154
+\BOOKMARK [1][-]{section.6.8}{Discussion}{chapter.6}% 155
+\BOOKMARK [1][-]{section.6.9}{Conclusion}{chapter.6}% 156
+\BOOKMARK [0][-]{chapter.7}{Advertisement application}{}% 157
+\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 158
+\BOOKMARK [1][-]{section.7.2}{Requirement gathering}{chapter.7}% 159
+\BOOKMARK [1][-]{section.7.3}{Software }{chapter.7}% 160
+\BOOKMARK [1][-]{section.7.4}{Mobile}{chapter.7}% 161
+\BOOKMARK [1][-]{section.7.5}{Body}{chapter.7}% 162
+\BOOKMARK [1][-]{section.7.6}{Auto active}{chapter.7}% 163
+\BOOKMARK [1][-]{section.7.7}{Hardware}{chapter.7}% 164
+\BOOKMARK [1][-]{section.7.8}{Application logic}{chapter.7}% 165
+\BOOKMARK [0][-]{chapter.8}{Interactive and non Interactive on site study}{}% 166
+\BOOKMARK [1][-]{section.8.1}{Introduction}{chapter.8}% 167
+\BOOKMARK [1][-]{section.8.2}{Interactive Advertisement}{chapter.8}% 168
+\BOOKMARK [1][-]{section.8.3}{Auto Interactive Advertisement}{chapter.8}% 169
+\BOOKMARK [1][-]{section.8.4}{Problem Statement}{chapter.8}% 170
+\BOOKMARK [1][-]{section.8.5}{Design study}{chapter.8}% 171
+\BOOKMARK [1][-]{section.8.6}{Data gathering}{chapter.8}% 172
+\BOOKMARK [0][-]{chapter.9}{Advertisement enhancement}{}% 173
+\BOOKMARK [1][-]{section.9.1}{Introduction}{chapter.9}% 174
+\BOOKMARK [1][-]{section.9.2}{Introduction}{chapter.9}% 175
+\BOOKMARK [1][-]{section.9.3}{Attraction attention}{chapter.9}% 176
+\BOOKMARK [1][-]{section.9.4}{Motivation}{chapter.9}% 177
+\BOOKMARK [1][-]{section.9.5}{Interaction}{chapter.9}% 178
+\BOOKMARK [1][-]{section.9.6}{Design study}{chapter.9}% 179
+\BOOKMARK [1][-]{section.9.7}{Data gathering}{chapter.9}% 180
+\BOOKMARK [1][-]{section.9.8}{Findings and results}{chapter.9}% 181
+\BOOKMARK [1][-]{section.9.9}{Discussions}{chapter.9}% 182
+\BOOKMARK [0][-]{chapter.10}{Conclusion}{}% 183
+\BOOKMARK [1][-]{section.10.1}{Introduction}{chapter.10}% 184
+\BOOKMARK [1][-]{section.10.2}{Attention attraction study}{chapter.10}% 185
+\BOOKMARK [1][-]{section.10.3}{nteraction}{chapter.10}% 186
+\BOOKMARK [1][-]{section.10.4}{Motivation}{chapter.10}% 187
+\BOOKMARK [1][-]{section.10.5}{Future work}{chapter.10}% 188
+\BOOKMARK [0][-]{appendix.A}{Appendix}{}% 189
+\BOOKMARK [1][-]{section.A.1}{Glance count sheet}{appendix.A}% 190
+\BOOKMARK [1][-]{section.A.2}{Consent Form}{appendix.A}% 191
+\BOOKMARK [1][-]{section.A.3}{Interview Questionnaire}{appendix.A}% 192

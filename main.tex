@@ -56,6 +56,9 @@ headsepline, % Uncomment to get a line under the header
 \usepackage{color}
 \usepackage{float}
 \usepackage{hyperref}
+\usepackage{pdfpages}
+
+
 
 %----------------------------------------------------------------------------------------
 %	MARGIN SETTINGS
@@ -276,19 +279,6 @@ $\omega$ & angular frequency & \si{\radian} \\
 
 
 %----------------------------------------------------------------------------------------
-%	THESIS CONTENT - APPENDICES
-%----------------------------------------------------------------------------------------
-
-\appendix % Cue to tell LaTeX that the following "chapters" are Appendices
-
-% Include the appendices of the thesis as separate files from the Appendices folder
-% Uncomment the lines as you write the Appendices
-
-\include{Appendices/AppendixA}
-%\include{Appendices/AppendixB}
-%\include{Appendices/AppendixC}
-
-%----------------------------------------------------------------------------------------
 %	BIBLIOGRAPHY
 %----------------------------------------------------------------------------------------
 \bibliographystyle{plain}
@@ -300,5 +290,25 @@ $\omega$ & angular frequency & \si{\radian} \\
 %\printbibliography[heading=bibintoc]
 
 %----------------------------------------------------------------------------------------
+
+
+
+%----------------------------------------------------------------------------------------
+%	THESIS CONTENT - APPENDICES
+%----------------------------------------------------------------------------------------
+
+\appendix % Cue to tell LaTeX that the following "chapters" are Appendices
+
+% Include the appendices of the thesis as separate files from the Appendices folder
+% Uncomment the lines as you write the Appendices
+
+\include{Appendices/Appendix}
+%\include{Appendices/AppendixB}
+%\include{Appendices/AppendixC}
+
+
+
+
+
 
 \end{document}  
