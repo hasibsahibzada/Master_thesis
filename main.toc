@@ -169,29 +169,50 @@
 \contentsline {subsection}{\numberline {8.6.1}Duration}{66}{subsection.8.6.1}
 \contentsline {subsection}{\numberline {8.6.2}Location}{66}{subsection.8.6.2}
 \contentsline {subsection}{\numberline {8.6.3}Participants}{67}{subsection.8.6.3}
-\contentsline {subsection}{\numberline {8.6.4}Procedure}{67}{subsection.8.6.4}
-\contentsline {subsubsection}{Advertisement week sequence}{67}{section*.79}
+\contentsline {subsection}{\numberline {8.6.4}Advertisement week sequence}{67}{subsection.8.6.4}
 \contentsline {section}{\numberline {8.7}Data gathering}{67}{section.8.7}
-\contentsline {chapter}{\numberline {9}Advertisement enhancement}{69}{chapter.9}
-\contentsline {section}{\numberline {9.1}Introduction}{69}{section.9.1}
-\contentsline {section}{\numberline {9.2}Introduction}{69}{section.9.2}
-\contentsline {section}{\numberline {9.3}Attraction attention}{69}{section.9.3}
-\contentsline {section}{\numberline {9.4}Motivation}{69}{section.9.4}
-\contentsline {section}{\numberline {9.5}Interaction}{69}{section.9.5}
-\contentsline {section}{\numberline {9.6}Design study}{69}{section.9.6}
-\contentsline {section}{\numberline {9.7}Data gathering}{69}{section.9.7}
-\contentsline {section}{\numberline {9.8}Findings and results}{69}{section.9.8}
-\contentsline {section}{\numberline {9.9}Discussions}{69}{section.9.9}
-\contentsline {chapter}{\numberline {10}Conclusion}{71}{chapter.10}
-\contentsline {section}{\numberline {10.1}Introduction}{71}{section.10.1}
-\contentsline {section}{\numberline {10.2}Attention attraction study}{71}{section.10.2}
-\contentsline {section}{\numberline {10.3}nteraction}{71}{section.10.3}
-\contentsline {section}{\numberline {10.4}Motivation}{71}{section.10.4}
-\contentsline {section}{\numberline {10.5}Future work}{71}{section.10.5}
-\contentsline {chapter}{\numberline {A}Appendix}{75}{appendix.A}
-\contentsline {section}{\numberline {A.1}Glance count sheet}{76}{section.A.1}
-\contentsline {section}{\numberline {A.2}Consent Form}{77}{section.A.2}
-\contentsline {section}{\numberline {A.3}Interview Questionnaire}{78}{section.A.3}
-\contentsline {chapter}{\numberline {B}Focus group skitches}{79}{appendix.B}
-\contentsline {chapter}{\numberline {C}Low fidelity}{83}{appendix.C}
-\contentsline {section}{\numberline {C.1}Coded Interviews}{84}{section.C.1}
+\contentsline {section}{\numberline {8.8}Data Analysing}{69}{section.8.8}
+\contentsline {subsection}{\numberline {8.8.1}Individual week analysing}{69}{subsection.8.8.1}
+\contentsline {subsection}{\numberline {8.8.2}Comparison of different advertisement}{70}{subsection.8.8.2}
+\contentsline {section}{\numberline {8.9}Findings}{70}{section.8.9}
+\contentsline {subsection}{\numberline {8.9.1}Individual advertisement}{70}{subsection.8.9.1}
+\contentsline {subsubsection}{Non-Interactive findings}{70}{section*.81}
+\contentsline {subsubsection}{Body Interactive findings}{73}{section*.87}
+\contentsline {subsubsection}{Mobile Interactive findings}{77}{section*.94}
+\contentsline {subsection}{\numberline {8.9.2}Comparison of advertisements}{80}{subsection.8.9.2}
+\contentsline {subsubsection}{Hypothesis}{80}{section*.100}
+\contentsline {chapter}{\numberline {9}Advertisement enhancement}{81}{chapter.9}
+\contentsline {section}{\numberline {9.1}Introduction}{81}{section.9.1}
+\contentsline {section}{\numberline {9.2}Introduction}{81}{section.9.2}
+\contentsline {section}{\numberline {9.3}Attraction attention}{81}{section.9.3}
+\contentsline {section}{\numberline {9.4}Motivation}{81}{section.9.4}
+\contentsline {section}{\numberline {9.5}Interaction}{81}{section.9.5}
+\contentsline {section}{\numberline {9.6}Design study}{81}{section.9.6}
+\contentsline {section}{\numberline {9.7}Data gathering}{81}{section.9.7}
+\contentsline {section}{\numberline {9.8}Findings and results}{81}{section.9.8}
+\contentsline {section}{\numberline {9.9}Discussions}{81}{section.9.9}
+\contentsline {chapter}{\numberline {10}Conclusion}{83}{chapter.10}
+\contentsline {section}{\numberline {10.1}Introduction}{83}{section.10.1}
+\contentsline {section}{\numberline {10.2}Attention attraction study}{83}{section.10.2}
+\contentsline {section}{\numberline {10.3}nteraction}{83}{section.10.3}
+\contentsline {section}{\numberline {10.4}Motivation}{83}{section.10.4}
+\contentsline {section}{\numberline {10.5}Future work}{83}{section.10.5}
+\contentsline {chapter}{\numberline {A}Appendix}{87}{appendix.A}
+\contentsline {section}{\numberline {A.1}Glance count sheet}{88}{section.A.1}
+\contentsline {section}{\numberline {A.2}Consent Form}{89}{section.A.2}
+\contentsline {section}{\numberline {A.3}Interview Questionnaire}{90}{section.A.3}
+\contentsline {chapter}{\numberline {B}Focus group skitches}{91}{appendix.B}
+\contentsline {chapter}{\numberline {C}Low fidelity}{95}{appendix.C}
+\contentsline {section}{\numberline {C.1}Coded Interviews}{96}{section.C.1}
+\contentsline {chapter}{\numberline {D}Onsite study}{97}{appendix.D}
+\contentsline {section}{\numberline {D.1}Interview Questionnaire}{98}{section.D.1}
+\contentsline {section}{\numberline {D.2}Non-Interactive glance count}{99}{section.D.2}
+\contentsline {section}{\numberline {D.3}Body Interactive glance count}{100}{section.D.3}
+\contentsline {section}{\numberline {D.4}Mobile Interactive glance count}{101}{section.D.4}
+\contentsline {section}{\numberline {D.5}Non-Interactive interview code}{102}{section.D.5}
+\contentsline {section}{\numberline {D.6}Body Interactive interview code}{103}{section.D.6}
+\contentsline {section}{\numberline {D.7}Mobile Interactive interview code}{104}{section.D.7}
+\contentsline {section}{\numberline {D.8}Non-Interactive observation notes}{105}{section.D.8}
+\contentsline {section}{\numberline {D.9}Body Interactive observation notes (1)}{106}{section.D.9}
+\contentsline {section}{\numberline {D.10}Body Interactive observation notes (2)}{107}{section.D.10}
+\contentsline {section}{\numberline {D.11}Mobile Interactive observation notes}{108}{section.D.11}
