@@ -190,9 +190,11 @@ These two effects were observed mainly from the depth frames and also partially 
 
 \subsubsection{Non-Interactive findings}
 
-\begin{enumerate}
-\item Attention Level measurements
 
+
+\begin{enumerate}
+
+\item Attention Level measurements
 
 \begin{figure}[H]
     \centering
@@ -228,7 +230,7 @@ The average engagement time was about 34.02 seconds.
 \begin{figure}[H]
     \centering
     \includegraphics[width=110mm,height=60mm]{Figures/8/non_inter_findings/non_eng_percentage}
-    \caption{Percentage of engaged and passerby}%
+    \caption{Non-Interactive Percentage of engaged and passerby}%
     \label{fig:Nonengagedpasserbypercentage}%
 \end{figure}
 
@@ -472,7 +474,6 @@ In average the engagement for the passerby took 21.70 seconds
 
 
 
-
 \item Interview
 
 
@@ -494,24 +495,194 @@ see Appendix \ref{AppendixD}.11
 
 \subsection{Comparison of advertisements}
 
-
 \subsubsection{Hypothesis}
 
 
 \begin{enumerate}
+
+\item Number of passerby
+
+
+\begin{table}[H]
+\caption{Number of people in three weeks}
+\label{tab:passerbyofthreeweeks}
+\centering
+\begin{tabular}{| l | c | c | c |}
+\toprule
+\tabhead{Days} & \tabhead{First week} & \tabhead{Second week} & \tabhead{Third week} \\
+\midrule
+\textbf{Day 1}  & 232 & 178 &  172 \\
+\midrule
+\textbf{Day 2}  & 170 & 220 &  175 \\
+\midrule
+\textbf{Day 3}  & 212 & 259 &  176 \\
+\midrule
+\textbf{Day 4}  & 209 & 216 &  240 \\
+\midrule
+\textbf{Day 5}  & 208 & 122 &  89  \\
+\midrule
+\textbf{Total}  & 1031 & 995 & 852 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+ANOVA test revealed that there is no significant different of passers-by between each of the weeks \\
+ \emph{(F2,5)=0.8873, p >.05 (p=0.437)}
+
 \item Attention Level measurements
 
 
-\item Engagement time
-\item Engagement phases
-\item Passerby and interactions
+% table
+\begin{table}[H]
+\caption{Cross tabulation for each week attention level }
+\label{tab:crosstabulationweeks}
+\centering
+\begin{tabular}{| l | c | c | c |}
+\toprule
+\tabhead{Method} & \tabhead{Glanced (\%)} & \tabhead{Ignored} & \tabhead{Total } \\
+\midrule
+\textbf{First week}     & 111(\%28.83)   &   274      &   385\\
+\midrule
+\textbf{Second week }   & 96 (\%38.70)   &   152      &   248\\
+\midrule
+\textbf{Third week }    & 80 (\%33.75)   &   157      &   237\\
+\midrule
+\textbf{Total }         & 287            &   583      &   870\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+Running chi-square test to see the significant between different advertisement conditions and the bellow result shows that they are statistically significant.
+${\chi}^2$\emph{(2, N=870)=6.7452, p < .05 (p=.03431)}
+
+To find the actual difference, each pairs were tested in between using chi-square.
+
+\begin{enumerate}
+\item Non-Interactive Vs Body Interactive \\
+The finding shows that body interactive advertisement had had significant number of glances than non-interactive advertisement. \\
+${\chi}^2$\emph{(1, N=633)=6.6883, p < .05 (p=.0097)}
+
+
+\item Non-Interactive Vs Mobile Interactive  \\
+The finding suggests that there is no significant difference between them.\\
+${\chi}^2$\emph{(1, N=622)=1.6716, p < .05 (p=.196039)}
+
+\item Body interactive Vs Mobile Interactive \\
+As can be expected the glances are not statistically significant among the body and mobile interactive advertisement.\\
+${\chi}^2$\emph{(1, N=485)=1.2866 , p < .05 (p=.25667)}
+
+\end{enumerate}
+
+
+\item Comparison of Engaged and Non-engaged passerby
+
+\hilight{Defind the hypothesis}
+
+\begin{table}[H]
+\caption{Number of engaged passerby in three weeks}
+\label{tab:engagedofthreeweeks}
+\centering
+\begin{tabular}{| l | c | c | c |}
+\toprule
+\tabhead{Days} & \tabhead{First week} & \tabhead{Second week} & \tabhead{Third week} \\
+\midrule
+\textbf{Day 1}  & 16 & 25 &  15 \\
+\midrule
+\textbf{Day 2}  & 18 & 21 &  9 \\
+\midrule
+\textbf{Day 3}  & 15 & 26 &  17 \\
+\midrule
+\textbf{Day 4}  & 15 & 20 &  20 \\
+\midrule
+\textbf{Day 5}  & 15 & 23 &  16  \\
+\midrule
+\textbf{Total}  & 79 & 115 & 77 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The ANOVA test strongly suggests that there is a significant difference of the number of Engaged passersby between these three weeks.\\
+ \emph{(F2,5)=11.20, p >.05 (p=.002)}
+
+To find where are the main difference between them, the post-hoc Tukey’s HSD test was conducted on each three pairs of the week to point out which of them exhibit statistically significant difference.
+
+\hilight{Ask if i need to show the results image}
+
+Group A, B and C refers to (Non-interactive, body interactive and mobile interactive) advertisement accordingly. As can be seen from the above chart, there is no significant difference between group A and C and group B which is body interactive advertisement shows a significant difference between A and C. it shows that the body interactive advertisement engaged significantly more passersby than other two types of advertisement.
+
+
 \item Landing effect
-\item Honeypot effect
+
+The bellow table shows how many honeypot and landing effects were recorded from the depth observation video.
+
+\begin{table}[H]
+\caption{Number of Landing effects in three weeks}
+\label{tab:landingeffectthreeweeks}
+\centering
+\begin{tabular}{| l | c | c | c |}
+\toprule
+\tabhead{Days} & \tabhead{First week} & \tabhead{Second week} & \tabhead{Third week} \\
+\midrule
+\textbf{Day 1}  & 1 & 2 &  0 \\
+\midrule
+\textbf{Day 2}  & 0 & 3 &  1 \\
+\midrule
+\textbf{Day 3}  & 2 & 2 &  2 \\
+\midrule
+\textbf{Day 4}  & 0 & 2 &  0 \\
+\midrule
+\textbf{Day 5}  & 1 & 3 &  1  \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\hilight{Defind the hypothesis}
+
+ANOVA test reveals that there is a significant difference between one or two above conditions, ( \emph{(F2,5)=7.529, p >.05 (p=.008)}). So we reject the Null hypothesis and state that one of the above conditions are statistically significant from the others, to confirm this we again run post-hoc Tukey’s HSD test on the above data.
+
+Group A, B and C refers to (Non-interactive,body interactive and mobile interactive) advertisement accordingly As can be seen the test shows that the condition A and C are insignificant but condition B is significant from A and C, which means that body interactive advertisement has statistically higher landing effects than other 
+
+
+\item Honeypot effect  \\
+The bellow table shows how many honeypot and landing effects were recorded from the depth observation video.
+
+
+\begin{table}[H]
+\caption{Number of Landing effects in three weeks}
+\label{tab:landingeffectthreeweeks}
+\centering
+\begin{tabular}{| l | c | c | c |}
+\toprule
+\tabhead{Days} & \tabhead{First week} & \tabhead{Second week} & \tabhead{Third week} \\
+\midrule
+\textbf{Day 1}  & 1 & 2 &  1 \\
+\midrule
+\textbf{Day 2}  & 1 & 3 &  0 \\
+\midrule
+\textbf{Day 3}  & 2 & 2 &  0 \\
+\midrule
+\textbf{Day 4}  & 2 & 5 &  0 \\
+\midrule
+\textbf{Day 5}  & 1 & 3 &  1  \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\hilight{Defind the hypothesis}
+
+ANOVA test reveals that there is a significant different between the groups
+(\emph{(F2,5)=12.29, p >.05 (p=.001)}), and after doing Post-hoc Tukey test it revealed that there is significant difference of Honeypot between Body Interactive and Mobile interactive advertisement, but less statistical different between Non-interactive and body interactive as the online tool gave one star for A and B and two stars for B and C.
+
+
+\item Engagement phases
+
 \item Interview
 \item Note taking
 \item Other observations
 \end{enumerate}
-
 
 
 

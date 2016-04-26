@@ -181,38 +181,46 @@
 \contentsline {subsubsection}{Mobile Interactive findings}{77}{section*.94}
 \contentsline {subsection}{\numberline {8.9.2}Comparison of advertisements}{80}{subsection.8.9.2}
 \contentsline {subsubsection}{Hypothesis}{80}{section*.100}
-\contentsline {chapter}{\numberline {9}Advertisement enhancement}{81}{chapter.9}
-\contentsline {section}{\numberline {9.1}Introduction}{81}{section.9.1}
-\contentsline {section}{\numberline {9.2}Introduction}{81}{section.9.2}
-\contentsline {section}{\numberline {9.3}Attraction attention}{81}{section.9.3}
-\contentsline {section}{\numberline {9.4}Motivation}{81}{section.9.4}
-\contentsline {section}{\numberline {9.5}Interaction}{81}{section.9.5}
-\contentsline {section}{\numberline {9.6}Design study}{81}{section.9.6}
-\contentsline {section}{\numberline {9.7}Data gathering}{81}{section.9.7}
-\contentsline {section}{\numberline {9.8}Findings and results}{81}{section.9.8}
-\contentsline {section}{\numberline {9.9}Discussions}{81}{section.9.9}
-\contentsline {chapter}{\numberline {10}Conclusion}{83}{chapter.10}
-\contentsline {section}{\numberline {10.1}Introduction}{83}{section.10.1}
-\contentsline {section}{\numberline {10.2}Attention attraction study}{83}{section.10.2}
-\contentsline {section}{\numberline {10.3}nteraction}{83}{section.10.3}
-\contentsline {section}{\numberline {10.4}Motivation}{83}{section.10.4}
-\contentsline {section}{\numberline {10.5}Future work}{83}{section.10.5}
-\contentsline {chapter}{\numberline {A}Appendix}{87}{appendix.A}
-\contentsline {section}{\numberline {A.1}Glance count sheet}{88}{section.A.1}
-\contentsline {section}{\numberline {A.2}Consent Form}{89}{section.A.2}
-\contentsline {section}{\numberline {A.3}Interview Questionnaire}{90}{section.A.3}
-\contentsline {chapter}{\numberline {B}Focus group skitches}{91}{appendix.B}
-\contentsline {chapter}{\numberline {C}Low fidelity}{95}{appendix.C}
-\contentsline {section}{\numberline {C.1}Coded Interviews}{96}{section.C.1}
-\contentsline {chapter}{\numberline {D}Onsite study}{97}{appendix.D}
-\contentsline {section}{\numberline {D.1}Interview Questionnaire}{98}{section.D.1}
-\contentsline {section}{\numberline {D.2}Non-Interactive glance count}{99}{section.D.2}
-\contentsline {section}{\numberline {D.3}Body Interactive glance count}{100}{section.D.3}
-\contentsline {section}{\numberline {D.4}Mobile Interactive glance count}{101}{section.D.4}
-\contentsline {section}{\numberline {D.5}Non-Interactive interview code}{102}{section.D.5}
-\contentsline {section}{\numberline {D.6}Body Interactive interview code}{103}{section.D.6}
-\contentsline {section}{\numberline {D.7}Mobile Interactive interview code}{104}{section.D.7}
-\contentsline {section}{\numberline {D.8}Non-Interactive observation notes}{105}{section.D.8}
-\contentsline {section}{\numberline {D.9}Body Interactive observation notes (1)}{106}{section.D.9}
-\contentsline {section}{\numberline {D.10}Body Interactive observation notes (2)}{107}{section.D.10}
-\contentsline {section}{\numberline {D.11}Mobile Interactive observation notes}{108}{section.D.11}
+\contentsline {chapter}{\numberline {9}Advertisement enhancement}{85}{chapter.9}
+\contentsline {section}{\numberline {9.1}Introduction}{85}{section.9.1}
+\contentsline {section}{\numberline {9.2}Introduction}{85}{section.9.2}
+\contentsline {section}{\numberline {9.3}Attraction attention}{85}{section.9.3}
+\contentsline {section}{\numberline {9.4}Motivation}{85}{section.9.4}
+\contentsline {section}{\numberline {9.5}Interaction}{85}{section.9.5}
+\contentsline {section}{\numberline {9.6}Design study}{85}{section.9.6}
+\contentsline {section}{\numberline {9.7}Data gathering}{85}{section.9.7}
+\contentsline {section}{\numberline {9.8}Findings and results}{85}{section.9.8}
+\contentsline {subsection}{\numberline {9.8.1}Attention Level measurements}{85}{subsection.9.8.1}
+\contentsline {subsection}{\numberline {9.8.2}Engagement time}{86}{subsection.9.8.2}
+\contentsline {subsection}{\numberline {9.8.3}Passerby and engagement}{86}{subsection.9.8.3}
+\contentsline {subsection}{\numberline {9.8.4}Landing and Honeypot effects}{87}{subsection.9.8.4}
+\contentsline {subsection}{\numberline {9.8.5}Note taking}{87}{subsection.9.8.5}
+\contentsline {subsection}{\numberline {9.8.6}Comparison with Body interaction}{87}{subsection.9.8.6}
+\contentsline {section}{\numberline {9.9}Discussions}{89}{section.9.9}
+\contentsline {chapter}{\numberline {10}Conclusion}{91}{chapter.10}
+\contentsline {section}{\numberline {10.1}Introduction}{91}{section.10.1}
+\contentsline {section}{\numberline {10.2}Attention attraction study}{91}{section.10.2}
+\contentsline {section}{\numberline {10.3}nteraction}{91}{section.10.3}
+\contentsline {section}{\numberline {10.4}Motivation}{91}{section.10.4}
+\contentsline {section}{\numberline {10.5}Future work}{91}{section.10.5}
+\contentsline {chapter}{\numberline {A}Appendix}{95}{appendix.A}
+\contentsline {section}{\numberline {A.1}Glance count sheet}{96}{section.A.1}
+\contentsline {section}{\numberline {A.2}Consent Form}{97}{section.A.2}
+\contentsline {section}{\numberline {A.3}Interview Questionnaire}{98}{section.A.3}
+\contentsline {chapter}{\numberline {B}Focus group skitches}{99}{appendix.B}
+\contentsline {chapter}{\numberline {C}Low fidelity}{103}{appendix.C}
+\contentsline {section}{\numberline {C.1}Coded Interviews}{104}{section.C.1}
+\contentsline {chapter}{\numberline {D}Onsite study}{105}{appendix.D}
+\contentsline {section}{\numberline {D.1}Interview Questionnaire}{106}{section.D.1}
+\contentsline {section}{\numberline {D.2}Non-Interactive glance count}{107}{section.D.2}
+\contentsline {section}{\numberline {D.3}Body Interactive glance count}{108}{section.D.3}
+\contentsline {section}{\numberline {D.4}Mobile Interactive glance count}{109}{section.D.4}
+\contentsline {section}{\numberline {D.5}Non-Interactive interview code}{110}{section.D.5}
+\contentsline {section}{\numberline {D.6}Body Interactive interview code}{111}{section.D.6}
+\contentsline {section}{\numberline {D.7}Mobile Interactive interview code}{112}{section.D.7}
+\contentsline {section}{\numberline {D.8}Non-Interactive observation notes}{113}{section.D.8}
+\contentsline {section}{\numberline {D.9}Body Interactive observation notes (1)}{114}{section.D.9}
+\contentsline {section}{\numberline {D.10}Body Interactive observation notes (2)}{115}{section.D.10}
+\contentsline {section}{\numberline {D.11}Mobile Interactive observation notes}{116}{section.D.11}
+\contentsline {chapter}{\numberline {E}New body interactive study}{117}{appendix.E}
+\contentsline {section}{\numberline {E.1}New body Interactive observation notes}{118}{section.E.1}
