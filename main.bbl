@@ -80,5 +80,20 @@ John Hardy,Enrico Rukzio and Nigel Davies
 MUM’11, Dec 7–9, 2011, Beijing, China.2011 ACM 978-1-4503-1096-3/11/12
 
 
+\bibitem{Kinect}
+Microsoft Kinect
+\url{https://developer.microsoft.com/de-de/windows/kinect}
+Last accessed: 1/05/2016 at 13:21:00
+
+
+\bibitem{simpleopenni}
+SimpleOpenNI for processing
+\url{http://shiffman.net/p5/kinect/}
+Last accessed: 1/05/2016 at 15:21:00
+
+
+
+
+
 
 \end{thebibliography}
