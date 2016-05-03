@@ -96,20 +96,120 @@ So the application iterates to this array and assigns specific color to each of 
 \end{tabular}
 }
 \end{table}
-
+The above picture has very limited pixels; it is not an original picture but is made to clear the idea of how the coloring of silhouette  works.
 As you can see from above picture, the white areas or the -1 values are background and non-user and the remaining positive number represent the pixelse related to the user.
 For more information about the source codes, please refer to the CD.
 
 
 \section{Main advertisement application}
 In this section the main advertisement applications are being discussed.
-According to the plane there was a need to develop three-advertisement application (non-interactive, body interactive and mobile interactive), which at one sense had the same functionality but are different in terms of interactivity and control.
+According to the plane there was a need to develop three-advertisement application (non-interactive, body interactive and mobile interactive), which had the same functionality but were different in terms of interactivity and control.
+
+The advertisement application was designed to show important places of Bauhaus that were included in Bauhaus-Walk tour, the pictures of these places are attached on top of the Weimar map with a name on top and a small description at bellow this technique helps participants to build a relationship of location and the map, only five locations are randomly chosen by the software to be shown on the map, each come one after another and when all the locations are explored then the advertisement video will be played and after that the application will repeat it self.
+
+\newpage
+\subsection{Interfaces}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=50mm]{Figures/7/initialpage}
+    \caption{Initial interface of advertisement: The picture shown is the \emph{Gropius walter} room, and the Event name on the upper left side, and the Bauhaus University logo at the bottom right.}%
+    \label{fig:adInitialpage}%
+\end{figure}
 
 
-\subsection{Non-Interactive}
-As can be understood the application is not influenced by the passers-by but triggers automatically, it automate through whole three phases (Initial screen, Map screen and video screen) and at the same time record depth image frames using Kinect Camera.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=50mm]{Figures/7/map}
+    \caption{Second Interface: This is map of Weimar that has some interest regions shown on the top of the map. Those regions are blinking to signal the users.}%
+    \label{fig:adSecondpage1}%
+\end{figure}
 
 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=50mm]{Figures/7/enlarged_pic}
+    \caption{Second interface: Before the image is shown on the map, first the picture is animated to become enlarged then the picture is resized to fit on the map.}%
+    \label{fig:adSecondpage2}%
+\end{figure}
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=50mm]{Figures/7/map_pictures}
+    \caption{Second interface: This shows a map with the picture elements, each picture contains a name}%
+    \label{fig:adSecondpage3}%
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=50mm]{Figures/7/ad_first}
+    \caption{Third interface: In this interface the video is being played, this picture is a screenshot of one of the frames of the video}%
+    \label{fig:adthirdpage1}%
+\end{figure}
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=50mm]{Figures/7/ad_last}
+    \caption{Third interface: This is the last frame of the video that shows information about how and where to join the Bauhaus Walk.}%
+    \label{fig:adthirdpage2}%
+\end{figure}
+
+Please watch the complete animation stored in DVD. 
+
+
+\subsection{Hardware setup}
+The bellow setup is the hardware setup for the advertisement. The same setup is used for all three weeks.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=70mm]{Figures/7/Physical_setup}
+    \caption{Hardware setup}%
+    \label{fig:hardwaresetup}%
+\end{figure}
+
+
+\hilight{put the picture of the screen here}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=70mm]{Figures/7/Physical_setup}
+    \caption{Picture}%
+    \label{fig:hardwaresetup}%
+\end{figure}
+
+
+
+\subsection{Non-Interactive application}
+As can be understood the application is not influenced by the passers-by but triggers automatically, it automate through whole three phases (Initial screen, Map screen and video screen) and at the same time records colored image frames using Kinect Camera.
+
+
+
+\subsubsection{Flowchart Diagram}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=90mm]{Figures/7/Non-interactive/flow_chart_diagram}
+    \caption{Non-interactive Flowchart diagram}%
+    \label{fig:non_inter_flowchart}%
+\end{figure}
+
+\newpage
+\subsection{Body Interactive application}
+
+\subsubsection{Flowchart Diagram}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=120mm,height=140mm]{Figures/7/body_interactive/body_flow_chart}
+    \caption{Body Interactive advertisement Flowchart diagram}%
+    \label{fig:Body_flowchat}%
+\end{figure}
+
+
+
+\subsection{Mobile Interactive application}
 
 
 
