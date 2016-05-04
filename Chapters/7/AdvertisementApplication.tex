@@ -159,6 +159,9 @@ The advertisement application was designed to show important places of Bauhaus t
 Please watch the complete animation stored in DVD. 
 
 
+\subsection{Advertisement video}
+The advertisement video was created in powtoon \cite{powtoon} with a free version account, to see the full advertisement video visit bellow link.\\ \url{https://www.youtube.com/watch?v=-y1Dbz6E6bU&feature=youtu.be}
+
 \subsection{Hardware setup}
 The bellow setup is the hardware setup for the advertisement. The same setup is used for all three weeks.
 
@@ -185,7 +188,6 @@ The bellow setup is the hardware setup for the advertisement. The same setup is 
 As can be understood the application is not influenced by the passers-by but triggers automatically, it automate through whole three phases (Initial screen, Map screen and video screen) and at the same time records colored image frames using Kinect Camera.
 
 
-
 \subsubsection{Flowchart Diagram}
 
 \begin{figure}[H]
@@ -197,9 +199,56 @@ As can be understood the application is not influenced by the passers-by but tri
 
 \newpage
 \subsection{Body Interactive application}
+This method allows participants to interact with using body on the map, in this case exploring the interest points on the map by moving physically (forward, backward, right and left) in front of the screen in order to move their silhouette and reach to the interest regions.
+
+As discussed earlier there are three phases of the application, First Interface, second interface and then the advertisement video. The first two interfaces are interactive as described bellow.
+
+\subsubsection{First interface}
+This interface is basically the attraction attention and call-to-action interface, as you can see bellow there is someone standing in front of the screen and the interface calls him to come near. This area also has alert message on the top right area of the screen and alerts the participant if they move away from the camera range, in this example the person is standing but there is also the second person but got immediately untracked and the system pops that message to raise his hand to be tracked again.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=60mm]{Figures/7/body_interactive/first_interface}
+    \caption{\textbf{First Interface:} When the person steps in the range of the Camera, his silhouette is projected on the screen with a different color; the application calls the person to come near in order to trigger the game.}%
+    \label{fig:body_firstinterface}%
+\end{figure}
+
+
+
+\subsubsection{Transition to second interfaces}
+The transition happens when the person stands close to the screen for more than 3 seconds and the bellow things happen.
+
+\begin{enumerate}
+\item Loading animation:\\
+  The loading animation is a reaction to the action of the participants, and at the same time participants waits for something to be loaded.
+\item Scaling down the silhouette: \\
+To walk freely on the map and to give the participant the feeling of walking, the participant's silhouette is scaled down, the scaling happens smoothly frame-by-frame.
+\item Show task instruction:  \\
+Every interaction has instructions, the instruction is fairly very easy and it is simplified in one sentence to explore locations on the map.
+\end{enumerate}
+
+
+
+\begin{figure}[!htb]
+    \centering
+    \subfloat[]{{\includegraphics[width=40mm,height=30mm]{Figures/7/body_interactive/loading} }}%
+    \subfloat[]{{\includegraphics[width=40mm,height=30mm]{Figures/7/body_interactive/scalling_down} }}%
+	\subfloat[]{{\includegraphics[width=40mm,height=30mm]{Figures/7/body_interactive/task_description} }}%
+    \caption{As can be seen in picture A, the person is close to the screen and the loading animation is started, in picture B the person silhouette is being scaled down (in this example the silhouette color is green) and in picture C the instruction is shown. }%
+    \label{fig:Switching_between_phases_body}%
+\end{figure}
+
+
+\subsubsection{Second interface}
+In this interface participant can interact with the elements on the map.In bellow picture, the silhouette has visited two locations therefor has 2/5 score, to finish the interaction he needs to visit all the location or the timer on the corner right will be over.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=60mm]{Figures/7/body_interactive/second_interface}
+    \caption{Second Interface}%
+    \label{fig:body_secondinterface}%
+\end{figure}
 
 \subsubsection{Flowchart Diagram}
-
+The bellow chart roughly shows the flow of the application.
 \begin{figure}[H]
     \centering
     \includegraphics[width=120mm,height=140mm]{Figures/7/body_interactive/body_flow_chart}
@@ -208,13 +257,128 @@ As can be understood the application is not influenced by the passers-by but tri
 \end{figure}
 
 
+\subsubsection{Software Details}
+The application is developed in Processing language with the support of Kinect Library, The application can run in Windows and OSX operating systems the system should have bellow requirements.
+
+\begin{itemize}
+\item Processing v2.2.2.
+\item SimpleOpenNI library for Processing \cite{simpleopenni}
+\item 32bit JRE (Java Runtime Environment) v1.8 or higher.
+\item Windows / Mac OSX
+\item RAM: 4GB or above.
+\item CPU: Core i5 / i7 2.3Ghz
+\end{itemize}
+
+Refere to source code in DVD that has all the libraries and important things you require to run the application.
+
 
 \subsection{Mobile Interactive application}
+The interaction in this application is carried out with a smartphone, the interface is absolutely the same as the other two applications; the only different is that there is a colored circle pointer to select map elements.
+
+
+\subsubsection{First screen interface}
+This interface is designed in such a way to attract passers-by and also guide the participant on how to use their smartphone to access the advertisement application. The attraction is again the same method that was used for body, the passers-by silhouette is projected at the back of Access information. The interface has QR code that could be easy to be scanned instead of typing the whole IP address, and there is an alert area, that gets activated when a logged in person has not turned their phone in landscape orientation.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=60mm]{Figures/7/mobile_interactive/first_interface}
+    \caption{Mobile interactive interface:}%
+    \label{fig:mobile_firstinterface}%
+\end{figure}
 
 
 
-\section{Enhanced advertisement application}
+\subsubsection{Transition to second interfaces}
+The first user will not be able to trigger the game, until his/her has not physically hold the phone in landscape, when it is in landscape the bellow process will be triggered.
+
+\begin{enumerate}
+\item Loading animation:\\
+  The loading animation is a reaction to the action of the participants, and at the same time participants waits for something to be loaded.
+\item  Creating Colored cursor: \\
+A colored circle will be created for the participant in the center of the screen; each participant would have different colors matching to their controller interface in their phone.
+\item Show task instruction:  \\
+The instruction is fairly very easy and it is simplified in one sentence to explore locations on the map by using their phone.
+
+\end{enumerate}
+
+\begin{figure}[!htb]
+    \centering
+    \subfloat[]{{\includegraphics[width=50mm,height=40mm]{Figures/7/mobile_interactive/loading} }}%
+	\subfloat[]{{\includegraphics[width=50mm,height=40mm]{Figures/7/mobile_interactive/task_description} }}%
+    \caption{In picture (A) a user has logged in and the screen is loading, in picture (B) the task description is shown.}%
+    \label{fig:Switching_between_phases_mobile}%
+\end{figure}
 
 
-\section{Requirement gathering}
+
+\subsubsection{Second screen interface}
+Second screen is the interaction screen for the participants, participants can navigate the cursor using their phone controller page. As can be seen in bellow picture, the user is controlling the cursor and has explored one location, the user's defined name is also shown on the cursor, to provide a hint that they have reached an interest point a small circle is shown to determine the area of that interest point. The interaction will finishe when all the locations are explored or the interaction time finishes.
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=60mm]{Figures/7/mobile_interactive/second_interface}
+    \caption{Mobile interactive interface}%
+    \label{fig:mobile_secondinterface}%
+\end{figure}
+
+
+
+\subsubsection{Mobile interface}
+After opening the web page in smartphone, and entering name, the bellow interface would appear. The interface is very simply designed and has two elements, the cursor and the select button, with cursor the user can navigate inside the map for interest points and when reached on an interest point the participant presses the select button to explore that location, see the picture bellow.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=60mm]{Figures/7/mobile_interactive/mobile_interface}
+    \caption{Mobile controller interface: The left side is the cursor and the right side is the select button.}%
+    \label{fig:mobile_controllerinterface}%
+\end{figure}
+
+
+
+\subsubsection{Hardware setup}
+The hardware required for the type of interactive application, would be to use one Access point that enable participants to connect to the system, Kinect camera to record colored user images, a mobile phone at client side and obviously the screen and a workstation.
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=60mm]{Figures/7/mobile_interactive/Mobile_hardware_setup}
+    \caption{Hardware setup}%
+    \label{fig:mobile_hardware_setup}%
+\end{figure}
+
+
+\subsubsection{Software setup}
+In order to make the system running we would need the bellow things.
+
+\begin{itemize}
+\item Apache webserver:\\
+The web server could be running in the same application system side-by-side. The web controller is using WebSocket client at the backend. Check the JavaScript configuration
+file to have the IP address configured where application system is using.
+\item Processing and WebSocket:\\
+The application should be started and along that the WebSocket server should also be running silmultaniously. Processing should have WebSocket library installed before hand. The system should have a valid IP address to be reached by webserver.
+\item OpenProcessing Library:\\
+Processing should have OpenProcessing library installed to be able to run Kinect Camera for color image recording.
+\end{itemize}
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=120mm,height=60mm]{Figures/7/mobile_interactive/mobile_software}
+    \caption{System architecture}%
+    \label{fig:mobile_software_setup}%
+\end{figure}
+
+
+
+\subsubsection{Flowchart Diagram}
+The bellow chart roughly shows the flow of the application.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=130mm,height=160mm]{Figures/7/mobile_interactive/mobile_flow_chart}
+    \caption{Mobile Interactive advertisement Flowchart diagram}%
+    \label{fig:mobile_flowchat}%
+\end{figure}
+
+
 
