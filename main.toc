@@ -4,253 +4,251 @@
 \contentsline {chapter}{Acknowledgements}{ix}{section*.3}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Thesis Goal}{2}{section.1.1}
-\contentsline {section}{\numberline {1.2}Methodology}{3}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Prototypes}{3}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Evaluations}{3}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Ethics}{3}{subsection.1.2.3}
-\contentsline {section}{\numberline {1.3}Summary of thesis contribution}{3}{section.1.3}
-\contentsline {section}{\numberline {1.4}Research context}{3}{section.1.4}
-\contentsline {section}{\numberline {1.5}Thesis outline}{3}{section.1.5}
-\contentsline {section}{\numberline {1.6}In Closing}{3}{section.1.6}
-\contentsline {chapter}{\numberline {2}Background}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}Advertisement}{5}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}History of advertisement}{5}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Pervasive Advertising}{5}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}K / L value}{5}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}Metaphors}{5}{subsection.2.1.4}
-\contentsline {subsubsection}{Mirrors}{5}{section*.11}
-\contentsline {subsubsection}{Windows}{5}{section*.12}
-\contentsline {subsubsection}{Overlay}{5}{section*.13}
-\contentsline {subsubsection}{Posters}{5}{section*.14}
-\contentsline {section}{\numberline {2.2}Public displays}{5}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}History of public displays}{5}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Auto-active displays}{5}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Engagement with displays}{5}{subsection.2.2.3}
-\contentsline {subsubsection}{Attention}{5}{section*.15}
-\contentsline {subsubsection}{Motivation}{5}{section*.16}
-\contentsline {subsubsection}{Interaction}{5}{section*.17}
-\contentsline {subsection}{\numberline {2.2.4}Interaction modalities}{6}{subsection.2.2.4}
-\contentsline {subsubsection}{Body}{6}{section*.19}
-\contentsline {subsubsection}{Mobile}{6}{section*.20}
-\contentsline {subsection}{\numberline {2.2.5}Interaction models}{6}{subsection.2.2.5}
-\contentsline {subsection}{\numberline {2.2.6}Evaluation}{6}{subsection.2.2.6}
-\contentsline {subsection}{\numberline {2.2.7}Approaches to Research}{6}{subsection.2.2.7}
-\contentsline {subsection}{\numberline {2.2.8}Methods and tools}{6}{subsection.2.2.8}
-\contentsline {chapter}{\numberline {3}Attraction attention}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{7}{section.3.1}
-\contentsline {section}{\numberline {3.2}Background and related works}{7}{section.3.2}
-\contentsline {section}{\numberline {3.3}Approaches}{8}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Prototypes}{9}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Hypothesis}{10}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Study design}{10}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Participants}{10}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Location}{10}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Procedures}{11}{subsection.3.4.3}
-\contentsline {section}{\numberline {3.5}Data gathering}{11}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Observation}{11}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {3.5.2}Interviews}{12}{subsection.3.5.2}
-\contentsline {section}{\numberline {3.6}Findings}{12}{section.3.6}
-\contentsline {subsection}{\numberline {3.6.1}Observation findings}{12}{subsection.3.6.1}
-\contentsline {subsection}{\numberline {3.6.2}Interview Findings}{14}{subsection.3.6.2}
-\contentsline {subsubsection}{Good Advertisement}{14}{section*.29}
-\contentsline {subsubsection}{Bad Advertisement}{16}{section*.30}
-\contentsline {section}{\numberline {3.7}Discussions}{18}{section.3.7}
-\contentsline {section}{\numberline {3.8}Conclusion}{18}{section.3.8}
-\contentsline {chapter}{\numberline {4}Advertisement decision}{19}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{19}{section.4.1}
-\contentsline {section}{\numberline {4.2}Goal}{20}{section.4.2}
-\contentsline {section}{\numberline {4.3}Study design}{20}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Participants}{20}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Focus-Group Environment}{21}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}First session}{21}{subsection.4.3.3}
-\contentsline {subsubsection}{Research Questions}{21}{section*.32}
-\contentsline {subsubsection}{Procedures}{22}{section*.33}
-\contentsline {subsection}{\numberline {4.3.4}Second Session}{23}{subsection.4.3.4}
-\contentsline {subsubsection}{Procedures}{23}{section*.36}
-\contentsline {subsubsection}{Prototype and discussion pictures}{24}{section*.37}
-\contentsline {section}{\numberline {4.4}Data Gathering}{25}{section.4.4}
-\contentsline {section}{\numberline {4.5}Findings}{25}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}First Session Findings}{25}{subsection.4.5.1}
-\contentsline {subsubsection}{Reason of Bauhaus-Walk and advertisement}{25}{section*.40}
-\contentsline {subsubsection}{Target group}{26}{section*.41}
-\contentsline {subsubsection}{Peak Tour times}{27}{section*.43}
-\contentsline {subsubsection}{Possible advertisement location}{27}{section*.44}
-\contentsline {subsubsection}{Content of advertisement}{27}{section*.45}
-\contentsline {subsubsection}{Interaction of advertisement}{28}{section*.46}
-\contentsline {subsection}{\numberline {4.5.2}Second Session Findings}{29}{subsection.4.5.2}
-\contentsline {subsubsection}{Prototype discussion}{29}{section*.47}
-\contentsline {subsection}{\numberline {4.5.3}New ideas}{30}{subsection.4.5.3}
-\contentsline {section}{\numberline {4.6}Conclusion}{31}{section.4.6}
-\contentsline {chapter}{\numberline {5}Advertisement Low fidelity prototype}{33}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{33}{section.5.1}
-\contentsline {section}{\numberline {5.2}Requirement gathering}{34}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Functional Requirements}{34}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Non-functional Requirements}{34}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Personas}{34}{section.5.3}
-\contentsline {section}{\numberline {5.4}Use case diagrams}{35}{section.5.4}
-\contentsline {section}{\numberline {5.5}Goal}{35}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}Hypothesis}{35}{subsection.5.5.1}
-\contentsline {subsubsection}{Body Interaction}{35}{section*.48}
-\contentsline {subsection}{\numberline {5.5.2}Mobile Interaction}{35}{subsection.5.5.2}
-\contentsline {section}{\numberline {5.6}Design study}{36}{section.5.6}
-\contentsline {subsection}{\numberline {5.6.1}Subjects}{36}{subsection.5.6.1}
-\contentsline {subsection}{\numberline {5.6.2}Location}{36}{subsection.5.6.2}
-\contentsline {subsection}{\numberline {5.6.3}Procedures}{37}{subsection.5.6.3}
-\contentsline {section}{\numberline {5.7}Data gathering}{37}{section.5.7}
-\contentsline {section}{\numberline {5.8}Findings}{38}{section.5.8}
-\contentsline {subsection}{\numberline {5.8.1}Usability issues}{38}{subsection.5.8.1}
-\contentsline {subsection}{\numberline {5.8.2}Body Interactions usability}{38}{subsection.5.8.2}
-\contentsline {subsection}{\numberline {5.8.3}Mobile usability}{39}{subsection.5.8.3}
-\contentsline {subsection}{\numberline {5.8.4}Hypothesis decisions}{40}{subsection.5.8.4}
-\contentsline {subsubsection}{Body Interaction}{41}{section*.51}
-\contentsline {subsubsection}{Mobile Interaction}{42}{section*.52}
-\contentsline {section}{\numberline {5.9}Conclusions}{43}{section.5.9}
-\contentsline {chapter}{\numberline {6}Advertisement application}{45}{chapter.6}
-\contentsline {section}{\numberline {6.1}Introduction}{45}{section.6.1}
-\contentsline {section}{\numberline {6.2}Attracting attention Application}{45}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Requirement gathering}{46}{subsection.6.2.1}
-\contentsline {subsubsection}{Hardware requirement}{46}{section*.53}
-\contentsline {subsubsection}{Software requirement}{46}{section*.54}
-\contentsline {subsection}{\numberline {6.2.2}Following eye application}{46}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}Firework application}{46}{subsection.6.2.3}
-\contentsline {subsection}{\numberline {6.2.4}Silhouette application}{47}{subsection.6.2.4}
-\contentsline {section}{\numberline {6.3}Main advertisement application}{48}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Interfaces}{49}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Advertisement video}{51}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Hardware setup}{51}{subsection.6.3.3}
-\contentsline {subsection}{\numberline {6.3.4}Non-Interactive application}{52}{subsection.6.3.4}
-\contentsline {subsubsection}{Flowchart Diagram}{52}{section*.64}
-\contentsline {subsection}{\numberline {6.3.5}Body Interactive application}{53}{subsection.6.3.5}
-\contentsline {subsubsection}{First interface}{53}{section*.66}
-\contentsline {subsubsection}{Transition to second interfaces}{53}{section*.68}
-\contentsline {subsubsection}{Second interface}{54}{section*.70}
-\contentsline {subsubsection}{Flowchart Diagram}{55}{section*.72}
-\contentsline {subsubsection}{Software Details}{55}{section*.74}
-\contentsline {subsection}{\numberline {6.3.6}Mobile Interactive application}{56}{subsection.6.3.6}
-\contentsline {subsubsection}{First screen interface}{56}{section*.75}
-\contentsline {subsubsection}{Transition to second interfaces}{56}{section*.77}
-\contentsline {subsubsection}{Second screen interface}{57}{section*.79}
-\contentsline {subsubsection}{Mobile interface}{58}{section*.81}
-\contentsline {subsubsection}{Hardware setup}{58}{section*.83}
-\contentsline {subsubsection}{Software setup}{59}{section*.85}
-\contentsline {subsubsection}{Flowchart Diagram}{59}{section*.87}
-\contentsline {section}{\numberline {6.4}Enhanced advertisement application}{60}{section.6.4}
-\contentsline {chapter}{\numberline {7}Advertisement High Fidelity prototype}{61}{chapter.7}
-\contentsline {section}{\numberline {7.1}Introduction}{61}{section.7.1}
-\contentsline {section}{\numberline {7.2}Interactive Advertisement}{61}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Mobile}{61}{subsection.7.2.1}
-\contentsline {subsubsection}{Features}{61}{section*.89}
-\contentsline {subsubsection}{Flow chart}{61}{section*.90}
-\contentsline {subsection}{\numberline {7.2.2}Body}{61}{subsection.7.2.2}
-\contentsline {subsubsection}{Features}{61}{section*.91}
-\contentsline {subsubsection}{Flow chart}{61}{section*.92}
-\contentsline {section}{\numberline {7.3}Research questions}{61}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}Body and Mobile interactions}{61}{subsection.7.3.1}
-\contentsline {subsection}{\numberline {7.3.2}Video advertisement}{62}{subsection.7.3.2}
-\contentsline {section}{\numberline {7.4}Test Design}{62}{section.7.4}
-\contentsline {subsection}{\numberline {7.4.1}Participants}{62}{subsection.7.4.1}
-\contentsline {subsection}{\numberline {7.4.2}Task}{63}{subsection.7.4.2}
-\contentsline {subsubsection}{Call to action understandability}{63}{section*.94}
-\contentsline {subsubsection}{Task understandability}{63}{section*.95}
-\contentsline {subsubsection}{Task completion time}{63}{section*.96}
-\contentsline {subsubsection}{Content of Advertisement}{63}{section*.97}
-\contentsline {subsubsection}{Usability issues}{64}{section*.98}
-\contentsline {section}{\numberline {7.5}Data Gathering }{64}{section.7.5}
-\contentsline {subsection}{\numberline {7.5.1}Performance data}{64}{subsection.7.5.1}
-\contentsline {subsection}{\numberline {7.5.2}Preference data}{64}{subsection.7.5.2}
-\contentsline {subsection}{\numberline {7.5.3}Think aloud quotes}{64}{subsection.7.5.3}
-\contentsline {subsection}{\numberline {7.5.4}Interview transcripts}{65}{subsection.7.5.4}
-\contentsline {section}{\numberline {7.6}Findings}{65}{section.7.6}
-\contentsline {subsection}{\numberline {7.6.1}Mobile Interaction performance}{65}{subsection.7.6.1}
-\contentsline {subsection}{\numberline {7.6.2}Body Interaction performance}{67}{subsection.7.6.2}
-\contentsline {subsection}{\numberline {7.6.3}Body Vs. Mobile performance}{68}{subsection.7.6.3}
-\contentsline {subsection}{\numberline {7.6.4}Usability issues}{69}{subsection.7.6.4}
-\contentsline {subsubsection}{Mobile Interaction}{69}{section*.107}
-\contentsline {subsubsection}{Body Interaction}{70}{section*.108}
-\contentsline {subsubsection}{Advertisement video}{71}{section*.109}
-\contentsline {section}{\numberline {7.7}Advertisement goal}{71}{section.7.7}
-\contentsline {subsection}{\numberline {7.7.1}Did users understand about advertisement?}{71}{subsection.7.7.1}
-\contentsline {subsection}{\numberline {7.7.2}Word cloud (Wordle)}{72}{subsection.7.7.2}
-\contentsline {subsection}{\numberline {7.7.3}Key factors for advertisement understanding}{73}{subsection.7.7.3}
-\contentsline {subsection}{\numberline {7.7.4}Interview Findings}{73}{subsection.7.7.4}
-\contentsline {subsubsection}{Mobile Categories}{74}{section*.112}
-\contentsline {subsubsection}{Body Categories}{75}{section*.113}
-\contentsline {subsubsection}{Advertisement}{76}{section*.114}
-\contentsline {section}{\numberline {7.8}Discussion}{77}{section.7.8}
-\contentsline {section}{\numberline {7.9}Conclusion}{77}{section.7.9}
-\contentsline {chapter}{\numberline {8}Interactive and non-Interactive onsite study}{79}{chapter.8}
-\contentsline {section}{\numberline {8.1}Introduction}{79}{section.8.1}
-\contentsline {section}{\numberline {8.2}Background}{79}{section.8.2}
-\contentsline {section}{\numberline {8.3}Interactive Advertisement}{79}{section.8.3}
-\contentsline {subsection}{\numberline {8.3.1}Body Interactive}{80}{subsection.8.3.1}
-\contentsline {subsection}{\numberline {8.3.2}Mobile Interactive}{81}{subsection.8.3.2}
-\contentsline {section}{\numberline {8.4}Non-Interactive Advertisement}{82}{section.8.4}
-\contentsline {section}{\numberline {8.5}Problem Statement}{82}{section.8.5}
-\contentsline {section}{\numberline {8.6}Design study}{83}{section.8.6}
-\contentsline {subsection}{\numberline {8.6.1}Location}{83}{subsection.8.6.1}
-\contentsline {subsection}{\numberline {8.6.2}Duration}{83}{subsection.8.6.2}
-\contentsline {subsection}{\numberline {8.6.3}Internal Validity}{84}{subsection.8.6.3}
-\contentsline {subsection}{\numberline {8.6.4}Participants}{84}{subsection.8.6.4}
-\contentsline {subsection}{\numberline {8.6.5}Data gathering}{84}{subsection.8.6.5}
-\contentsline {section}{\numberline {8.7}Data Analysing}{87}{section.8.7}
-\contentsline {subsection}{\numberline {8.7.1}Glance counts}{87}{subsection.8.7.1}
-\contentsline {subsection}{\numberline {8.7.2}Interviews}{87}{subsection.8.7.2}
-\contentsline {subsection}{\numberline {8.7.3}Display Engagement phases and time}{87}{subsection.8.7.3}
-\contentsline {subsection}{\numberline {8.7.4}Honeypot and landing effects}{87}{subsection.8.7.4}
-\contentsline {subsection}{\numberline {8.7.5}Other observations}{87}{subsection.8.7.5}
-\contentsline {section}{\numberline {8.8}Findings}{88}{section.8.8}
-\contentsline {subsection}{\numberline {8.8.1}Individual advertisement}{88}{subsection.8.8.1}
-\contentsline {subsubsection}{Non-Interactive findings}{88}{section*.122}
-\contentsline {subsubsection}{Body Interactive findings}{90}{section*.128}
-\contentsline {subsubsection}{Mobile Interactive findings}{95}{section*.135}
-\contentsline {subsection}{\numberline {8.8.2}Comparison of advertisements}{97}{subsection.8.8.2}
-\contentsline {subsubsection}{Number of passerby}{97}{section*.141}
-\contentsline {subsubsection}{Attention Level Comparison}{97}{section*.143}
-\contentsline {subsubsection}{Comparison of Engaged and Non-engaged passerby}{99}{section*.145}
-\contentsline {subsubsection}{Landing effect}{100}{section*.148}
-\contentsline {subsubsection}{Honeypot effect}{101}{section*.151}
-\contentsline {chapter}{\numberline {9}Advertisement enhancement}{103}{chapter.9}
-\contentsline {section}{\numberline {9.1}Introduction}{103}{section.9.1}
-\contentsline {section}{\numberline {9.2}Advertisement enhanced version}{103}{section.9.2}
-\contentsline {section}{\numberline {9.3}Research question}{104}{section.9.3}
-\contentsline {section}{\numberline {9.4}Design study}{104}{section.9.4}
-\contentsline {subsection}{\numberline {9.4.1}Location}{104}{subsection.9.4.1}
-\contentsline {subsection}{\numberline {9.4.2}Duration}{104}{subsection.9.4.2}
-\contentsline {subsection}{\numberline {9.4.3}Participants}{104}{subsection.9.4.3}
-\contentsline {subsection}{\numberline {9.4.4}Data gathering}{104}{subsection.9.4.4}
-\contentsline {section}{\numberline {9.5}Findings and results}{106}{section.9.5}
-\contentsline {subsection}{\numberline {9.5.1}Attention Level measurements}{106}{subsection.9.5.1}
-\contentsline {subsection}{\numberline {9.5.2}Engagement time}{107}{subsection.9.5.2}
-\contentsline {subsection}{\numberline {9.5.3}Passerby and engagement}{107}{subsection.9.5.3}
-\contentsline {subsection}{\numberline {9.5.4}Landing and Honeypot effects}{107}{subsection.9.5.4}
-\contentsline {subsection}{\numberline {9.5.5}Note taking}{108}{subsection.9.5.5}
-\contentsline {subsection}{\numberline {9.5.6}Comparison with Body interaction}{108}{subsection.9.5.6}
-\contentsline {section}{\numberline {9.6}Discussions}{109}{section.9.6}
-\contentsline {chapter}{\numberline {10}Conclusion}{111}{chapter.10}
-\contentsline {section}{\numberline {10.1}Introduction}{111}{section.10.1}
-\contentsline {section}{\numberline {10.2}Attention attraction study}{111}{section.10.2}
-\contentsline {section}{\numberline {10.3}nteraction}{111}{section.10.3}
-\contentsline {section}{\numberline {10.4}Motivation}{111}{section.10.4}
-\contentsline {section}{\numberline {10.5}Future work}{111}{section.10.5}
-\contentsline {chapter}{\numberline {A}Appendix}{115}{appendix.A}
-\contentsline {section}{\numberline {A.1}Glance count sheet}{116}{section.A.1}
-\contentsline {section}{\numberline {A.2}Consent Form}{117}{section.A.2}
-\contentsline {section}{\numberline {A.3}Interview Questionnaire}{118}{section.A.3}
-\contentsline {chapter}{\numberline {B}Focus group skitches}{119}{appendix.B}
-\contentsline {chapter}{\numberline {C}Low fidelity}{123}{appendix.C}
-\contentsline {section}{\numberline {C.1}Coded Interviews}{124}{section.C.1}
-\contentsline {chapter}{\numberline {D}Onsite study}{125}{appendix.D}
-\contentsline {section}{\numberline {D.1}Interview Questionnaire}{126}{section.D.1}
-\contentsline {section}{\numberline {D.2}Non-Interactive glance count}{127}{section.D.2}
-\contentsline {section}{\numberline {D.3}Body Interactive glance count}{128}{section.D.3}
-\contentsline {section}{\numberline {D.4}Mobile Interactive glance count}{129}{section.D.4}
-\contentsline {section}{\numberline {D.5}Non-Interactive interview code}{130}{section.D.5}
-\contentsline {section}{\numberline {D.6}Body Interactive interview code}{131}{section.D.6}
-\contentsline {section}{\numberline {D.7}Mobile Interactive interview code}{132}{section.D.7}
-\contentsline {section}{\numberline {D.8}Non-Interactive observation notes}{133}{section.D.8}
-\contentsline {section}{\numberline {D.9}Body Interactive observation notes (1)}{134}{section.D.9}
-\contentsline {section}{\numberline {D.10}Body Interactive observation notes (2)}{135}{section.D.10}
-\contentsline {section}{\numberline {D.11}Mobile Interactive observation notes}{136}{section.D.11}
-\contentsline {chapter}{\numberline {E}New body interactive study}{137}{appendix.E}
-\contentsline {section}{\numberline {E.1}Enhanced Interactive advertisement Glance count}{138}{section.E.1}
-\contentsline {section}{\numberline {E.2}Enhanced Interactive observation notes}{139}{section.E.2}
+\contentsline {section}{\numberline {1.2}Research Questions}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Methodology}{3}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Prototypes}{3}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Evaluations}{3}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Ethics}{4}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}Research context}{4}{section.1.4}
+\contentsline {section}{\numberline {1.5}Thesis outline}{4}{section.1.5}
+\contentsline {chapter}{\numberline {2}Background}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Advertisement}{7}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}History of advertisement}{7}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Pervasive Advertising}{7}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}K / L value}{7}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Metaphors}{7}{subsection.2.1.4}
+\contentsline {subsubsection}{Mirrors}{7}{section*.12}
+\contentsline {subsubsection}{Windows}{7}{section*.13}
+\contentsline {subsubsection}{Overlay}{7}{section*.14}
+\contentsline {subsubsection}{Posters}{7}{section*.15}
+\contentsline {section}{\numberline {2.2}Public displays}{7}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}History of public displays}{7}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Auto-active displays}{7}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Engagement with displays}{7}{subsection.2.2.3}
+\contentsline {subsubsection}{Attention}{7}{section*.16}
+\contentsline {subsubsection}{Motivation}{7}{section*.17}
+\contentsline {subsubsection}{Interaction}{7}{section*.18}
+\contentsline {subsection}{\numberline {2.2.4}Interaction modalities}{8}{subsection.2.2.4}
+\contentsline {subsubsection}{Body}{8}{section*.20}
+\contentsline {subsubsection}{Mobile}{8}{section*.21}
+\contentsline {subsection}{\numberline {2.2.5}Interaction models}{8}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Evaluation}{8}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.2.7}Approaches to Research}{8}{subsection.2.2.7}
+\contentsline {subsection}{\numberline {2.2.8}Methods and tools}{8}{subsection.2.2.8}
+\contentsline {chapter}{\numberline {3}Attraction attention}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}Background and related works}{9}{section.3.2}
+\contentsline {section}{\numberline {3.3}Approaches}{10}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Prototypes}{11}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Hypothesis}{12}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Study design}{12}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Participants}{12}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Location}{12}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Procedures}{13}{subsection.3.4.3}
+\contentsline {section}{\numberline {3.5}Data gathering}{13}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Observation}{13}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Interviews}{14}{subsection.3.5.2}
+\contentsline {section}{\numberline {3.6}Findings}{14}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Observation findings}{14}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Interview Findings}{16}{subsection.3.6.2}
+\contentsline {subsubsection}{Good Advertisement}{16}{section*.30}
+\contentsline {subsubsection}{Bad Advertisement}{18}{section*.31}
+\contentsline {section}{\numberline {3.7}Discussions}{20}{section.3.7}
+\contentsline {section}{\numberline {3.8}Conclusion}{20}{section.3.8}
+\contentsline {chapter}{\numberline {4}Advertisement decision}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{21}{section.4.1}
+\contentsline {section}{\numberline {4.2}Goal}{22}{section.4.2}
+\contentsline {section}{\numberline {4.3}Study design}{22}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Participants}{22}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Focus-Group Environment}{23}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}First session}{23}{subsection.4.3.3}
+\contentsline {subsubsection}{Research Questions}{23}{section*.33}
+\contentsline {subsubsection}{Procedures}{24}{section*.34}
+\contentsline {subsection}{\numberline {4.3.4}Second Session}{25}{subsection.4.3.4}
+\contentsline {subsubsection}{Procedures}{25}{section*.37}
+\contentsline {subsubsection}{Prototype and discussion pictures}{26}{section*.38}
+\contentsline {section}{\numberline {4.4}Data Gathering}{27}{section.4.4}
+\contentsline {section}{\numberline {4.5}Findings}{27}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}First Session Findings}{27}{subsection.4.5.1}
+\contentsline {subsubsection}{Reason of Bauhaus-Walk and advertisement}{27}{section*.41}
+\contentsline {subsubsection}{Target group}{28}{section*.42}
+\contentsline {subsubsection}{Peak Tour times}{29}{section*.44}
+\contentsline {subsubsection}{Possible advertisement location}{29}{section*.45}
+\contentsline {subsubsection}{Content of advertisement}{29}{section*.46}
+\contentsline {subsubsection}{Interaction of advertisement}{30}{section*.47}
+\contentsline {subsection}{\numberline {4.5.2}Second Session Findings}{31}{subsection.4.5.2}
+\contentsline {subsubsection}{Prototype discussion}{31}{section*.48}
+\contentsline {subsection}{\numberline {4.5.3}New ideas}{32}{subsection.4.5.3}
+\contentsline {section}{\numberline {4.6}Conclusion}{33}{section.4.6}
+\contentsline {chapter}{\numberline {5}Advertisement Low fidelity prototype}{35}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{35}{section.5.1}
+\contentsline {section}{\numberline {5.2}Requirement gathering}{36}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Functional Requirements}{36}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Non-functional Requirements}{36}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Personas}{36}{section.5.3}
+\contentsline {section}{\numberline {5.4}Use case diagrams}{37}{section.5.4}
+\contentsline {section}{\numberline {5.5}Goal}{37}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Hypothesis}{37}{subsection.5.5.1}
+\contentsline {subsubsection}{Body Interaction}{37}{section*.49}
+\contentsline {subsection}{\numberline {5.5.2}Mobile Interaction}{37}{subsection.5.5.2}
+\contentsline {section}{\numberline {5.6}Design study}{38}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}Subjects}{38}{subsection.5.6.1}
+\contentsline {subsection}{\numberline {5.6.2}Location}{38}{subsection.5.6.2}
+\contentsline {subsection}{\numberline {5.6.3}Procedures}{39}{subsection.5.6.3}
+\contentsline {section}{\numberline {5.7}Data gathering}{39}{section.5.7}
+\contentsline {section}{\numberline {5.8}Findings}{40}{section.5.8}
+\contentsline {subsection}{\numberline {5.8.1}Usability issues}{40}{subsection.5.8.1}
+\contentsline {subsection}{\numberline {5.8.2}Body Interactions usability}{40}{subsection.5.8.2}
+\contentsline {subsection}{\numberline {5.8.3}Mobile usability}{41}{subsection.5.8.3}
+\contentsline {subsection}{\numberline {5.8.4}Hypothesis decisions}{42}{subsection.5.8.4}
+\contentsline {subsubsection}{Body Interaction}{43}{section*.52}
+\contentsline {subsubsection}{Mobile Interaction}{44}{section*.53}
+\contentsline {section}{\numberline {5.9}Conclusions}{45}{section.5.9}
+\contentsline {chapter}{\numberline {6}Advertisement application}{47}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction}{47}{section.6.1}
+\contentsline {section}{\numberline {6.2}Attracting attention Application}{47}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Requirement gathering}{48}{subsection.6.2.1}
+\contentsline {subsubsection}{Hardware requirement}{48}{section*.54}
+\contentsline {subsubsection}{Software requirement}{48}{section*.55}
+\contentsline {subsection}{\numberline {6.2.2}Following eye application}{48}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Firework application}{48}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Silhouette application}{49}{subsection.6.2.4}
+\contentsline {section}{\numberline {6.3}Main advertisement application}{50}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Interfaces}{51}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Advertisement video}{53}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Hardware setup}{53}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Non-Interactive application}{54}{subsection.6.3.4}
+\contentsline {subsubsection}{Flowchart Diagram}{54}{section*.65}
+\contentsline {subsection}{\numberline {6.3.5}Body Interactive application}{55}{subsection.6.3.5}
+\contentsline {subsubsection}{First interface}{55}{section*.67}
+\contentsline {subsubsection}{Transition to second interfaces}{55}{section*.69}
+\contentsline {subsubsection}{Second interface}{56}{section*.71}
+\contentsline {subsubsection}{Flowchart Diagram}{57}{section*.73}
+\contentsline {subsubsection}{Software Details}{57}{section*.75}
+\contentsline {subsection}{\numberline {6.3.6}Mobile Interactive application}{58}{subsection.6.3.6}
+\contentsline {subsubsection}{First screen interface}{58}{section*.76}
+\contentsline {subsubsection}{Transition to second interfaces}{58}{section*.78}
+\contentsline {subsubsection}{Second screen interface}{59}{section*.80}
+\contentsline {subsubsection}{Mobile interface}{60}{section*.82}
+\contentsline {subsubsection}{Hardware setup}{60}{section*.84}
+\contentsline {subsubsection}{Software setup}{61}{section*.86}
+\contentsline {subsubsection}{Flowchart Diagram}{61}{section*.88}
+\contentsline {chapter}{\numberline {7}Advertisement High Fidelity prototype}{63}{chapter.7}
+\contentsline {section}{\numberline {7.1}Introduction}{63}{section.7.1}
+\contentsline {section}{\numberline {7.2}Interactive Advertisement}{63}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Mobile}{63}{subsection.7.2.1}
+\contentsline {subsubsection}{Features}{63}{section*.90}
+\contentsline {subsubsection}{Flow chart}{63}{section*.91}
+\contentsline {subsection}{\numberline {7.2.2}Body}{63}{subsection.7.2.2}
+\contentsline {subsubsection}{Features}{63}{section*.92}
+\contentsline {subsubsection}{Flow chart}{63}{section*.93}
+\contentsline {section}{\numberline {7.3}Research questions}{63}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Body and Mobile interactions}{63}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Video advertisement}{64}{subsection.7.3.2}
+\contentsline {section}{\numberline {7.4}Test Design}{64}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Participants}{64}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}Task}{65}{subsection.7.4.2}
+\contentsline {subsubsection}{Call to action understandability}{65}{section*.95}
+\contentsline {subsubsection}{Task understandability}{65}{section*.96}
+\contentsline {subsubsection}{Task completion time}{65}{section*.97}
+\contentsline {subsubsection}{Content of Advertisement}{65}{section*.98}
+\contentsline {subsubsection}{Usability issues}{66}{section*.99}
+\contentsline {section}{\numberline {7.5}Data Gathering }{66}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}Performance data}{66}{subsection.7.5.1}
+\contentsline {subsection}{\numberline {7.5.2}Preference data}{66}{subsection.7.5.2}
+\contentsline {subsection}{\numberline {7.5.3}Think aloud quotes}{66}{subsection.7.5.3}
+\contentsline {subsection}{\numberline {7.5.4}Interview transcripts}{67}{subsection.7.5.4}
+\contentsline {section}{\numberline {7.6}Findings}{67}{section.7.6}
+\contentsline {subsection}{\numberline {7.6.1}Mobile Interaction performance}{67}{subsection.7.6.1}
+\contentsline {subsection}{\numberline {7.6.2}Body Interaction performance}{69}{subsection.7.6.2}
+\contentsline {subsection}{\numberline {7.6.3}Body Vs. Mobile performance}{70}{subsection.7.6.3}
+\contentsline {subsection}{\numberline {7.6.4}Usability issues}{71}{subsection.7.6.4}
+\contentsline {subsubsection}{Mobile Interaction}{71}{section*.108}
+\contentsline {subsubsection}{Body Interaction}{72}{section*.109}
+\contentsline {subsubsection}{Advertisement video}{73}{section*.110}
+\contentsline {section}{\numberline {7.7}Advertisement goal}{73}{section.7.7}
+\contentsline {subsection}{\numberline {7.7.1}Did users understand about advertisement?}{73}{subsection.7.7.1}
+\contentsline {subsection}{\numberline {7.7.2}Word cloud (Wordle)}{74}{subsection.7.7.2}
+\contentsline {subsection}{\numberline {7.7.3}Key factors for advertisement understanding}{75}{subsection.7.7.3}
+\contentsline {subsection}{\numberline {7.7.4}Interview Findings}{75}{subsection.7.7.4}
+\contentsline {subsubsection}{Mobile Categories}{76}{section*.113}
+\contentsline {subsubsection}{Body Categories}{77}{section*.114}
+\contentsline {subsubsection}{Advertisement}{78}{section*.115}
+\contentsline {section}{\numberline {7.8}Discussion}{79}{section.7.8}
+\contentsline {section}{\numberline {7.9}Conclusion}{79}{section.7.9}
+\contentsline {chapter}{\numberline {8}Interactive and non-Interactive onsite study}{81}{chapter.8}
+\contentsline {section}{\numberline {8.1}Introduction}{81}{section.8.1}
+\contentsline {section}{\numberline {8.2}Background}{81}{section.8.2}
+\contentsline {section}{\numberline {8.3}Interactive Advertisement}{81}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Body Interactive}{82}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Mobile Interactive}{83}{subsection.8.3.2}
+\contentsline {section}{\numberline {8.4}Non-Interactive Advertisement}{84}{section.8.4}
+\contentsline {section}{\numberline {8.5}Problem Statement}{84}{section.8.5}
+\contentsline {section}{\numberline {8.6}Design study}{85}{section.8.6}
+\contentsline {subsection}{\numberline {8.6.1}Location}{85}{subsection.8.6.1}
+\contentsline {subsection}{\numberline {8.6.2}Duration}{85}{subsection.8.6.2}
+\contentsline {subsection}{\numberline {8.6.3}Internal Validity}{86}{subsection.8.6.3}
+\contentsline {subsection}{\numberline {8.6.4}Participants}{86}{subsection.8.6.4}
+\contentsline {subsection}{\numberline {8.6.5}Data gathering}{86}{subsection.8.6.5}
+\contentsline {section}{\numberline {8.7}Data Analysing}{89}{section.8.7}
+\contentsline {subsection}{\numberline {8.7.1}Glance counts}{89}{subsection.8.7.1}
+\contentsline {subsection}{\numberline {8.7.2}Interviews}{89}{subsection.8.7.2}
+\contentsline {subsection}{\numberline {8.7.3}Display Engagement phases and time}{89}{subsection.8.7.3}
+\contentsline {subsection}{\numberline {8.7.4}Honeypot and landing effects}{89}{subsection.8.7.4}
+\contentsline {subsection}{\numberline {8.7.5}Other observations}{89}{subsection.8.7.5}
+\contentsline {section}{\numberline {8.8}Findings}{90}{section.8.8}
+\contentsline {subsection}{\numberline {8.8.1}Individual advertisement}{90}{subsection.8.8.1}
+\contentsline {subsubsection}{Non-Interactive findings}{90}{section*.123}
+\contentsline {subsubsection}{Body Interactive findings}{92}{section*.129}
+\contentsline {subsubsection}{Mobile Interactive findings}{97}{section*.136}
+\contentsline {subsection}{\numberline {8.8.2}Comparison of advertisements}{99}{subsection.8.8.2}
+\contentsline {subsubsection}{Number of passerby}{99}{section*.142}
+\contentsline {subsubsection}{Attention Level Comparison}{99}{section*.144}
+\contentsline {subsubsection}{Engaged and Non-engaged passerby}{101}{section*.146}
+\contentsline {subsubsection}{Landing effect}{102}{section*.149}
+\contentsline {subsubsection}{Honeypot effect}{103}{section*.152}
+\contentsline {chapter}{\numberline {9}Advertisement enhancement}{105}{chapter.9}
+\contentsline {section}{\numberline {9.1}Introduction}{105}{section.9.1}
+\contentsline {section}{\numberline {9.2}Advertisement enhanced version}{105}{section.9.2}
+\contentsline {section}{\numberline {9.3}Research question}{106}{section.9.3}
+\contentsline {section}{\numberline {9.4}Design study}{106}{section.9.4}
+\contentsline {subsection}{\numberline {9.4.1}Location}{106}{subsection.9.4.1}
+\contentsline {subsection}{\numberline {9.4.2}Duration}{106}{subsection.9.4.2}
+\contentsline {subsection}{\numberline {9.4.3}Participants}{106}{subsection.9.4.3}
+\contentsline {subsection}{\numberline {9.4.4}Data gathering}{106}{subsection.9.4.4}
+\contentsline {section}{\numberline {9.5}Findings and results}{108}{section.9.5}
+\contentsline {subsection}{\numberline {9.5.1}Attention Level measurements}{108}{subsection.9.5.1}
+\contentsline {subsection}{\numberline {9.5.2}Engagement time}{109}{subsection.9.5.2}
+\contentsline {subsection}{\numberline {9.5.3}Passerby and engagement}{109}{subsection.9.5.3}
+\contentsline {subsection}{\numberline {9.5.4}Landing and Honeypot effects}{109}{subsection.9.5.4}
+\contentsline {subsection}{\numberline {9.5.5}Note taking}{110}{subsection.9.5.5}
+\contentsline {subsection}{\numberline {9.5.6}Comparison with Body interaction}{110}{subsection.9.5.6}
+\contentsline {section}{\numberline {9.6}Discussions}{111}{section.9.6}
+\contentsline {chapter}{\numberline {10}Conclusion}{113}{chapter.10}
+\contentsline {section}{\numberline {10.1}Introduction}{113}{section.10.1}
+\contentsline {section}{\numberline {10.2}Attention attraction study}{113}{section.10.2}
+\contentsline {section}{\numberline {10.3}nteraction}{113}{section.10.3}
+\contentsline {section}{\numberline {10.4}Motivation}{113}{section.10.4}
+\contentsline {section}{\numberline {10.5}Future work}{113}{section.10.5}
+\contentsline {chapter}{\numberline {A}Appendix}{117}{appendix.A}
+\contentsline {section}{\numberline {A.1}Glance count sheet}{118}{section.A.1}
+\contentsline {section}{\numberline {A.2}Consent Form}{119}{section.A.2}
+\contentsline {section}{\numberline {A.3}Interview Questionnaire}{120}{section.A.3}
+\contentsline {chapter}{\numberline {B}Focus group skitches}{121}{appendix.B}
+\contentsline {chapter}{\numberline {C}Low fidelity}{125}{appendix.C}
+\contentsline {section}{\numberline {C.1}Coded Interviews}{126}{section.C.1}
+\contentsline {chapter}{\numberline {D}Onsite study}{127}{appendix.D}
+\contentsline {section}{\numberline {D.1}Interview Questionnaire}{128}{section.D.1}
+\contentsline {section}{\numberline {D.2}Non-Interactive glance count}{129}{section.D.2}
+\contentsline {section}{\numberline {D.3}Body Interactive glance count}{130}{section.D.3}
+\contentsline {section}{\numberline {D.4}Mobile Interactive glance count}{131}{section.D.4}
+\contentsline {section}{\numberline {D.5}Non-Interactive interview code}{132}{section.D.5}
+\contentsline {section}{\numberline {D.6}Body Interactive interview code}{133}{section.D.6}
+\contentsline {section}{\numberline {D.7}Mobile Interactive interview code}{134}{section.D.7}
+\contentsline {section}{\numberline {D.8}Non-Interactive observation notes}{135}{section.D.8}
+\contentsline {section}{\numberline {D.9}Body Interactive observation notes (1)}{136}{section.D.9}
+\contentsline {section}{\numberline {D.10}Body Interactive observation notes (2)}{137}{section.D.10}
+\contentsline {section}{\numberline {D.11}Mobile Interactive observation notes}{138}{section.D.11}
+\contentsline {chapter}{\numberline {E}New body interactive study}{139}{appendix.E}
+\contentsline {section}{\numberline {E.1}Enhanced Interactive advertisement Glance count}{140}{section.E.1}
+\contentsline {section}{\numberline {E.2}Enhanced Interactive observation notes}{141}{section.E.2}
