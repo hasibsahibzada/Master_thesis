@@ -80,6 +80,49 @@ John Hardy,Enrico Rukzio and Nigel Davies
 MUM’11, Dec 7–9, 2011, Beijing, China.2011 ACM 978-1-4503-1096-3/11/12
 
 
+\bibitem{When_display}
+E. Huang, A. Koster, and J. Borchers. 
+\emph{Overcoming assumptions and uncovering practices: When does the public really look at public displays?}
+In Proc. of Pervasive 2008, 2008.
+
+
+\bibitem{Information_overload}
+S. milgram.
+\emph{The experience of living in cities.}
+Science, 13 March:1461–1468, 1970.
+
+
+\bibitem{banner_blindness}
+M. Burke, A. Hornof, E. Nilsen, and N. Gorman. 
+\emph{High-cost banner blindness: Ads increase perceived workload, hinder visual search, and are forgotten.}
+ACM Trans. Comput.-Hum. Interact., 12(4):423–445, 2005.
+
+
+\bibitem{mobile_focus_group}
+Alt, F., Schmidt, A., and Evers, C. 
+\emph{Mobile contextual display systems.}
+In Adj. Proc. of HotMobile’09 (2009).
+
+
+\bibitem{display_blindness}
+J. Müller, D. Wilmsmann, J. Exeler, M. Buzeck, A. Schmidt, T. Jay and A. Krüger
+\emph{Display Blindness: The Effect of Expectations on Attention towards Digital Signage}
+In Proceedings of the 7th International Conference on Pervasive Computing (Nara, Japan), Pervasive’09, pages 1–8, Berlin, Heidelberg, 2009. Springer-Verlag.
+
+
+\bibitem{Meaningful_ad}
+P. van Waart, I. Mulder, and C. de Bont
+\emph{Meaningful advertising:pervasive advertising in the experience economy}
+In J. Müller, F. Alt, and D. Michelis, editors, Pervasive Advertising, pages 57–81. Springer Limited London, 2011.
+
+
+\bibitem{Brand_experience}
+Brakus, j.j. Schmitt, B.H. \& Zarantonello, L.
+\emph{MBrand Experience: What Is It? How Is It Measured? Does It Affect Loyalty?}
+In: Journal of Marketing. Vol. 73, May 2009, p. 52–68.
+
+
+
 \bibitem{Kinect}
 Microsoft Kinect
 \url{https://developer.microsoft.com/de-de/windows/kinect}
