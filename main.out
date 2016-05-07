@@ -83,31 +83,31 @@
 \BOOKMARK [1][-]{section.5.2}{Requirement gathering}{chapter.5}% 83
 \BOOKMARK [2][-]{subsection.5.2.1}{Functional Requirements}{section.5.2}% 84
 \BOOKMARK [2][-]{subsection.5.2.2}{Non-functional Requirements}{section.5.2}% 85
-\BOOKMARK [1][-]{section.5.3}{Personas}{chapter.5}% 86
-\BOOKMARK [1][-]{section.5.4}{Use case diagrams}{chapter.5}% 87
-\BOOKMARK [1][-]{section.5.5}{Goal}{chapter.5}% 88
-\BOOKMARK [2][-]{subsection.5.5.1}{Hypothesis}{section.5.5}% 89
-\BOOKMARK [3][-]{section*.51}{Body Interaction}{subsection.5.5.1}% 90
-\BOOKMARK [2][-]{subsection.5.5.2}{Mobile Interaction}{section.5.5}% 91
-\BOOKMARK [1][-]{section.5.6}{Design study}{chapter.5}% 92
-\BOOKMARK [2][-]{subsection.5.6.1}{Subjects}{section.5.6}% 93
-\BOOKMARK [2][-]{subsection.5.6.2}{Location}{section.5.6}% 94
-\BOOKMARK [2][-]{subsection.5.6.3}{Procedures}{section.5.6}% 95
-\BOOKMARK [1][-]{section.5.7}{Data gathering}{chapter.5}% 96
-\BOOKMARK [1][-]{section.5.8}{Findings}{chapter.5}% 97
-\BOOKMARK [2][-]{subsection.5.8.1}{Usability issues}{section.5.8}% 98
-\BOOKMARK [2][-]{subsection.5.8.2}{Body Interactions usability}{section.5.8}% 99
-\BOOKMARK [2][-]{subsection.5.8.3}{Mobile usability}{section.5.8}% 100
-\BOOKMARK [2][-]{subsection.5.8.4}{Hypothesis decisions}{section.5.8}% 101
-\BOOKMARK [3][-]{section*.54}{Body Interaction}{subsection.5.8.4}% 102
-\BOOKMARK [3][-]{section*.55}{Mobile Interaction}{subsection.5.8.4}% 103
-\BOOKMARK [1][-]{section.5.9}{Conclusions}{chapter.5}% 104
+\BOOKMARK [2][-]{subsection.5.2.3}{Personas}{section.5.2}% 86
+\BOOKMARK [2][-]{subsection.5.2.4}{Use case diagrams}{section.5.2}% 87
+\BOOKMARK [1][-]{section.5.3}{Goal}{chapter.5}% 88
+\BOOKMARK [2][-]{subsection.5.3.1}{Hypothesis}{section.5.3}% 89
+\BOOKMARK [3][-]{section*.53}{Body Interaction}{subsection.5.3.1}% 90
+\BOOKMARK [2][-]{subsection.5.3.2}{Mobile Interaction}{section.5.3}% 91
+\BOOKMARK [1][-]{section.5.4}{Design study}{chapter.5}% 92
+\BOOKMARK [2][-]{subsection.5.4.1}{Subjects}{section.5.4}% 93
+\BOOKMARK [2][-]{subsection.5.4.2}{Location}{section.5.4}% 94
+\BOOKMARK [2][-]{subsection.5.4.3}{Procedures}{section.5.4}% 95
+\BOOKMARK [1][-]{section.5.5}{Data gathering}{chapter.5}% 96
+\BOOKMARK [1][-]{section.5.6}{Findings}{chapter.5}% 97
+\BOOKMARK [2][-]{subsection.5.6.1}{Usability issues}{section.5.6}% 98
+\BOOKMARK [2][-]{subsection.5.6.2}{Body Interactions usability}{section.5.6}% 99
+\BOOKMARK [2][-]{subsection.5.6.3}{Mobile usability}{section.5.6}% 100
+\BOOKMARK [2][-]{subsection.5.6.4}{Hypothesis decisions}{section.5.6}% 101
+\BOOKMARK [3][-]{section*.56}{Body Interaction}{subsection.5.6.4}% 102
+\BOOKMARK [3][-]{section*.57}{Mobile Interaction}{subsection.5.6.4}% 103
+\BOOKMARK [1][-]{section.5.7}{Conclusions}{chapter.5}% 104
 \BOOKMARK [0][-]{chapter.6}{Advertisement application}{}% 105
 \BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 106
 \BOOKMARK [1][-]{section.6.2}{Attracting attention Application}{chapter.6}% 107
 \BOOKMARK [2][-]{subsection.6.2.1}{Requirement gathering}{section.6.2}% 108
-\BOOKMARK [3][-]{section*.56}{Hardware requirement}{subsection.6.2.1}% 109
-\BOOKMARK [3][-]{section*.57}{Software requirement}{subsection.6.2.1}% 110
+\BOOKMARK [3][-]{section*.58}{Hardware requirement}{subsection.6.2.1}% 109
+\BOOKMARK [3][-]{section*.59}{Software requirement}{subsection.6.2.1}% 110
 \BOOKMARK [2][-]{subsection.6.2.2}{Following eye application}{section.6.2}% 111
 \BOOKMARK [2][-]{subsection.6.2.3}{Firework application}{section.6.2}% 112
 \BOOKMARK [2][-]{subsection.6.2.4}{Silhouette application}{section.6.2}% 113
@@ -116,41 +116,41 @@
 \BOOKMARK [2][-]{subsection.6.3.2}{Advertisement video}{section.6.3}% 116
 \BOOKMARK [2][-]{subsection.6.3.3}{Hardware setup}{section.6.3}% 117
 \BOOKMARK [2][-]{subsection.6.3.4}{Non-Interactive application}{section.6.3}% 118
-\BOOKMARK [3][-]{section*.67}{Flowchart Diagram}{subsection.6.3.4}% 119
+\BOOKMARK [3][-]{section*.69}{Flowchart Diagram}{subsection.6.3.4}% 119
 \BOOKMARK [2][-]{subsection.6.3.5}{Body Interactive application}{section.6.3}% 120
-\BOOKMARK [3][-]{section*.69}{First interface}{subsection.6.3.5}% 121
-\BOOKMARK [3][-]{section*.71}{Transition to second interfaces}{subsection.6.3.5}% 122
-\BOOKMARK [3][-]{section*.73}{Second interface}{subsection.6.3.5}% 123
-\BOOKMARK [3][-]{section*.75}{Flowchart Diagram}{subsection.6.3.5}% 124
-\BOOKMARK [3][-]{section*.77}{Software Details}{subsection.6.3.5}% 125
+\BOOKMARK [3][-]{section*.71}{First interface}{subsection.6.3.5}% 121
+\BOOKMARK [3][-]{section*.73}{Transition to second interfaces}{subsection.6.3.5}% 122
+\BOOKMARK [3][-]{section*.75}{Second interface}{subsection.6.3.5}% 123
+\BOOKMARK [3][-]{section*.77}{Flowchart Diagram}{subsection.6.3.5}% 124
+\BOOKMARK [3][-]{section*.79}{Software Details}{subsection.6.3.5}% 125
 \BOOKMARK [2][-]{subsection.6.3.6}{Mobile Interactive application}{section.6.3}% 126
-\BOOKMARK [3][-]{section*.78}{First screen interface}{subsection.6.3.6}% 127
-\BOOKMARK [3][-]{section*.80}{Transition to second interfaces}{subsection.6.3.6}% 128
-\BOOKMARK [3][-]{section*.82}{Second screen interface}{subsection.6.3.6}% 129
-\BOOKMARK [3][-]{section*.84}{Mobile interface}{subsection.6.3.6}% 130
-\BOOKMARK [3][-]{section*.86}{Hardware setup}{subsection.6.3.6}% 131
-\BOOKMARK [3][-]{section*.88}{Software setup}{subsection.6.3.6}% 132
-\BOOKMARK [3][-]{section*.90}{Flowchart Diagram}{subsection.6.3.6}% 133
+\BOOKMARK [3][-]{section*.80}{First screen interface}{subsection.6.3.6}% 127
+\BOOKMARK [3][-]{section*.82}{Transition to second interfaces}{subsection.6.3.6}% 128
+\BOOKMARK [3][-]{section*.84}{Second screen interface}{subsection.6.3.6}% 129
+\BOOKMARK [3][-]{section*.86}{Mobile interface}{subsection.6.3.6}% 130
+\BOOKMARK [3][-]{section*.88}{Hardware setup}{subsection.6.3.6}% 131
+\BOOKMARK [3][-]{section*.90}{Software setup}{subsection.6.3.6}% 132
+\BOOKMARK [3][-]{section*.92}{Flowchart Diagram}{subsection.6.3.6}% 133
 \BOOKMARK [0][-]{chapter.7}{Advertisement High Fidelity prototype}{}% 134
 \BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 135
 \BOOKMARK [1][-]{section.7.2}{Interactive Advertisement}{chapter.7}% 136
 \BOOKMARK [2][-]{subsection.7.2.1}{Mobile}{section.7.2}% 137
-\BOOKMARK [3][-]{section*.92}{Features}{subsection.7.2.1}% 138
-\BOOKMARK [3][-]{section*.93}{Flow chart}{subsection.7.2.1}% 139
+\BOOKMARK [3][-]{section*.94}{Features}{subsection.7.2.1}% 138
+\BOOKMARK [3][-]{section*.95}{Flow chart}{subsection.7.2.1}% 139
 \BOOKMARK [2][-]{subsection.7.2.2}{Body}{section.7.2}% 140
-\BOOKMARK [3][-]{section*.94}{Features}{subsection.7.2.2}% 141
-\BOOKMARK [3][-]{section*.95}{Flow chart}{subsection.7.2.2}% 142
+\BOOKMARK [3][-]{section*.96}{Features}{subsection.7.2.2}% 141
+\BOOKMARK [3][-]{section*.97}{Flow chart}{subsection.7.2.2}% 142
 \BOOKMARK [1][-]{section.7.3}{Research questions}{chapter.7}% 143
 \BOOKMARK [2][-]{subsection.7.3.1}{Body and Mobile interactions}{section.7.3}% 144
 \BOOKMARK [2][-]{subsection.7.3.2}{Video advertisement}{section.7.3}% 145
 \BOOKMARK [1][-]{section.7.4}{Test Design}{chapter.7}% 146
 \BOOKMARK [2][-]{subsection.7.4.1}{Participants}{section.7.4}% 147
 \BOOKMARK [2][-]{subsection.7.4.2}{Task}{section.7.4}% 148
-\BOOKMARK [3][-]{section*.97}{Call to action understandability}{subsection.7.4.2}% 149
-\BOOKMARK [3][-]{section*.98}{Task understandability}{subsection.7.4.2}% 150
-\BOOKMARK [3][-]{section*.99}{Task completion time}{subsection.7.4.2}% 151
-\BOOKMARK [3][-]{section*.100}{Content of Advertisement}{subsection.7.4.2}% 152
-\BOOKMARK [3][-]{section*.101}{Usability issues}{subsection.7.4.2}% 153
+\BOOKMARK [3][-]{section*.99}{Call to action understandability}{subsection.7.4.2}% 149
+\BOOKMARK [3][-]{section*.100}{Task understandability}{subsection.7.4.2}% 150
+\BOOKMARK [3][-]{section*.101}{Task completion time}{subsection.7.4.2}% 151
+\BOOKMARK [3][-]{section*.102}{Content of Advertisement}{subsection.7.4.2}% 152
+\BOOKMARK [3][-]{section*.103}{Usability issues}{subsection.7.4.2}% 153
 \BOOKMARK [1][-]{section.7.5}{Data Gathering }{chapter.7}% 154
 \BOOKMARK [2][-]{subsection.7.5.1}{Performance data}{section.7.5}% 155
 \BOOKMARK [2][-]{subsection.7.5.2}{Preference data}{section.7.5}% 156
@@ -161,17 +161,17 @@
 \BOOKMARK [2][-]{subsection.7.6.2}{Body Interaction performance}{section.7.6}% 161
 \BOOKMARK [2][-]{subsection.7.6.3}{Body Vs. Mobile performance}{section.7.6}% 162
 \BOOKMARK [2][-]{subsection.7.6.4}{Usability issues}{section.7.6}% 163
-\BOOKMARK [3][-]{section*.110}{Mobile Interaction}{subsection.7.6.4}% 164
-\BOOKMARK [3][-]{section*.111}{Body Interaction}{subsection.7.6.4}% 165
-\BOOKMARK [3][-]{section*.112}{Advertisement video}{subsection.7.6.4}% 166
+\BOOKMARK [3][-]{section*.112}{Mobile Interaction}{subsection.7.6.4}% 164
+\BOOKMARK [3][-]{section*.113}{Body Interaction}{subsection.7.6.4}% 165
+\BOOKMARK [3][-]{section*.114}{Advertisement video}{subsection.7.6.4}% 166
 \BOOKMARK [1][-]{section.7.7}{Advertisement goal}{chapter.7}% 167
 \BOOKMARK [2][-]{subsection.7.7.1}{Did users understand about advertisement?}{section.7.7}% 168
 \BOOKMARK [2][-]{subsection.7.7.2}{Word cloud \(Wordle\)}{section.7.7}% 169
 \BOOKMARK [2][-]{subsection.7.7.3}{Key factors for advertisement understanding}{section.7.7}% 170
 \BOOKMARK [2][-]{subsection.7.7.4}{Interview Findings}{section.7.7}% 171
-\BOOKMARK [3][-]{section*.115}{Mobile Categories}{subsection.7.7.4}% 172
-\BOOKMARK [3][-]{section*.116}{Body Categories}{subsection.7.7.4}% 173
-\BOOKMARK [3][-]{section*.117}{Advertisement}{subsection.7.7.4}% 174
+\BOOKMARK [3][-]{section*.117}{Mobile Categories}{subsection.7.7.4}% 172
+\BOOKMARK [3][-]{section*.118}{Body Categories}{subsection.7.7.4}% 173
+\BOOKMARK [3][-]{section*.119}{Advertisement}{subsection.7.7.4}% 174
 \BOOKMARK [1][-]{section.7.8}{Discussion}{chapter.7}% 175
 \BOOKMARK [1][-]{section.7.9}{Conclusion}{chapter.7}% 176
 \BOOKMARK [0][-]{chapter.8}{Interactive and non-Interactive onsite study}{}% 177
@@ -196,15 +196,15 @@
 \BOOKMARK [2][-]{subsection.8.7.5}{Other observations}{section.8.7}% 196
 \BOOKMARK [1][-]{section.8.8}{Findings}{chapter.8}% 197
 \BOOKMARK [2][-]{subsection.8.8.1}{Individual advertisement}{section.8.8}% 198
-\BOOKMARK [3][-]{section*.125}{Non-Interactive findings}{subsection.8.8.1}% 199
-\BOOKMARK [3][-]{section*.131}{Body Interactive findings}{subsection.8.8.1}% 200
-\BOOKMARK [3][-]{section*.138}{Mobile Interactive findings}{subsection.8.8.1}% 201
+\BOOKMARK [3][-]{section*.127}{Non-Interactive findings}{subsection.8.8.1}% 199
+\BOOKMARK [3][-]{section*.133}{Body Interactive findings}{subsection.8.8.1}% 200
+\BOOKMARK [3][-]{section*.140}{Mobile Interactive findings}{subsection.8.8.1}% 201
 \BOOKMARK [2][-]{subsection.8.8.2}{Comparison of advertisements}{section.8.8}% 202
-\BOOKMARK [3][-]{section*.144}{Number of passerby}{subsection.8.8.2}% 203
-\BOOKMARK [3][-]{section*.146}{Attention Level Comparison}{subsection.8.8.2}% 204
-\BOOKMARK [3][-]{section*.148}{Engaged and Non-engaged passerby}{subsection.8.8.2}% 205
-\BOOKMARK [3][-]{section*.151}{Landing effect}{subsection.8.8.2}% 206
-\BOOKMARK [3][-]{section*.154}{Honeypot effect}{subsection.8.8.2}% 207
+\BOOKMARK [3][-]{section*.146}{Number of passerby}{subsection.8.8.2}% 203
+\BOOKMARK [3][-]{section*.148}{Attention Level Comparison}{subsection.8.8.2}% 204
+\BOOKMARK [3][-]{section*.150}{Engaged and Non-engaged passerby}{subsection.8.8.2}% 205
+\BOOKMARK [3][-]{section*.153}{Landing effect}{subsection.8.8.2}% 206
+\BOOKMARK [3][-]{section*.156}{Honeypot effect}{subsection.8.8.2}% 207
 \BOOKMARK [0][-]{chapter.9}{Advertisement enhancement}{}% 208
 \BOOKMARK [1][-]{section.9.1}{Introduction}{chapter.9}% 209
 \BOOKMARK [1][-]{section.9.2}{Advertisement enhanced version}{chapter.9}% 210

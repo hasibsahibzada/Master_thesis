@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.1)  6 MAY 2016 22:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.1)  7 MAY 2016 17:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1388,7 +1388,7 @@ Chapter 2.
 
 
 
-] <Figures/3/TheAudienceFunnel.png, id=1678, 821.0675pt x 319.1925pt>
+] <Figures/3/TheAudienceFunnel.png, id=1682, 821.0675pt x 319.1925pt>
 File: Figures/3/TheAudienceFunnel.png Graphic file (type png)
 
 <use Figures/3/TheAudienceFunnel.png>
@@ -1406,21 +1406,21 @@ Chapter 3.
 
 
 
-] [8] <Figures/3/eyes.png, id=1718, 1927.2pt x 1084.05pt>
+] [8] <Figures/3/eyes.png, id=1722, 1927.2pt x 1084.05pt>
 File: Figures/3/eyes.png Graphic file (type png)
 
 <use Figures/3/eyes.png>
 Package pdftex.def Info: Figures/3/eyes.png used on input line 54.
 (pdftex.def)             Requested size: 142.24004pt x 113.80379pt.
 
-<Figures/3/fireworks.png, id=1719, 1927.2pt x 1084.05pt>
+<Figures/3/fireworks.png, id=1723, 1927.2pt x 1084.05pt>
 File: Figures/3/fireworks.png Graphic file (type png)
 
 <use Figures/3/fireworks.png>
 Package pdftex.def Info: Figures/3/fireworks.png used on input line 56.
 (pdftex.def)             Requested size: 142.24004pt x 113.80379pt.
 
-<Figures/3/silhouttee.png, id=1720, 1927.2pt x 1084.05pt>
+<Figures/3/silhouttee.png, id=1724, 1927.2pt x 1084.05pt>
 File: Figures/3/silhouttee.png Graphic file (type png)
 
 <use Figures/3/silhouttee.png>
@@ -1428,7 +1428,7 @@ Package pdftex.def Info: Figures/3/silhouttee.png used on input line 64.
 (pdftex.def)             Requested size: 142.24004pt x 113.80379pt.
  [9] [10 <./Figures/3/eyes.png> <./Figures/3/fireworks.png> <./Figures/3/silhou
 ttee.png>]
-<Figures/3/Kasseturm_monitor.png, id=1736, 208.1376pt x 156.1032pt>
+<Figures/3/Kasseturm_monitor.png, id=1740, 208.1376pt x 156.1032pt>
 File: Figures/3/Kasseturm_monitor.png Graphic file (type png)
 
 <use Figures/3/Kasseturm_monitor.png>
@@ -1436,7 +1436,7 @@ Package pdftex.def Info: Figures/3/Kasseturm_monitor.png used on input line 107
 .
 (pdftex.def)             Requested size: 184.95287pt x 170.72552pt.
 
-<Figures/3/mensa_setup.png, id=1737, 1768.6075pt x 1045.9075pt>
+<Figures/3/mensa_setup.png, id=1741, 1768.6075pt x 1045.9075pt>
 File: Figures/3/mensa_setup.png Graphic file (type png)
 
 <use Figures/3/mensa_setup.png>
@@ -1447,14 +1447,14 @@ Overfull \hbox (15.80414pt too wide) in paragraph at lines 107--109
  [][][][] 
  []
 
-[11] <Figures/3/hamid.png, id=1743, 226.446pt x 162.8484pt>
+[11] <Figures/3/hamid.png, id=1747, 226.446pt x 162.8484pt>
 File: Figures/3/hamid.png Graphic file (type png)
 
 <use Figures/3/hamid.png>
 Package pdftex.def Info: Figures/3/hamid.png used on input line 119.
 (pdftex.def)             Requested size: 170.72208pt x 113.8117pt.
 
-<Figures/3/observer.png, id=1744, 208.1376pt x 162.8484pt>
+<Figures/3/observer.png, id=1748, 208.1376pt x 162.8484pt>
 File: Figures/3/observer.png Graphic file (type png)
 
 <use Figures/3/observer.png>
@@ -1528,80 +1528,80 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
-[20] <Figures/4/focus_group.png, id=1826, 172.0026pt x 115.1502pt>
+[20] <Figures/4/focus_group.png, id=1830, 172.0026pt x 115.1502pt>
 File: Figures/4/focus_group.png Graphic file (type png)
 
 <use Figures/4/focus_group.png>
-Package pdftex.def Info: Figures/4/focus_group.png used on input line 47.
+Package pdftex.def Info: Figures/4/focus_group.png used on input line 52.
 (pdftex.def)             Requested size: 170.71613pt x 113.81104pt.
 
-<Figures/4/meeting_room.png, id=1827, 172.0026pt x 117.0774pt>
+<Figures/4/meeting_room.png, id=1831, 172.0026pt x 117.0774pt>
 File: Figures/4/meeting_room.png Graphic file (type png)
 
 <use Figures/4/meeting_room.png>
-Package pdftex.def Info: Figures/4/meeting_room.png used on input line 48.
+Package pdftex.def Info: Figures/4/meeting_room.png used on input line 53.
 (pdftex.def)             Requested size: 170.71613pt x 113.81682pt.
  [21 <./Figures/4/focus_group.png> <./Figures/4/meeting_room.png>]
-Overfull \hbox (2.10063pt too wide) in paragraph at lines 75--77
+Overfull \hbox (2.10063pt too wide) in paragraph at lines 80--82
 \T1/cmr/m/n/10.95 Brief in-tro-duc-tion on ad-ver-tise-ment and in-ter-ac-tive 
 ad-ver-tise-ments were
  []
 
-<Figures/4/drawings.png, id=1839, 198.9834pt x 151.767pt>
+<Figures/4/drawings.png, id=1843, 198.9834pt x 151.767pt>
 File: Figures/4/drawings.png Graphic file (type png)
 
 <use Figures/4/drawings.png>
-Package pdftex.def Info: Figures/4/drawings.png used on input line 93.
+Package pdftex.def Info: Figures/4/drawings.png used on input line 98.
 (pdftex.def)             Requested size: 170.72768pt x 142.26266pt.
 
-<Figures/4/discussions.png, id=1840, 198.9834pt x 149.8398pt>
+<Figures/4/discussions.png, id=1844, 198.9834pt x 149.8398pt>
 File: Figures/4/discussions.png Graphic file (type png)
 
 <use Figures/4/discussions.png>
-Package pdftex.def Info: Figures/4/discussions.png used on input line 94.
+Package pdftex.def Info: Figures/4/discussions.png used on input line 99.
 (pdftex.def)             Requested size: 170.72768pt x 142.27382pt.
  [22]
-<Figures/4/notes.png, id=1854, 217.2918pt x 161.8848pt>
+<Figures/4/notes.png, id=1858, 217.2918pt x 161.8848pt>
 File: Figures/4/notes.png Graphic file (type png)
 
 <use Figures/4/notes.png>
-Package pdftex.def Info: Figures/4/notes.png used on input line 102.
+Package pdftex.def Info: Figures/4/notes.png used on input line 107.
 (pdftex.def)             Requested size: 170.72362pt x 142.27132pt.
  [23 <./Figures/4/drawings.png> <./Figures/4/discussions.png> <./Figures/4/note
 s.png>]
-<Figures/4/map.png, id=1867, 214.8828pt x 163.3302pt>
+<Figures/4/map.png, id=1871, 214.8828pt x 163.3302pt>
 File: Figures/4/map.png Graphic file (type png)
  <use Figures/4/map.png>
-Package pdftex.def Info: Figures/4/map.png used on input line 134.
+Package pdftex.def Info: Figures/4/map.png used on input line 139.
 (pdftex.def)             Requested size: 170.71951pt x 142.26309pt.
 
-<Figures/4/chess.png, id=1868, 225.9642pt x 163.3302pt>
+<Figures/4/chess.png, id=1872, 225.9642pt x 163.3302pt>
 File: Figures/4/chess.png Graphic file (type png)
 
 <use Figures/4/chess.png>
-Package pdftex.def Info: Figures/4/chess.png used on input line 135.
+Package pdftex.def Info: Figures/4/chess.png used on input line 140.
 (pdftex.def)             Requested size: 170.72432pt x 142.26309pt.
 
-<Figures/4/show_map.png, id=1869, 216.81pt x 165.2574pt>
+<Figures/4/show_map.png, id=1873, 216.81pt x 165.2574pt>
 File: Figures/4/show_map.png Graphic file (type png)
 
 <use Figures/4/show_map.png>
-Package pdftex.def Info: Figures/4/show_map.png used on input line 143.
+Package pdftex.def Info: Figures/4/show_map.png used on input line 148.
 (pdftex.def)             Requested size: 170.72554pt x 142.26735pt.
 
-<Figures/4/tell_map.png, id=1870, 224.037pt x 165.7392pt>
+<Figures/4/tell_map.png, id=1874, 224.037pt x 165.7392pt>
 File: Figures/4/tell_map.png Graphic file (type png)
 
 <use Figures/4/tell_map.png>
-Package pdftex.def Info: Figures/4/tell_map.png used on input line 144.
+Package pdftex.def Info: Figures/4/tell_map.png used on input line 149.
 (pdftex.def)             Requested size: 170.7177pt x 142.26736pt.
  [24 <./Figures/4/map.png> <./Figures/4/chess.png> <./Figures/4/show_map.png> <
 ./Figures/4/tell_map.png>] [25]
-<Figures/4/target_group.png, id=1903, 272.217pt x 169.5936pt>
+<Figures/4/target_group.png, id=1907, 272.217pt x 169.5936pt>
 File: Figures/4/target_group.png Graphic file (type png)
 
 <use Figures/4/target_group.png>
-Package pdftex.def Info: Figures/4/target_group.png used on input line 212.
+Package pdftex.def Info: Figures/4/target_group.png used on input line 217.
 (pdftex.def)             Requested size: 170.71652pt x 106.3606pt.
  [26 <./Figures/4/target_group.png>] [27]
 [28]) [29] [30]
@@ -1614,94 +1614,95 @@ Chapter 5.
 
 
 
-] [32] <Figures/5/paper_board.png, id=1957, 244.2726pt x 163.3302pt>
+] [32] [33] [34]
+<Figures/5/paper_board.png, id=1989, 244.2726pt x 163.3302pt>
 File: Figures/5/paper_board.png Graphic file (type png)
 
 <use Figures/5/paper_board.png>
-Package pdftex.def Info: Figures/5/paper_board.png used on input line 108.
+Package pdftex.def Info: Figures/5/paper_board.png used on input line 156.
 (pdftex.def)             Requested size: 170.71756pt x 113.81197pt.
 
-<Figures/5/mobile_paper.png, id=1958, 309.3156pt x 153.6942pt>
+<Figures/5/mobile_paper.png, id=1990, 309.3156pt x 153.6942pt>
 File: Figures/5/mobile_paper.png Graphic file (type png)
 
 <use Figures/5/mobile_paper.png>
-Package pdftex.def Info: Figures/5/mobile_paper.png used on input line 110.
+Package pdftex.def Info: Figures/5/mobile_paper.png used on input line 158.
 (pdftex.def)             Requested size: 170.71407pt x 113.81398pt.
- [33]
-<Figures/5/body_interaction.png, id=1969, 216.81pt x 144.54pt>
+
+<Figures/5/body_interaction.png, id=1991, 216.81pt x 144.54pt>
 File: Figures/5/body_interaction.png Graphic file (type png)
 
 <use Figures/5/body_interaction.png>
-Package pdftex.def Info: Figures/5/body_interaction.png used on input line 130.
+Package pdftex.def Info: Figures/5/body_interaction.png used on input line 178.
 
 (pdftex.def)             Requested size: 170.72554pt x 113.8104pt.
 
-<Figures/5/mobile_interactions.png, id=1970, 199.4652pt x 144.54pt>
+<Figures/5/mobile_interactions.png, id=1992, 199.4652pt x 144.54pt>
 File: Figures/5/mobile_interactions.png Graphic file (type png)
 
 <use Figures/5/mobile_interactions.png>
 Package pdftex.def Info: Figures/5/mobile_interactions.png used on input line 1
-32.
+80.
 (pdftex.def)             Requested size: 170.72408pt x 113.8104pt.
- [34 <./Figures/5/paper_board.png> <./Figures/5/mobile_paper.png> <./Figures/5/
-body_interaction.png> <./Figures/5/mobile_interactions.png>] [35] [36]
-Overfull \hbox (3.41374pt too wide) in paragraph at lines 271--274
+ [35 <./Figures/5/paper_board.png> <./Figures/5/mobile_paper.png>] [36 <./Figur
+es/5/body_interaction.png> <./Figures/5/mobile_interactions.png>] [37] [38]
+Overfull \hbox (3.41374pt too wide) in paragraph at lines 319--322
 \T1/cmr/m/n/10.95 All of the par-tic-i-pants un-der-stood call-to-action and re
 -acted to it quickly
  []
 
-[37] [38] [39]) [40]
+[39] [40]) [41]
 \openout2 = `Chapters/7/AdvertisementApplication.aux'.
 
- (./Chapters/7/AdvertisementApplication.tex
-Chapter 6.
-1: section
-[41
+ (./Chapters/7/AdvertisementApplication.tex [42
 
 
 
 ]
+Chapter 6.
+1: section
+[43]
 Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
-[42] [43] <Figures/7/initialpage.jpg, id=2085, 1927.2pt x 1084.05pt>
+[44] [45] <Figures/7/initialpage.jpg, id=2115, 1927.2pt x 1084.05pt>
 File: Figures/7/initialpage.jpg Graphic file (type jpg)
 
 <use Figures/7/initialpage.jpg>
 Package pdftex.def Info: Figures/7/initialpage.jpg used on input line 115.
 (pdftex.def)             Requested size: 284.50949pt x 142.25475pt.
 
-<Figures/7/map.jpg, id=2086, 1916.66063pt x 1064.47687pt>
+<Figures/7/map.jpg, id=2116, 1916.66063pt x 1064.47687pt>
 File: Figures/7/map.jpg Graphic file (type jpg)
 
 <use Figures/7/map.jpg>
 Package pdftex.def Info: Figures/7/map.jpg used on input line 123.
 (pdftex.def)             Requested size: 284.50362pt x 142.25258pt.
 
-<Figures/7/enlarged_pic.jpg, id=2087, 1914.65312pt x 1066.98625pt>
+<Figures/7/enlarged_pic.jpg, id=2117, 1914.65312pt x 1066.98625pt>
 File: Figures/7/enlarged_pic.jpg Graphic file (type jpg)
 
 <use Figures/7/enlarged_pic.jpg>
 Package pdftex.def Info: Figures/7/enlarged_pic.jpg used on input line 131.
 (pdftex.def)             Requested size: 284.527pt x 142.26231pt.
 
-<Figures/7/map_pictures.jpg, id=2088, 1917.66437pt x 1059.96pt>
+<Figures/7/map_pictures.jpg, id=2118, 1917.66437pt x 1059.96pt>
 File: Figures/7/map_pictures.jpg Graphic file (type jpg)
 
 <use Figures/7/map_pictures.jpg>
 Package pdftex.def Info: Figures/7/map_pictures.jpg used on input line 139.
 (pdftex.def)             Requested size: 284.5063pt x 142.26357pt.
- [44 <./Figures/7/initialpage.jpg> <./Figures/7/map.jpg> <./Figures/7/enlarged_
+ [46 <./Figures/7/initialpage.jpg> <./Figures/7/map.jpg> <./Figures/7/enlarged_
 pic.jpg>]
-<Figures/7/ad_first.jpg, id=2094, 1918.16624pt x 1019.81pt>
+<Figures/7/ad_first.jpg, id=2124, 1918.16624pt x 1019.81pt>
 File: Figures/7/ad_first.jpg Graphic file (type jpg)
 
 <use Figures/7/ad_first.jpg>
 Package pdftex.def Info: Figures/7/ad_first.jpg used on input line 146.
 (pdftex.def)             Requested size: 284.52222pt x 142.25891pt.
 
-<Figures/7/ad_last.jpg, id=2095, 1915.155pt x 1040.88875pt>
+<Figures/7/ad_last.jpg, id=2125, 1915.155pt x 1040.88875pt>
 File: Figures/7/ad_last.jpg Graphic file (type jpg)
 
 <use Figures/7/ad_last.jpg>
@@ -1712,9 +1713,9 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 163.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [45 <./Figures/7/map_pictures.jpg> <./Figures/7/ad_first.jpg> <./Figures/7/ad
+) [47 <./Figures/7/map_pictures.jpg> <./Figures/7/ad_first.jpg> <./Figures/7/ad
 _last.jpg>]
-<Figures/7/Physical_setup.png, id=2103, 725.71124pt x 569.12625pt>
+<Figures/7/Physical_setup.png, id=2133, 725.71124pt x 569.12625pt>
 File: Figures/7/Physical_setup.png Graphic file (type png)
 
 <use Figures/7/Physical_setup.png>
@@ -1725,24 +1726,24 @@ File: Figures/7/Physical_setup.png Graphic file (type png)
 Package pdftex.def Info: Figures/7/Physical_setup.png used on input line 180.
 (pdftex.def)             Requested size: 284.53223pt x 199.17111pt.
 
-<Figures/7/Non-interactive/flow_chart_diagram.png, id=2104, 582.175pt x 711.658
+<Figures/7/Non-interactive/flow_chart_diagram.png, id=2134, 582.175pt x 711.658
 75pt>
 File: Figures/7/Non-interactive/flow_chart_diagram.png Graphic file (type png)
  <use Figures/7/Non-interactive/flow_chart_diagram.png>
 Package pdftex.def Info: Figures/7/Non-interactive/flow_chart_diagram.png used 
 on input line 195.
 (pdftex.def)             Requested size: 284.53093pt x 256.06665pt.
- [46 <./Figures/7/Physical_setup.png>] [47 <./Figures/7/Non-interactive/flow_ch
+ [48 <./Figures/7/Physical_setup.png>] [49 <./Figures/7/Non-interactive/flow_ch
 art_diagram.png>]
-<Figures/7/body_interactive/first_interface.jpg, id=2116, 1681.28125pt x 928.46
+<Figures/7/body_interactive/first_interface.jpg, id=2147, 1681.28125pt x 928.46
 875pt>
 File: Figures/7/body_interactive/first_interface.jpg Graphic file (type jpg)
  <use Figures/7/body_interactive/first_interface.jpg>
 Package pdftex.def Info: Figures/7/body_interactive/first_interface.jpg used on
  input line 210.
 (pdftex.def)             Requested size: 284.53133pt x 170.71565pt.
- [48 <./Figures/7/body_interactive/first_interface.jpg>]
-<Figures/7/body_interactive/loading.jpg, id=2123, 1916.15875pt x 1051.42813pt>
+ [50 <./Figures/7/body_interactive/first_interface.jpg>]
+<Figures/7/body_interactive/loading.jpg, id=2154, 1916.15875pt x 1051.42813pt>
 File: Figures/7/body_interactive/loading.jpg Graphic file (type jpg)
 
 <use Figures/7/body_interactive/loading.jpg>
@@ -1750,7 +1751,7 @@ Package pdftex.def Info: Figures/7/body_interactive/loading.jpg used on input l
 ine 233.
 (pdftex.def)             Requested size: 113.79503pt x 85.35132pt.
 
-<Figures/7/body_interactive/scalling_down.jpg, id=2124, 1913.64937pt x 1065.480
+<Figures/7/body_interactive/scalling_down.jpg, id=2155, 1913.64937pt x 1065.480
 62pt>
 File: Figures/7/body_interactive/scalling_down.jpg Graphic file (type jpg)
  <use Figures/7/body_interactive/scalling_down.jpg>
@@ -1758,7 +1759,7 @@ Package pdftex.def Info: Figures/7/body_interactive/scalling_down.jpg used on i
 nput line 234.
 (pdftex.def)             Requested size: 113.792pt x 85.35399pt.
 
-<Figures/7/body_interactive/task_description.jpg, id=2125, 1916.66063pt x 1063.
+<Figures/7/body_interactive/task_description.jpg, id=2156, 1916.66063pt x 1063.
 975pt>
 File: Figures/7/body_interactive/task_description.jpg Graphic file (type jpg)
  <use Figures/7/body_interactive/task_description.jpg>
@@ -1766,7 +1767,7 @@ Package pdftex.def Info: Figures/7/body_interactive/task_description.jpg used o
 n input line 235.
 (pdftex.def)             Requested size: 113.7956pt x 85.34702pt.
 
-<Figures/7/body_interactive/second_interface.jpg, id=2126, 1769.61125pt x 979.6
+<Figures/7/body_interactive/second_interface.jpg, id=2157, 1769.61125pt x 979.6
 6pt>
 File: Figures/7/body_interactive/second_interface.jpg Graphic file (type jpg)
  <use Figures/7/body_interactive/second_interface.jpg>
@@ -1774,18 +1775,18 @@ Package pdftex.def Info: Figures/7/body_interactive/second_interface.jpg used o
 n input line 245.
 (pdftex.def)             Requested size: 284.52069pt x 170.7106pt.
 
-<Figures/7/body_interactive/body_flow_chart.png, id=2127, 804.00375pt x 1069.99
+<Figures/7/body_interactive/body_flow_chart.png, id=2158, 804.00375pt x 1069.99
 75pt>
 File: Figures/7/body_interactive/body_flow_chart.png Graphic file (type png)
  <use Figures/7/body_interactive/body_flow_chart.png>
 Package pdftex.def Info: Figures/7/body_interactive/body_flow_chart.png used on
  input line 254.
 (pdftex.def)             Requested size: 341.43332pt x 398.3419pt.
- [49 <./Figures/7/body_interactive/loading.jpg> <./Figures/7/body_interactive/s
+ [51 <./Figures/7/body_interactive/loading.jpg> <./Figures/7/body_interactive/s
 calling_down.jpg> <./Figures/7/body_interactive/task_description.jpg> <./Figure
-s/7/body_interactive/second_interface.jpg>] [50 <./Figures/7/body_interactive/b
+s/7/body_interactive/second_interface.jpg>] [52 <./Figures/7/body_interactive/b
 ody_flow_chart.png>]
-<Figures/7/mobile_interactive/first_interface.jpg, id=2143, 1923.185pt x 1064.4
+<Figures/7/mobile_interactive/first_interface.jpg, id=2173, 1923.185pt x 1064.4
 7687pt>
 File: Figures/7/mobile_interactive/first_interface.jpg Graphic file (type jpg)
  <use Figures/7/mobile_interactive/first_interface.jpg>
@@ -1793,7 +1794,7 @@ Package pdftex.def Info: Figures/7/mobile_interactive/first_interface.jpg used
 on input line 284.
 (pdftex.def)             Requested size: 284.50368pt x 170.7096pt.
 
-<Figures/7/mobile_interactive/loading.jpg, id=2144, 1915.65688pt x 1064.97874pt
+<Figures/7/mobile_interactive/loading.jpg, id=2174, 1915.65688pt x 1064.97874pt
 >
 File: Figures/7/mobile_interactive/loading.jpg Graphic file (type jpg)
  <use Figures/7/mobile_interactive/loading.jpg>
@@ -1801,7 +1802,7 @@ Package pdftex.def Info: Figures/7/mobile_interactive/loading.jpg used on input
  line 306.
 (pdftex.def)             Requested size: 142.23576pt x 113.80046pt.
 
-<Figures/7/mobile_interactive/task_description.jpg, id=2145, 1916.66063pt x 106
+<Figures/7/mobile_interactive/task_description.jpg, id=2175, 1916.66063pt x 106
 3.975pt>
 File: Figures/7/mobile_interactive/task_description.jpg Graphic file (type jpg)
 
@@ -1809,8 +1810,8 @@ File: Figures/7/mobile_interactive/task_description.jpg Graphic file (type jpg)
 Package pdftex.def Info: Figures/7/mobile_interactive/task_description.jpg used
  on input line 307.
 (pdftex.def)             Requested size: 142.2518pt x 113.80685pt.
- [51 <./Figures/7/mobile_interactive/first_interface.jpg>]
-<Figures/7/mobile_interactive/second_interface.jpg, id=2153, 1917.66437pt x 106
+ [53 <./Figures/7/mobile_interactive/first_interface.jpg>]
+<Figures/7/mobile_interactive/second_interface.jpg, id=2184, 1917.66437pt x 106
 5.48062pt>
 File: Figures/7/mobile_interactive/second_interface.jpg Graphic file (type jpg)
 
@@ -1819,7 +1820,7 @@ Package pdftex.def Info: Figures/7/mobile_interactive/second_interface.jpg used
  on input line 320.
 (pdftex.def)             Requested size: 284.5063pt x 170.708pt.
 
-<Figures/7/mobile_interactive/mobile_interface.png, id=2154, 377.41pt x 223.836
+<Figures/7/mobile_interactive/mobile_interface.png, id=2185, 377.41pt x 223.836
 24pt>
 File: Figures/7/mobile_interactive/mobile_interface.png Graphic file (type png)
 
@@ -1827,10 +1828,10 @@ File: Figures/7/mobile_interactive/mobile_interface.png Graphic file (type png)
 Package pdftex.def Info: Figures/7/mobile_interactive/mobile_interface.png used
  on input line 332.
 (pdftex.def)             Requested size: 284.5253pt x 170.72185pt.
- [52 <./Figures/7/mobile_interactive/loading.jpg> <./Figures/7/mobile_interacti
+ [54 <./Figures/7/mobile_interactive/loading.jpg> <./Figures/7/mobile_interacti
 ve/task_description.jpg> <./Figures/7/mobile_interactive/second_interface.jpg>]
 
-<Figures/7/mobile_interactive/Mobile_hardware_setup.png, id=2162, 753.81625pt x
+<Figures/7/mobile_interactive/Mobile_hardware_setup.png, id=2192, 753.81625pt x
  485.815pt>
 File: Figures/7/mobile_interactive/Mobile_hardware_setup.png Graphic file (type
  png)
@@ -1839,9 +1840,9 @@ Package pdftex.def Info: Figures/7/mobile_interactive/Mobile_hardware_setup.png
  used on input line 345.
 (pdftex.def)             Requested size: 284.52077pt x 170.71237pt.
 
-[53 <./Figures/7/mobile_interactive/mobile_interface.png> <./Figures/7/mobile_i
+[55 <./Figures/7/mobile_interactive/mobile_interface.png> <./Figures/7/mobile_i
 nteractive/Mobile_hardware_setup.png>]
-<Figures/7/mobile_interactive/mobile_software.png, id=2169, 796.9775pt x 322.20
+<Figures/7/mobile_interactive/mobile_software.png, id=2200, 796.9775pt x 322.20
 375pt>
 File: Figures/7/mobile_interactive/mobile_software.png Graphic file (type png)
  <use Figures/7/mobile_interactive/mobile_software.png>
@@ -1849,7 +1850,7 @@ Package pdftex.def Info: Figures/7/mobile_interactive/mobile_software.png used
 on input line 367.
 (pdftex.def)             Requested size: 341.42891pt x 170.72292pt.
 
-<Figures/7/mobile_interactive/mobile_flow_chart.png, id=2170, 805.0075pt x 1095
+<Figures/7/mobile_interactive/mobile_flow_chart.png, id=2201, 805.0075pt x 1095
 .09125pt>
 File: Figures/7/mobile_interactive/mobile_flow_chart.png Graphic file (type png
 )
@@ -1862,42 +1863,42 @@ Overfull \hbox (8.52809pt too wide) in paragraph at lines 378--379
  [][] 
  []
 
-[54 <./Figures/7/mobile_interactive/mobile_software.png>]) [55 <./Figures/7/mob
+[56 <./Figures/7/mobile_interactive/mobile_software.png>]) [57 <./Figures/7/mob
 ile_interactive/mobile_flow_chart.png>]
 \openout2 = `Chapters/6/AdvertisementHighFi.aux'.
 
  (./Chapters/6/AdvertisementHighFi.tex
-[56
+[58
 
 
 
 ]
 Chapter 7.
 1: section
-[57] [58] [59]
-<Figures/6/mobile_performance.png, id=2206, 415.7934pt x 209.1012pt>
+[59] [60] [61]
+<Figures/6/mobile_performance.png, id=2237, 415.7934pt x 209.1012pt>
 File: Figures/6/mobile_performance.png Graphic file (type png)
 
 <use Figures/6/mobile_performance.png>
 Package pdftex.def Info: Figures/6/mobile_performance.png used on input line 14
 6.
 (pdftex.def)             Requested size: 341.44131pt x 227.62862pt.
- [60]
-<Figures/6/mobile_average.png, id=2216, 406.6392pt x 189.8292pt>
+ [62]
+<Figures/6/mobile_average.png, id=2247, 406.6392pt x 189.8292pt>
 File: Figures/6/mobile_average.png Graphic file (type png)
 
 <use Figures/6/mobile_average.png>
 Package pdftex.def Info: Figures/6/mobile_average.png used on input line 154.
 (pdftex.def)             Requested size: 341.4381pt x 227.62009pt.
 
-<Figures/6/mobile_mean.png, id=2217, 365.2044pt x 226.9278pt>
+<Figures/6/mobile_mean.png, id=2248, 365.2044pt x 226.9278pt>
 File: Figures/6/mobile_mean.png Graphic file (type png)
 
 <use Figures/6/mobile_mean.png>
 Package pdftex.def Info: Figures/6/mobile_mean.png used on input line 164.
 (pdftex.def)             Requested size: 341.44766pt x 170.71828pt.
- [61 <./Figures/6/mobile_performance.png> <./Figures/6/mobile_average.png>]
-<Figures/6/body_performance.png, id=2225, 397.485pt x 209.1012pt>
+ [63 <./Figures/6/mobile_performance.png> <./Figures/6/mobile_average.png>]
+<Figures/6/body_performance.png, id=2255, 397.485pt x 209.1012pt>
 File: Figures/6/body_performance.png Graphic file (type png)
 
 <use Figures/6/body_performance.png>
@@ -1905,118 +1906,118 @@ Package pdftex.def Info: Figures/6/body_performance.png used on input line 176.
 
 (pdftex.def)             Requested size: 341.44226pt x 227.62862pt.
 
-<Figures/6/body_average.png, id=2226, 424.9476pt x 207.6558pt>
+<Figures/6/body_average.png, id=2256, 424.9476pt x 207.6558pt>
 File: Figures/6/body_average.png Graphic file (type png)
 
 <use Figures/6/body_average.png>
 Package pdftex.def Info: Figures/6/body_average.png used on input line 183.
 (pdftex.def)             Requested size: 341.43692pt x 227.63628pt.
- [62 <./Figures/6/mobile_mean.png> <./Figures/6/body_performance.png>]
-<Figures/6/body_mean.png, id=2233, 374.8404pt x 242.3454pt>
+ [64 <./Figures/6/mobile_mean.png> <./Figures/6/body_performance.png>]
+<Figures/6/body_mean.png, id=2264, 374.8404pt x 242.3454pt>
 File: Figures/6/body_mean.png Graphic file (type png)
 
 <use Figures/6/body_mean.png>
 Package pdftex.def Info: Figures/6/body_mean.png used on input line 192.
 (pdftex.def)             Requested size: 341.45418pt x 170.7167pt.
 
-<Figures/6/mobile_body_performance.png, id=2234, 476.0184pt x 158.994pt>
+<Figures/6/mobile_body_performance.png, id=2265, 476.0184pt x 158.994pt>
 File: Figures/6/mobile_body_performance.png Graphic file (type png)
 
 <use Figures/6/mobile_body_performance.png>
 Package pdftex.def Info: Figures/6/mobile_body_performance.png used on input li
 ne 205.
 (pdftex.def)             Requested size: 341.44008pt x 170.72598pt.
- [63 <./Figures/6/body_average.png> <./Figures/6/body_mean.png>]
-<Figures/6/mobile_body_aspect.png, id=2241, 416.757pt x 209.1012pt>
+ [65 <./Figures/6/body_average.png> <./Figures/6/body_mean.png>]
+<Figures/6/mobile_body_aspect.png, id=2272, 416.757pt x 209.1012pt>
 File: Figures/6/mobile_body_aspect.png Graphic file (type png)
 
 <use Figures/6/mobile_body_aspect.png>
 Package pdftex.def Info: Figures/6/mobile_body_aspect.png used on input line 21
 4.
 (pdftex.def)             Requested size: 341.43771pt x 170.72066pt.
- [64 <./Figures/6/mobile_body_performance.png> <./Figures/6/mobile_body_aspect.
+ [66 <./Figures/6/mobile_body_performance.png> <./Figures/6/mobile_body_aspect.
 png>]
 Overfull \hbox (2.21387pt too wide) in paragraph at lines 240--241
 []\T1/cmr/m/n/10.95 There was no in-struc-tion to turn-on the tilt-sensor in mo
 -bile phone. 
  []
 
-[65] <Figures/6/word_recall.png, id=2270, 408.0846pt x 164.2938pt>
+[67] <Figures/6/word_recall.png, id=2301, 408.0846pt x 164.2938pt>
 File: Figures/6/word_recall.png Graphic file (type png)
 
 <use Figures/6/word_recall.png>
 Package pdftex.def Info: Figures/6/word_recall.png used on input line 304.
 (pdftex.def)             Requested size: 341.44994pt x 170.72864pt.
- [66]
-<Figures/6/wordle.png, id=2284, 415.7934pt x 265.9536pt>
+ [68]
+<Figures/6/wordle.png, id=2315, 415.7934pt x 265.9536pt>
 File: Figures/6/wordle.png Graphic file (type png)
 
 <use Figures/6/wordle.png>
 Package pdftex.def Info: Figures/6/wordle.png used on input line 316.
 (pdftex.def)             Requested size: 341.44131pt x 227.63211pt.
- [67 <./Figures/6/word_recall.png> <./Figures/6/wordle.png>] [68] [69] [70]) [7
-1]
+ [69 <./Figures/6/word_recall.png> <./Figures/6/wordle.png>] [70] [71] [72]) [7
+3]
 \openout2 = `Chapters/8/InteractiveNonInteractiveStudy.aux'.
 
  (./Chapters/8/InteractiveNonInteractiveStudy.tex
-[72
+[74
 
 
 
 ]
 Chapter 8.
 1: section
-[73] <Figures/8/body_motivation.png, id=2339, 1131.22626pt x 930.47626pt>
+[75] <Figures/8/body_motivation.png, id=2370, 1131.22626pt x 930.47626pt>
 File: Figures/8/body_motivation.png Graphic file (type png)
 
 <use Figures/8/body_motivation.png>
 Package pdftex.def Info: Figures/8/body_motivation.png used on input line 47.
 (pdftex.def)             Requested size: 312.97827pt x 199.16823pt.
 
-<Figures/8/body_interaction.png, id=2340, 879.285pt x 873.2625pt>
+<Figures/8/body_interaction.png, id=2371, 879.285pt x 873.2625pt>
 File: Figures/8/body_interaction.png Graphic file (type png)
 
 <use Figures/8/body_interaction.png>
 Package pdftex.def Info: Figures/8/body_interaction.png used on input line 54.
 (pdftex.def)             Requested size: 312.9735pt x 199.1672pt.
- [74 <./Figures/8/body_motivation.png>]
-<Figures/8/mobile_motivation.png, id=2346, 640.3925pt x 420.57124pt>
+ [76 <./Figures/8/body_motivation.png>]
+<Figures/8/mobile_motivation.png, id=2377, 640.3925pt x 420.57124pt>
 File: Figures/8/mobile_motivation.png Graphic file (type png)
 
 <use Figures/8/mobile_motivation.png>
 Package pdftex.def Info: Figures/8/mobile_motivation.png used on input line 65.
 
 (pdftex.def)             Requested size: 312.98402pt x 199.17018pt.
- [75 <./Figures/8/body_interaction.png> <./Figures/8/mobile_motivation.png>]
-<Figures/8/non_inter_screen.png, id=2352, 1191.45125pt x 856.19875pt>
+ [77 <./Figures/8/body_interaction.png> <./Figures/8/mobile_motivation.png>]
+<Figures/8/non_inter_screen.png, id=2382, 1191.45125pt x 856.19875pt>
 File: Figures/8/non_inter_screen.png Graphic file (type png)
 
 <use Figures/8/non_inter_screen.png>
 Package pdftex.def Info: Figures/8/non_inter_screen.png used on input line 77.
 (pdftex.def)             Requested size: 312.96971pt x 199.16867pt.
 
-<Figures/8/tourist_info.png, id=2353, 904.37875pt x 947.54pt>
+<Figures/8/tourist_info.png, id=2383, 904.37875pt x 947.54pt>
 File: Figures/8/tourist_info.png Graphic file (type png)
 
 <use Figures/8/tourist_info.png>
 Package pdftex.def Info: Figures/8/tourist_info.png used on input line 113.
 (pdftex.def)             Requested size: 312.97699pt x 256.07054pt.
- [76 <./Figures/8/non_inter_screen.png>]
-[77 <./Figures/8/tourist_info.png>] [78]
-<Figures/8/d1.png, id=2385, 642.4pt x 481.8pt>
+ [78 <./Figures/8/non_inter_screen.png>]
+[79 <./Figures/8/tourist_info.png>] [80]
+<Figures/8/d1.png, id=2416, 642.4pt x 481.8pt>
 File: Figures/8/d1.png Graphic file (type png)
  <use Figures/8/d1.png>
 Package pdftex.def Info: Figures/8/d1.png used on input line 207.
 (pdftex.def)             Requested size: 142.25964pt x 113.81114pt.
 
-<Figures/8/d2.png, id=2386, 567.11874pt x 478.78876pt>
+<Figures/8/d2.png, id=2417, 567.11874pt x 478.78876pt>
 File: Figures/8/d2.png Graphic file (type png)
  <use Figures/8/d2.png>
 Package pdftex.def Info: Figures/8/d2.png used on input line 208.
 (pdftex.def)             Requested size: 142.26393pt x 113.80847pt.
 
-[79 <./Figures/8/d1.png> <./Figures/8/d2.png>] [80]
-<Figures/8/non_inter_findings/Non_Inter_chart.png, id=2411, 582.978pt x 280.889
+[81 <./Figures/8/d1.png> <./Figures/8/d2.png>] [82]
+<Figures/8/non_inter_findings/Non_Inter_chart.png, id=2441, 582.978pt x 280.889
 4pt>
 File: Figures/8/non_inter_findings/Non_Inter_chart.png Graphic file (type png)
  <use Figures/8/non_inter_findings/Non_Inter_chart.png>
@@ -2024,7 +2025,7 @@ Package pdftex.def Info: Figures/8/non_inter_findings/Non_Inter_chart.png used
 on input line 259.
 (pdftex.def)             Requested size: 312.97984pt x 156.4955pt.
 
-<Figures/8/non_inter_findings/non_inter_percentage.png, id=2412, 520.344pt x 32
+<Figures/8/non_inter_findings/non_inter_percentage.png, id=2442, 520.344pt x 32
 2.806pt>
 File: Figures/8/non_inter_findings/non_inter_percentage.png Graphic file (type 
 png)
@@ -2033,7 +2034,7 @@ Package pdftex.def Info: Figures/8/non_inter_findings/non_inter_percentage.png
 used on input line 268.
 (pdftex.def)             Requested size: 312.99484pt x 156.49176pt.
 
-<Figures/8/non_inter_findings/non_inter_engage_day.png, id=2413, 576.2328pt x 2
+<Figures/8/non_inter_findings/non_inter_engage_day.png, id=2443, 576.2328pt x 2
 85.7074pt>
 File: Figures/8/non_inter_findings/non_inter_engage_day.png Graphic file (type 
 png)
@@ -2041,9 +2042,9 @@ png)
 Package pdftex.def Info: Figures/8/non_inter_findings/non_inter_engage_day.png 
 used on input line 283.
 (pdftex.def)             Requested size: 312.98114pt x 170.71513pt.
- [81 <./Figures/8/non_inter_findings/Non_Inter_chart.png> <./Figures/8/non_inte
+ [83 <./Figures/8/non_inter_findings/Non_Inter_chart.png> <./Figures/8/non_inte
 r_findings/non_inter_percentage.png>]
-<Figures/8/non_inter_findings/non_eng_percentage.png, id=2423, 427.8384pt x 288
+<Figures/8/non_inter_findings/non_eng_percentage.png, id=2453, 427.8384pt x 288
 .5982pt>
 File: Figures/8/non_inter_findings/non_eng_percentage.png Graphic file (type pn
 g)
@@ -2051,9 +2052,9 @@ g)
 Package pdftex.def Info: Figures/8/non_inter_findings/non_eng_percentage.png us
 ed on input line 290.
 (pdftex.def)             Requested size: 312.99837pt x 170.71622pt.
- [82 <./Figures/8/non_inter_findings/non_inter_engage_day.png> <./Figures/8/non
+ [84 <./Figures/8/non_inter_findings/non_inter_engage_day.png> <./Figures/8/non
 _inter_findings/non_eng_percentage.png>]
-<Figures/8/body_inter_findings/Body_Inter_chart.png, id=2434, 569.9694pt x 285.
+<Figures/8/body_inter_findings/Body_Inter_chart.png, id=2465, 569.9694pt x 285.
 7074pt>
 File: Figures/8/body_inter_findings/Body_Inter_chart.png Graphic file (type png
 )
@@ -2061,8 +2062,8 @@ File: Figures/8/body_inter_findings/Body_Inter_chart.png Graphic file (type png
 Package pdftex.def Info: Figures/8/body_inter_findings/Body_Inter_chart.png use
 d on input line 363.
 (pdftex.def)             Requested size: 312.98842pt x 170.71513pt.
- [83]
-<Figures/8/body_inter_findings/body_inter_percentage.png, id=2446, 499.1448pt x
+ [85]
+<Figures/8/body_inter_findings/body_inter_percentage.png, id=2478, 499.1448pt x
  300.6432pt>
 File: Figures/8/body_inter_findings/body_inter_percentage.png Graphic file (typ
 e png)
@@ -2071,7 +2072,7 @@ Package pdftex.def Info: Figures/8/body_inter_findings/body_inter_percentage.pn
 g used on input line 371.
 (pdftex.def)             Requested size: 312.98532pt x 170.71698pt.
 
-<Figures/8/body_inter_findings/body_avg_phases.png, id=2447, 540.0978pt x 357.0
+<Figures/8/body_inter_findings/body_avg_phases.png, id=2479, 540.0978pt x 357.0
 138pt>
 File: Figures/8/body_inter_findings/body_avg_phases.png Graphic file (type png)
 
@@ -2080,7 +2081,7 @@ Package pdftex.def Info: Figures/8/body_inter_findings/body_avg_phases.png used
  on input line 388.
 (pdftex.def)             Requested size: 312.97675pt x 170.72185pt.
 
-<Figures/8/body_inter_findings/body_inter_engage_day.png, id=2448, 570.4512pt x
+<Figures/8/body_inter_findings/body_inter_engage_day.png, id=2480, 570.4512pt x
  285.7074pt>
 File: Figures/8/body_inter_findings/body_inter_engage_day.png Graphic file (typ
 e png)
@@ -2089,10 +2090,10 @@ Package pdftex.def Info: Figures/8/body_inter_findings/body_inter_engage_day.pn
 g used on input line 399.
 (pdftex.def)             Requested size: 312.98314pt x 170.71513pt.
 
-[84 <./Figures/8/body_inter_findings/Body_Inter_chart.png> <./Figures/8/body_in
+[86 <./Figures/8/body_inter_findings/Body_Inter_chart.png> <./Figures/8/body_in
 ter_findings/body_inter_percentage.png> <./Figures/8/body_inter_findings/body_a
 vg_phases.png>]
-<Figures/8/body_inter_findings/body_eng_percentage.png, id=2459, 427.8384pt x 2
+<Figures/8/body_inter_findings/body_eng_percentage.png, id=2490, 427.8384pt x 2
 78.9622pt>
 File: Figures/8/body_inter_findings/body_eng_percentage.png Graphic file (type 
 png)
@@ -2100,9 +2101,9 @@ png)
 Package pdftex.def Info: Figures/8/body_inter_findings/body_eng_percentage.png 
 used on input line 406.
 (pdftex.def)             Requested size: 312.99837pt x 170.72005pt.
- [85 <./Figures/8/body_inter_findings/body_inter_engage_day.png> <./Figures/8/b
-ody_inter_findings/body_eng_percentage.png>] [86]
-<Figures/8/mobile_inter_findings/mobile_Inter_chart.png, id=2481, 570.4512pt x 
+ [87 <./Figures/8/body_inter_findings/body_inter_engage_day.png> <./Figures/8/b
+ody_inter_findings/body_eng_percentage.png>] [88]
+<Figures/8/mobile_inter_findings/mobile_Inter_chart.png, id=2511, 570.4512pt x 
 314.6154pt>
 File: Figures/8/mobile_inter_findings/mobile_Inter_chart.png Graphic file (type
  png)
@@ -2111,7 +2112,7 @@ Package pdftex.def Info: Figures/8/mobile_inter_findings/mobile_Inter_chart.png
  used on input line 479.
 (pdftex.def)             Requested size: 312.98314pt x 170.71548pt.
 
-<Figures/8/mobile_inter_findings/mobile_inter_percentage.png, id=2482, 478.9092
+<Figures/8/mobile_inter_findings/mobile_inter_percentage.png, id=2512, 478.9092
 pt x 274.1442pt>
 File: Figures/8/mobile_inter_findings/mobile_inter_percentage.png Graphic file 
 (type png)
@@ -2120,8 +2121,8 @@ File: Figures/8/mobile_inter_findings/mobile_inter_percentage.png Graphic file
 Package pdftex.def Info: Figures/8/mobile_inter_findings/mobile_inter_percentag
 e.png used on input line 487.
 (pdftex.def)             Requested size: 312.97533pt x 170.7164pt.
- [87 <./Figures/8/mobile_inter_findings/mobile_Inter_chart.png>]
-<Figures/8/mobile_inter_findings/mobile_inter_engage_day.png, id=2493, 590.205p
+ [89 <./Figures/8/mobile_inter_findings/mobile_Inter_chart.png>]
+<Figures/8/mobile_inter_findings/mobile_inter_engage_day.png, id=2523, 590.205p
 t x 285.7074pt>
 File: Figures/8/mobile_inter_findings/mobile_inter_engage_day.png Graphic file 
 (type png)
@@ -2137,7 +2138,7 @@ of en-gaged
  []
 
 
-<Figures/8/mobile_inter_findings/mobile_eng_percentage.png, id=2494, 473.6094pt
+<Figures/8/mobile_inter_findings/mobile_eng_percentage.png, id=2524, 473.6094pt
  x 309.7974pt>
 File: Figures/8/mobile_inter_findings/mobile_eng_percentage.png Graphic file (t
 ype png)
@@ -2146,37 +2147,37 @@ Package pdftex.def Info: Figures/8/mobile_inter_findings/mobile_eng_percentage.
 png used on input line 509.
 (pdftex.def)             Requested size: 312.98787pt x 170.72472pt.
 
-[88 <./Figures/8/mobile_inter_findings/mobile_inter_percentage.png> <./Figures/
+[90 <./Figures/8/mobile_inter_findings/mobile_inter_percentage.png> <./Figures/
 8/mobile_inter_findings/mobile_inter_engage_day.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 557--558
 
  []
 
-[89 <./Figures/8/mobile_inter_findings/mobile_eng_percentage.png>]
+[91 <./Figures/8/mobile_inter_findings/mobile_eng_percentage.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 601--602
 
  []
 
-[90] [91]
+[92] [93]
 Underfull \hbox (badness 10000) in paragraph at lines 719--720
 
  []
 
-[92]
+[94]
 Underfull \hbox (badness 10000) in paragraph at lines 777--778
 
  []
 
-) [93]
+) [95]
 \openout2 = `Chapters/9/InteractiveAdEnhancement.aux'.
 
- (./Chapters/9/InteractiveAdEnhancement.tex [94
+ (./Chapters/9/InteractiveAdEnhancement.tex [96
 
 
 
 ]
 Chapter 9.
-<Figures/9/Kinect_Extended.png, id=2537, 827.09pt x 565.11125pt>
+<Figures/9/Kinect_Extended.png, id=2568, 827.09pt x 565.11125pt>
 File: Figures/9/Kinect_Extended.png Graphic file (type png)
 
 <use Figures/9/Kinect_Extended.png>
@@ -2184,15 +2185,15 @@ Package pdftex.def Info: Figures/9/Kinect_Extended.png used on input line 25.
 (pdftex.def)             Requested size: 312.98494pt x 199.16293pt.
 
 1: section
-[95 <./Figures/9/Kinect_Extended.png>] [96]
-<Figures/9/stacked_image.png, id=2558, 1927.2pt x 481.8pt>
+[97 <./Figures/9/Kinect_Extended.png>] [98]
+<Figures/9/stacked_image.png, id=2589, 1927.2pt x 481.8pt>
 File: Figures/9/stacked_image.png Graphic file (type png)
 
 <use Figures/9/stacked_image.png>
 Package pdftex.def Info: Figures/9/stacked_image.png used on input line 81.
 (pdftex.def)             Requested size: 361.34912pt x 142.26208pt.
 
-<Figures/9/newbody_Inter_chart.png, id=2559, 569.9694pt x 285.7074pt>
+<Figures/9/newbody_Inter_chart.png, id=2590, 569.9694pt x 285.7074pt>
 File: Figures/9/newbody_Inter_chart.png Graphic file (type png)
 
 <use Figures/9/newbody_Inter_chart.png>
@@ -2200,15 +2201,15 @@ Package pdftex.def Info: Figures/9/newbody_Inter_chart.png used on input line 9
 7.
 (pdftex.def)             Requested size: 312.98842pt x 156.48996pt.
 
-<Figures/9/newbody_inter_percentage.png, id=2560, 428.3202pt x 285.7074pt>
+<Figures/9/newbody_inter_percentage.png, id=2591, 428.3202pt x 285.7074pt>
 File: Figures/9/newbody_inter_percentage.png Graphic file (type png)
 
 <use Figures/9/newbody_inter_percentage.png>
 Package pdftex.def Info: Figures/9/newbody_inter_percentage.png used on input l
 ine 106.
 (pdftex.def)             Requested size: 312.98485pt x 156.48996pt.
- [97 <./Figures/9/stacked_image.png> <./Figures/9/newbody_Inter_chart.png>]
-<Figures/9/newbody_inter_engage_day.png, id=2568, 427.8384pt x 285.7074pt>
+ [99 <./Figures/9/stacked_image.png> <./Figures/9/newbody_Inter_chart.png>]
+<Figures/9/newbody_inter_engage_day.png, id=2598, 427.8384pt x 285.7074pt>
 File: Figures/9/newbody_inter_engage_day.png Graphic file (type png)
 
 <use Figures/9/newbody_inter_engage_day.png>
@@ -2216,15 +2217,15 @@ Package pdftex.def Info: Figures/9/newbody_inter_engage_day.png used on input l
 ine 121.
 (pdftex.def)             Requested size: 312.99837pt x 170.71513pt.
 
-<Figures/9/newbody_eng_percentage.png, id=2569, 427.8384pt x 289.08pt>
+<Figures/9/newbody_eng_percentage.png, id=2599, 427.8384pt x 289.08pt>
 File: Figures/9/newbody_eng_percentage.png Graphic file (type png)
 
 <use Figures/9/newbody_eng_percentage.png>
 Package pdftex.def Info: Figures/9/newbody_eng_percentage.png used on input lin
 e 128.
 (pdftex.def)             Requested size: 312.99837pt x 170.71451pt.
- [98 <./Figures/9/newbody_inter_percentage.png> <./Figures/9/newbody_inter_enga
-ge_day.png> <./Figures/9/newbody_eng_percentage.png>]
+ [100 <./Figures/9/newbody_inter_percentage.png> <./Figures/9/newbody_inter_eng
+age_day.png> <./Figures/9/newbody_eng_percentage.png>]
 Overfull \hbox (18.50145pt too wide) in paragraph at lines 170--183
  [][] 
  []
@@ -2234,23 +2235,23 @@ Overfull \hbox (33.27151pt too wide) in paragraph at lines 225--236
  [][] 
  []
 
-[99]
+[101]
 Overfull \hbox (33.27151pt too wide) in paragraph at lines 249--260
  [][] 
  []
 
-) [100]
+) [102]
 \openout2 = `Chapters/10/Conclusion.aux'.
 
  (./Chapters/10/Conclusion.tex
 Chapter 10.
 )
 1: section
-[101
+[103
 
 
 
-] (./main.bbl [102
+] (./main.bbl [104
 
 
 ]
@@ -2260,30 +2261,33 @@ rofile /
  []
 
 1: section
-[103]
+[105]
 Underfull \hbox (badness 7116) in paragraph at lines 90--93
 []\T1/cmr/m/n/10.95 S. mil-gram. \T1/cmr/m/it/10.95 The ex-pe-ri-ence of liv-in
 g in cities. \T1/cmr/m/n/10.95 Sci-ence, 13
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 114--117
+Underfull \hbox (badness 1242) in paragraph at lines 134--137
 []\T1/cmr/m/n/10.95 P. van Waart, I. Mul-der, and C. de Bont \T1/cmr/m/it/10.95
  Mean-ing-ful ad-ver-tis-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--130
+[106]
+Underfull \hbox (badness 10000) in paragraph at lines 151--154
 []\T1/cmr/m/n/10.95 Microsoft Kinect []$\T1/cmtt/m/n/10.95 https : / / develope
 r . microsoft . com / de-[]de /
  []
 
-) [104]
+) [107]
 \openout2 = `Appendices/Appendix.aux'.
 
- (./Appendices/Appendix.tex
+ (./Appendices/Appendix.tex [108
+
+
+]
 Appendix A.
-<Appendices/3/Glance_Count_Method.pdf, id=2625, 794.97pt x 614.295pt>
+<Appendices/3/Glance_Count_Method.pdf, id=2662, 794.97pt x 614.295pt>
 File: Appendices/3/Glance_Count_Method.pdf Graphic file (type pdf)
 
 <use Appendices/3/Glance_Count_Method.pdf>
@@ -2297,7 +2301,7 @@ Package pdftex.def Info: Appendices/3/Glance_Count_Method.pdf used on input lin
 e 6.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
 
-<Appendices/3/Glance_Count_Method.pdf, id=2628, page=1, 794.97pt x 614.295pt>
+<Appendices/3/Glance_Count_Method.pdf, id=2665, page=1, 794.97pt x 614.295pt>
 File: Appendices/3/Glance_Count_Method.pdf Graphic file (type pdf)
 
 <use Appendices/3/Glance_Count_Method.pdf, page 1>
@@ -2324,17 +2328,14 @@ put line 6.
 (pdftex.def)             Requested size: 1115.01257pt x 861.6006pt.
 
 1: section
-[105
-
-
-]
+[109]
 File: Appendices/3/Glance_Count_Method.pdf Graphic file (type pdf)
  <use Appendices/3/Glance_Count_Method.pdf, page 1>
 Package pdftex.def Info: Appendices/3/Glance_Count_Method.pdf, page1 used on in
 put line 6.
 (pdftex.def)             Requested size: 1115.01257pt x 861.6006pt.
- [106 <./Appendices/3/Glance_Count_Method.pdf>]
-<Appendices/3/Consent_form.pdf, id=2659, 614.295pt x 794.97pt>
+ [110 <./Appendices/3/Glance_Count_Method.pdf>]
+<Appendices/3/Consent_form.pdf, id=2697, 614.295pt x 794.97pt>
 File: Appendices/3/Consent_form.pdf Graphic file (type pdf)
 
 <use Appendices/3/Consent_form.pdf>
@@ -2345,7 +2346,7 @@ File: Appendices/3/Consent_form.pdf Graphic file (type pdf)
 Package pdftex.def Info: Appendices/3/Consent_form.pdf used on input line 7.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Appendices/3/Consent_form.pdf, id=2662, page=1, 614.295pt x 794.97pt>
+<Appendices/3/Consent_form.pdf, id=2700, page=1, 614.295pt x 794.97pt>
 File: Appendices/3/Consent_form.pdf Graphic file (type pdf)
 
 <use Appendices/3/Consent_form.pdf, page 1>
@@ -2376,8 +2377,8 @@ File: Appendices/3/Consent_form.pdf Graphic file (type pdf)
 Package pdftex.def Info: Appendices/3/Consent_form.pdf, page1 used on input lin
 e 7.
 (pdftex.def)             Requested size: 861.6006pt x 1115.01257pt.
- [107 <./Appendices/3/Consent_form.pdf>] <Appendices/3/Questionnaire.pdf, id=26
-99, 614.295pt x 794.97pt>
+ [111 <./Appendices/3/Consent_form.pdf>] <Appendices/3/Questionnaire.pdf, id=27
+37, 614.295pt x 794.97pt>
 File: Appendices/3/Questionnaire.pdf Graphic file (type pdf)
 
 <use Appendices/3/Questionnaire.pdf>
@@ -2388,7 +2389,7 @@ File: Appendices/3/Questionnaire.pdf Graphic file (type pdf)
 Package pdftex.def Info: Appendices/3/Questionnaire.pdf used on input line 8.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<Appendices/3/Questionnaire.pdf, id=2702, page=1, 614.295pt x 794.97pt>
+<Appendices/3/Questionnaire.pdf, id=2740, page=1, 614.295pt x 794.97pt>
 File: Appendices/3/Questionnaire.pdf Graphic file (type pdf)
 
 <use Appendices/3/Questionnaire.pdf, page 1>
@@ -2419,16 +2420,16 @@ File: Appendices/3/Questionnaire.pdf Graphic file (type pdf)
 Package pdftex.def Info: Appendices/3/Questionnaire.pdf, page1 used on input li
 ne 8.
 (pdftex.def)             Requested size: 861.6006pt x 1115.01257pt.
- [108 <./Appendices/3/Questionnaire.pdf>]
+ [112 <./Appendices/3/Questionnaire.pdf>]
 Appendix B.
-<Appendices/4/sk1.png, id=2729, 302.5704pt x 416.757pt>
+<Appendices/4/sk1.png, id=2768, 302.5704pt x 416.757pt>
 File: Appendices/4/sk1.png Graphic file (type png)
 
 <use Appendices/4/sk1.png>
 Package pdftex.def Info: Appendices/4/sk1.png used on input line 20.
 (pdftex.def)             Requested size: 341.43887pt x 426.79713pt.
 
-<Appendices/4/sk2.png, id=2730, 302.5704pt x 416.757pt>
+<Appendices/4/sk2.png, id=2769, 302.5704pt x 416.757pt>
 File: Appendices/4/sk2.png Graphic file (type png)
 
 <use Appendices/4/sk2.png>
@@ -2436,20 +2437,20 @@ Package pdftex.def Info: Appendices/4/sk2.png used on input line 28.
 (pdftex.def)             Requested size: 341.43887pt x 426.79713pt.
 
 1: section
-[109
+[113
 
  <./Appendices/4/sk1.png>]
-<Appendices/4/sk3.png, id=2737, 289.08pt x 418.2024pt>
+<Appendices/4/sk3.png, id=2775, 289.08pt x 418.2024pt>
 File: Appendices/4/sk3.png Graphic file (type png)
 
 <use Appendices/4/sk3.png>
 Package pdftex.def Info: Appendices/4/sk3.png used on input line 35.
 (pdftex.def)             Requested size: 341.45108pt x 426.80328pt.
- [110 <./Appendices/4/sk2.png>] [111 <./Appendices/4/sk3.png>] [112
+ [114 <./Appendices/4/sk2.png>] [115 <./Appendices/4/sk3.png>] [116
 
 ]
 Appendix C.
-<Appendices/5/Coded_Interview.pdf, id=2752, 845.1575pt x 597.23125pt>
+<Appendices/5/Coded_Interview.pdf, id=2791, 845.1575pt x 597.23125pt>
 File: Appendices/5/Coded_Interview.pdf Graphic file (type pdf)
 
 <use Appendices/5/Coded_Interview.pdf>
@@ -2462,7 +2463,7 @@ Package pdftex.def Info: Appendices/5/Coded_Interview.pdf used on input line 46
 .
 (pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
 
-<Appendices/5/Coded_Interview.pdf, id=2755, page=1, 845.1575pt x 597.23125pt>
+<Appendices/5/Coded_Interview.pdf, id=2794, page=1, 845.1575pt x 597.23125pt>
 File: Appendices/5/Coded_Interview.pdf Graphic file (type pdf)
 
 <use Appendices/5/Coded_Interview.pdf, page 1>
@@ -2489,15 +2490,15 @@ line 46.
 (pdftex.def)             Requested size: 887.49316pt x 627.14777pt.
 
 1: section
-[113]
+[117]
 File: Appendices/5/Coded_Interview.pdf Graphic file (type pdf)
  <use Appendices/5/Coded_Interview.pdf, page 1>
 Package pdftex.def Info: Appendices/5/Coded_Interview.pdf, page1 used on input 
 line 46.
 (pdftex.def)             Requested size: 887.49316pt x 627.14777pt.
- [114 <./Appendices/5/Coded_Interview.pdf>]
+ [118 <./Appendices/5/Coded_Interview.pdf>]
 Appendix D.
-<Appendices/8/whole_week_interivew.pdf, id=2795, 597.23125pt x 845.1575pt>
+<Appendices/8/whole_week_interivew.pdf, id=2833, 597.23125pt x 845.1575pt>
 File: Appendices/8/whole_week_interivew.pdf Graphic file (type pdf)
 
 <use Appendices/8/whole_week_interivew.pdf>
@@ -2511,7 +2512,7 @@ Package pdftex.def Info: Appendices/8/whole_week_interivew.pdf used on input li
 ne 52.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<Appendices/8/whole_week_interivew.pdf, id=2798, page=1, 597.23125pt x 845.1575
+<Appendices/8/whole_week_interivew.pdf, id=2836, page=1, 597.23125pt x 845.1575
 pt>
 File: Appendices/8/whole_week_interivew.pdf Graphic file (type pdf)
  <use Appendices/8/whole_week_interivew.pdf, page 1>
@@ -2538,7 +2539,7 @@ nput line 52.
 (pdftex.def)             Requested size: 627.14777pt x 887.49316pt.
 
 1: section
-[115
+[119
 
 ]
 File: Appendices/8/whole_week_interivew.pdf Graphic file (type pdf)
@@ -2546,8 +2547,8 @@ File: Appendices/8/whole_week_interivew.pdf Graphic file (type pdf)
 Package pdftex.def Info: Appendices/8/whole_week_interivew.pdf, page1 used on i
 nput line 52.
 (pdftex.def)             Requested size: 627.14777pt x 887.49316pt.
- [116 <./Appendices/8/whole_week_interivew.pdf>]
-<Appendices/8/non-interactive/non-interactive_glances.pdf, id=2834, 597.23125pt
+ [120 <./Appendices/8/whole_week_interivew.pdf>]
+<Appendices/8/non-interactive/non-interactive_glances.pdf, id=2871, 597.23125pt
  x 845.1575pt>
 File: Appendices/8/non-interactive/non-interactive_glances.pdf Graphic file (ty
 pe pdf)
@@ -2563,7 +2564,7 @@ Package pdftex.def Info: Appendices/8/non-interactive/non-interactive_glances.p
 df used on input line 57.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<Appendices/8/non-interactive/non-interactive_glances.pdf, id=2837, page=1, 597
+<Appendices/8/non-interactive/non-interactive_glances.pdf, id=2874, page=1, 597
 .23125pt x 845.1575pt>
 File: Appendices/8/non-interactive/non-interactive_glances.pdf Graphic file (ty
 pe pdf)
@@ -2600,8 +2601,8 @@ pe pdf)
 Package pdftex.def Info: Appendices/8/non-interactive/non-interactive_glances.p
 df, page1 used on input line 57.
 (pdftex.def)             Requested size: 627.14777pt x 887.49316pt.
- [117 <./Appendices/8/non-interactive/non-interactive_glances.pdf>]
-<Appendices/8/body-interactive/body-interactive_glances.pdf, id=2864, 597.23125
+ [121 <./Appendices/8/non-interactive/non-interactive_glances.pdf>]
+<Appendices/8/body-interactive/body-interactive_glances.pdf, id=2902, 597.23125
 pt x 845.1575pt>
 File: Appendices/8/body-interactive/body-interactive_glances.pdf Graphic file (
 type pdf)
@@ -2618,7 +2619,7 @@ Package pdftex.def Info: Appendices/8/body-interactive/body-interactive_glances
 .pdf used on input line 60.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<Appendices/8/body-interactive/body-interactive_glances.pdf, id=2867, page=1, 5
+<Appendices/8/body-interactive/body-interactive_glances.pdf, id=2905, page=1, 5
 97.23125pt x 845.1575pt>
 File: Appendices/8/body-interactive/body-interactive_glances.pdf Graphic file (
 type pdf)
@@ -2656,8 +2657,8 @@ Package pdftex.def Info: Appendices/8/body-interactive/body-interactive_glances
 .pdf, page1 used on input line 60.
 (pdftex.def)             Requested size: 627.14777pt x 887.49316pt.
 
-[118 <./Appendices/8/body-interactive/body-interactive_glances.pdf>]
-<Appendices/8/mobile-interactive/mobile-interactive_glances.pdf, id=2894, 597.2
+[122 <./Appendices/8/body-interactive/body-interactive_glances.pdf>]
+<Appendices/8/mobile-interactive/mobile-interactive_glances.pdf, id=2933, 597.2
 3125pt x 845.1575pt>
 File: Appendices/8/mobile-interactive/mobile-interactive_glances.pdf Graphic fi
 le (type pdf)
@@ -2674,7 +2675,7 @@ Package pdftex.def Info: Appendices/8/mobile-interactive/mobile-interactive_gla
 nces.pdf used on input line 63.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<Appendices/8/mobile-interactive/mobile-interactive_glances.pdf, id=2897, page=
+<Appendices/8/mobile-interactive/mobile-interactive_glances.pdf, id=2936, page=
 1, 597.23125pt x 845.1575pt>
 File: Appendices/8/mobile-interactive/mobile-interactive_glances.pdf Graphic fi
 le (type pdf)
@@ -2712,8 +2713,8 @@ Package pdftex.def Info: Appendices/8/mobile-interactive/mobile-interactive_gla
 nces.pdf, page1 used on input line 63.
 (pdftex.def)             Requested size: 627.14777pt x 887.49316pt.
 
-[119 <./Appendices/8/mobile-interactive/mobile-interactive_glances.pdf>]
-<Appendices/8/non-interactive/non-interactive_code.pdf, id=2925, 845.0471pt x 5
+[123 <./Appendices/8/mobile-interactive/mobile-interactive_glances.pdf>]
+<Appendices/8/non-interactive/non-interactive_code.pdf, id=2963, 845.0471pt x 5
 97.51233pt>
 File: Appendices/8/non-interactive/non-interactive_code.pdf Graphic file (type 
 pdf)
@@ -2729,7 +2730,7 @@ Package pdftex.def Info: Appendices/8/non-interactive/non-interactive_code.pdf
 used on input line 68.
 (pdftex.def)             Requested size: 845.04504pt x 597.51086pt.
 
-<Appendices/8/non-interactive/non-interactive_code.pdf, id=2928, page=1, 845.04
+<Appendices/8/non-interactive/non-interactive_code.pdf, id=2966, page=1, 845.04
 71pt x 597.51233pt>
 File: Appendices/8/non-interactive/non-interactive_code.pdf Graphic file (type 
 pdf)
@@ -2766,8 +2767,8 @@ pdf)
 Package pdftex.def Info: Appendices/8/non-interactive/non-interactive_code.pdf,
  page1 used on input line 68.
 (pdftex.def)             Requested size: 887.37723pt x 627.44293pt.
- [120 <./Appendices/8/non-interactive/non-interactive_code.pdf>]
-<Appendices/8/body-interactive/body-Interactive_code.pdf, id=2939, 845.0471pt x
+ [124 <./Appendices/8/non-interactive/non-interactive_code.pdf>]
+<Appendices/8/body-interactive/body-Interactive_code.pdf, id=2977, 845.0471pt x
  597.51233pt>
 File: Appendices/8/body-interactive/body-Interactive_code.pdf Graphic file (typ
 e pdf)
@@ -2783,7 +2784,7 @@ Package pdftex.def Info: Appendices/8/body-interactive/body-Interactive_code.pd
 f used on input line 70.
 (pdftex.def)             Requested size: 845.04504pt x 597.51086pt.
 
-<Appendices/8/body-interactive/body-Interactive_code.pdf, id=2942, page=1, 845.
+<Appendices/8/body-interactive/body-Interactive_code.pdf, id=2980, page=1, 845.
 0471pt x 597.51233pt>
 File: Appendices/8/body-interactive/body-Interactive_code.pdf Graphic file (typ
 e pdf)
@@ -2820,8 +2821,8 @@ e pdf)
 Package pdftex.def Info: Appendices/8/body-interactive/body-Interactive_code.pd
 f, page1 used on input line 70.
 (pdftex.def)             Requested size: 887.37723pt x 627.44293pt.
- [121 <./Appendices/8/body-interactive/body-Interactive_code.pdf>]
-<Appendices/8/mobile-interactive/mobile-Interactive_code.pdf, id=2954, 845.0471
+ [125 <./Appendices/8/body-interactive/body-Interactive_code.pdf>]
+<Appendices/8/mobile-interactive/mobile-Interactive_code.pdf, id=2991, 845.0471
 pt x 597.51233pt>
 File: Appendices/8/mobile-interactive/mobile-Interactive_code.pdf Graphic file 
 (type pdf)
@@ -2838,7 +2839,7 @@ Package pdftex.def Info: Appendices/8/mobile-interactive/mobile-Interactive_cod
 e.pdf used on input line 72.
 (pdftex.def)             Requested size: 845.04504pt x 597.51086pt.
 
-<Appendices/8/mobile-interactive/mobile-Interactive_code.pdf, id=2957, page=1, 
+<Appendices/8/mobile-interactive/mobile-Interactive_code.pdf, id=2994, page=1, 
 845.0471pt x 597.51233pt>
 File: Appendices/8/mobile-interactive/mobile-Interactive_code.pdf Graphic file 
 (type pdf)
@@ -2876,8 +2877,8 @@ Package pdftex.def Info: Appendices/8/mobile-interactive/mobile-Interactive_cod
 e.pdf, page1 used on input line 72.
 (pdftex.def)             Requested size: 887.37723pt x 627.44293pt.
 
-[122 <./Appendices/8/mobile-interactive/mobile-Interactive_code.pdf>]
-<Appendices/8/non-interactive/Observation_notes.pdf, id=2968, 597.23125pt x 845
+[126 <./Appendices/8/mobile-interactive/mobile-Interactive_code.pdf>]
+<Appendices/8/non-interactive/Observation_notes.pdf, id=3005, 597.23125pt x 845
 .1575pt>
 File: Appendices/8/non-interactive/Observation_notes.pdf Graphic file (type pdf
 )
@@ -2893,7 +2894,7 @@ Package pdftex.def Info: Appendices/8/non-interactive/Observation_notes.pdf use
 d on input line 76.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<Appendices/8/non-interactive/Observation_notes.pdf, id=2971, page=1, 597.23125
+<Appendices/8/non-interactive/Observation_notes.pdf, id=3008, page=1, 597.23125
 pt x 845.1575pt>
 File: Appendices/8/non-interactive/Observation_notes.pdf Graphic file (type pdf
 )
@@ -2930,8 +2931,8 @@ File: Appendices/8/non-interactive/Observation_notes.pdf Graphic file (type pdf
 Package pdftex.def Info: Appendices/8/non-interactive/Observation_notes.pdf, pa
 ge1 used on input line 76.
 (pdftex.def)             Requested size: 807.4941pt x 1142.70596pt.
- [123 <./Appendices/8/non-interactive/Observation_notes.pdf>]
-<Appendices/8/body-interactive/Note_1.pdf, id=3006, 597.23125pt x 845.1575pt>
+ [127 <./Appendices/8/non-interactive/Observation_notes.pdf>]
+<Appendices/8/body-interactive/Note_1.pdf, id=3044, 597.23125pt x 845.1575pt>
 File: Appendices/8/body-interactive/Note_1.pdf Graphic file (type pdf)
 
 <use Appendices/8/body-interactive/Note_1.pdf>
@@ -2945,7 +2946,7 @@ Package pdftex.def Info: Appendices/8/body-interactive/Note_1.pdf used on input
  line 78.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<Appendices/8/body-interactive/Note_1.pdf, id=3009, page=1, 597.23125pt x 845.1
+<Appendices/8/body-interactive/Note_1.pdf, id=3047, page=1, 597.23125pt x 845.1
 575pt>
 File: Appendices/8/body-interactive/Note_1.pdf Graphic file (type pdf)
  <use Appendices/8/body-interactive/Note_1.pdf, page 1>
@@ -2976,8 +2977,8 @@ File: Appendices/8/body-interactive/Note_1.pdf Graphic file (type pdf)
 Package pdftex.def Info: Appendices/8/body-interactive/Note_1.pdf, page1 used o
 n input line 78.
 (pdftex.def)             Requested size: 807.4941pt x 1142.70596pt.
- [124 <./Appendices/8/body-interactive/Note_1.pdf>]
-<Appendices/8/body-interactive/Note_2.pdf, id=3042, 597.23125pt x 845.1575pt>
+ [128 <./Appendices/8/body-interactive/Note_1.pdf>]
+<Appendices/8/body-interactive/Note_2.pdf, id=3081, 597.23125pt x 845.1575pt>
 File: Appendices/8/body-interactive/Note_2.pdf Graphic file (type pdf)
 
 <use Appendices/8/body-interactive/Note_2.pdf>
@@ -2991,7 +2992,7 @@ Package pdftex.def Info: Appendices/8/body-interactive/Note_2.pdf used on input
  line 80.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<Appendices/8/body-interactive/Note_2.pdf, id=3045, page=1, 597.23125pt x 845.1
+<Appendices/8/body-interactive/Note_2.pdf, id=3084, page=1, 597.23125pt x 845.1
 575pt>
 File: Appendices/8/body-interactive/Note_2.pdf Graphic file (type pdf)
  <use Appendices/8/body-interactive/Note_2.pdf, page 1>
@@ -3022,8 +3023,8 @@ File: Appendices/8/body-interactive/Note_2.pdf Graphic file (type pdf)
 Package pdftex.def Info: Appendices/8/body-interactive/Note_2.pdf, page1 used o
 n input line 80.
 (pdftex.def)             Requested size: 807.4941pt x 1142.70596pt.
- [125 <./Appendices/8/body-interactive/Note_2.pdf>]
-<Appendices/8/mobile-interactive/notetaking.pdf, id=3079, 597.23125pt x 845.157
+ [129 <./Appendices/8/body-interactive/Note_2.pdf>]
+<Appendices/8/mobile-interactive/notetaking.pdf, id=3117, 597.23125pt x 845.157
 5pt>
 File: Appendices/8/mobile-interactive/notetaking.pdf Graphic file (type pdf)
  <use Appendices/8/mobile-interactive/notetaking.pdf>
@@ -3037,7 +3038,7 @@ Package pdftex.def Info: Appendices/8/mobile-interactive/notetaking.pdf used on
  input line 83.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<Appendices/8/mobile-interactive/notetaking.pdf, id=3082, page=1, 597.23125pt x
+<Appendices/8/mobile-interactive/notetaking.pdf, id=3120, page=1, 597.23125pt x
  845.1575pt>
 File: Appendices/8/mobile-interactive/notetaking.pdf Graphic file (type pdf)
  <use Appendices/8/mobile-interactive/notetaking.pdf, page 1>
@@ -3068,9 +3069,9 @@ File: Appendices/8/mobile-interactive/notetaking.pdf Graphic file (type pdf)
 Package pdftex.def Info: Appendices/8/mobile-interactive/notetaking.pdf, page1 
 used on input line 83.
 (pdftex.def)             Requested size: 807.4941pt x 1142.70596pt.
- [126 <./Appendices/8/mobile-interactive/notetaking.pdf>]
+ [130 <./Appendices/8/mobile-interactive/notetaking.pdf>]
 Appendix E.
-<Appendices/9/new_body_glance.pdf, id=3117, 597.23125pt x 845.1575pt>
+<Appendices/9/new_body_glance.pdf, id=3155, 597.23125pt x 845.1575pt>
 File: Appendices/9/new_body_glance.pdf Graphic file (type pdf)
 
 <use Appendices/9/new_body_glance.pdf>
@@ -3083,7 +3084,7 @@ Package pdftex.def Info: Appendices/9/new_body_glance.pdf used on input line 94
 .
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<Appendices/9/new_body_glance.pdf, id=3120, page=1, 597.23125pt x 845.1575pt>
+<Appendices/9/new_body_glance.pdf, id=3158, page=1, 597.23125pt x 845.1575pt>
 File: Appendices/9/new_body_glance.pdf Graphic file (type pdf)
 
 <use Appendices/9/new_body_glance.pdf, page 1>
@@ -3110,7 +3111,7 @@ line 94.
 (pdftex.def)             Requested size: 807.4941pt x 1142.70596pt.
 
 1: section
-[127
+[131
 
 ]
 Overfull \hbox (16.86966pt too wide) in paragraph at lines 94--94
@@ -3122,8 +3123,8 @@ File: Appendices/9/new_body_glance.pdf Graphic file (type pdf)
 Package pdftex.def Info: Appendices/9/new_body_glance.pdf, page1 used on input 
 line 94.
 (pdftex.def)             Requested size: 807.4941pt x 1142.70596pt.
- [128 <./Appendices/9/new_body_glance.pdf>]
-<Appendices/9/Observation_notes.pdf, id=3152, 597.23125pt x 845.1575pt>
+ [132 <./Appendices/9/new_body_glance.pdf>]
+<Appendices/9/Observation_notes.pdf, id=3189, 597.23125pt x 845.1575pt>
 File: Appendices/9/Observation_notes.pdf Graphic file (type pdf)
 
 <use Appendices/9/Observation_notes.pdf>
@@ -3137,7 +3138,7 @@ Package pdftex.def Info: Appendices/9/Observation_notes.pdf used on input line
 97.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<Appendices/9/Observation_notes.pdf, id=3155, page=1, 597.23125pt x 845.1575pt>
+<Appendices/9/Observation_notes.pdf, id=3192, page=1, 597.23125pt x 845.1575pt>
 File: Appendices/9/Observation_notes.pdf Graphic file (type pdf)
 <use Appendices/9/Observation_notes.pdf, page 1>
 Package pdftex.def Info: Appendices/9/Observation_notes.pdf, page1 used on inpu
@@ -3167,7 +3168,7 @@ File: Appendices/9/Observation_notes.pdf Graphic file (type pdf)
 Package pdftex.def Info: Appendices/9/Observation_notes.pdf, page1 used on inpu
 t line 97.
 (pdftex.def)             Requested size: 807.4941pt x 1142.70596pt.
- [129 <./Appendices/9/Observation_notes.pdf>])
+ [133 <./Appendices/9/Observation_notes.pdf>])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 317.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 317.
  (./main.aux (./Chapters/1/Introduction.aux)
@@ -3180,53 +3181,83 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 317.
 (./Appendices/Appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 317.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 317.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2AE93F755B0F4A52855D2AA49D22664E;17477.
 
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 26B46568A01555D85898C75424D608FD;17479
+(rerunfilecheck)             After:  72FAD3970034A87D74177921911B6428;17493.
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 24662 strings out of 493089
- 536036 string characters out of 6134843
- 697131 words of memory out of 5000000
- 26817 multiletter control sequences out of 15000+600000
+ 24686 strings out of 493089
+ 536420 string characters out of 6134843
+ 697397 words of memory out of 5000000
+ 26823 multiletter control sequences out of 15000+600000
  29528 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,20n,78p,10377b,1009s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
-local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loc
-al/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local
-/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive
-/2015/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2
-015/texmf-dist/fonts/type1/public/cm-super/sfcc0900.pfb></usr/local/texlive/201
-5/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb></usr/local/texlive/2015/
-texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2015/te
-xmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2015/texm
-f-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2015/texmf-
-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2015/texmf-di
-st/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2015/texmf-dist
-/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2015/texmf-dist/f
-onts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-dist/fon
-ts/type1/public/cm-super/sfsl1095.pfb></usr/local/texlive/2015/texmf-dist/fonts
-/type1/public/cm-super/sfsl1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
-ype1/public/cm-super/sfti1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
-e1/public/cm-super/sfti1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
-/public/cm-super/sfti1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
-ublic/cm-super/sfti2074.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
-lic/cm-super/sftt1095.pfb>
-Output written on main.pdf (159 pages, 24339444 bytes).
+pdfTeX warning (dest): name{section.5.9} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.8.4} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.8.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.8.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.8.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.5.8} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.5.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.5.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local
+/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/public/cm-super/sfcc0900.pfb></usr/local/texlive/2015/
+texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb></usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2015/texmf-
+dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2015/texmf-di
+st/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2015/texmf-dist/f
+onts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2015/texmf-dist/fon
+ts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-dist/fonts
+/type1/public/cm-super/sfsl1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
+ype1/public/cm-super/sfsl1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
+e1/public/cm-super/sfti1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
+/public/cm-super/sfti1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
+ublic/cm-super/sfti1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
+lic/cm-super/sfti2074.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
+c/cm-super/sftt1095.pfb>
+Output written on main.pdf (163 pages, 24345852 bytes).
 PDF statistics:
- 3457 PDF objects out of 3580 (max. 8388607)
- 2936 compressed objects within 30 object streams
- 837 named destinations out of 1000 (max. 500000)
+ 3498 PDF objects out of 3580 (max. 8388607)
+ 2973 compressed objects within 30 object streams
+ 855 named destinations out of 1000 (max. 500000)
  2772 words of extra memory for PDF output out of 10000 (max. 10000000)
 

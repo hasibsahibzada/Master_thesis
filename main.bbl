@@ -62,7 +62,7 @@ Bauhaus University \\
 \emph{Bauhaus Walk} \\
 \url{https://www.uni-weimar.de/en/university/profile/bauhausatelier/bauhaus-walk/}
 
-\bibitem{Bauhaus Walk}
+\bibitem{BauhausWalk}
 Paper Prototype \\
 \emph{Last accessed 10 April 2016}\\
 \url{https://youtu.be/XGBgeSGeUwQ}
@@ -98,16 +98,36 @@ M. Burke, A. Hornof, E. Nilsen, and N. Gorman.
 ACM Trans. Comput.-Hum. Interact., 12(4):423–445, 2005.
 
 
+\bibitem{prototypetesting1}
+Scott Carter, Jennifer Mankoff
+\emph{Prototypes in the Wild: Lessons Learned from Evaluating Three Ubicomp Systems}
+Journal IEEE Pervasive Computing archive Volume 4 Issue 4, October 2005 Page 51-57 
+
 \bibitem{mobile_focus_group}
 Alt, F., Schmidt, A., and Evers, C. 
 \emph{Mobile contextual display systems.}
 In Adj. Proc. of HotMobile’09 (2009).
 
 
+\bibitem{usabilityproblems}
+Robert A. Virzi, Jeffrey L. Sokolov and Demetrios Karis
+\emph{Usability Problem Identification Using Low- and High-Fidelity Prototypes}
+In Proceeding CHI '96 Proceedings of the SIGCHI Conference on Human Factors in Computing Systems Pages 236-243 
+
+
 \bibitem{display_blindness}
 J. Müller, D. Wilmsmann, J. Exeler, M. Buzeck, A. Schmidt, T. Jay and A. Krüger
 \emph{Display Blindness: The Effect of Expectations on Attention towards Digital Signage}
 In Proceedings of the 7th International Conference on Pervasive Computing (Nara, Japan), Pervasive’09, pages 1–8, Berlin, Heidelberg, 2009. Springer-Verlag.
+
+
+
+\bibitem{lowfidelityefficient}
+ Virzi, R. 
+ \emph{What can you learn from a low-fidelity prototype? }
+ In Proc. of the Human Factors Society 33rd Annum Meeting, HFES: Santa Monica, CA(1989), pp. 224 - 228.
+
+
 
 
 \bibitem{Meaningful_ad}
@@ -121,6 +141,10 @@ Brakus, j.j. Schmitt, B.H. \& Zarantonello, L.
 \emph{MBrand Experience: What Is It? How Is It Measured? Does It Affect Loyalty?}
 In: Journal of Marketing. Vol. 73, May 2009, p. 52–68.
 
+\bibitem{formativestudy}
+Charles M. Reigeluth and Theodore W. Frick
+\emph{Formative Research: A Methodology for Creating and Improving Design Theories}
+In C.M. Reigeluch (ed.), Instructional-Design Theories and Models: A New Paradigm of Instructional Theory.  (Volume II).  Hillsdale, NJ: 
 
 
 \bibitem{Kinect}

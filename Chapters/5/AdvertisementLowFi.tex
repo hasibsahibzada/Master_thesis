@@ -4,14 +4,24 @@
 \label{Chapter5} % For referencing the chapter elsewhere, use \ref{Chapter1} 
 
 \section{Introduction}
-During the last focus-group discussions and all gathered data from attraction attention study and interviews, the first paper prototype of interactive advertisement was decided to be created. This document describes the advertisement application requirements, lists all functionalities along with its use cases and defines the target group that this application is going to be made for. 
 
-Paper prototype for Bauhaus-Walk [14] shows two different interactions (body and mobile) and tries to give an overall general picture of how the advertisement would look like after development, but to test this paper prototype, this document purposes a test design for complete evaluation of all important functionalities.
+
+
+After doing requirement analysis of Interactive advertisement, which was described in the previous chapter, now the stage shifts to formative studies that help the design process of advertisement and how to investigate problems with the various interactive prototypes, as Charles M. Reigeluth \cite{formativestudy} says ``\emph{Formative evaluation (sometimes called field testing or usability testing) is a methodology for improving instructional resources and curricula}'', and using this we question that what is correct in prototype and what things do not make sense or make sense, what are the most usability issues.
+
+
+Evaluating the paper prototype of a system can be an efficient \cite{lowfidelityefficient} and can be very effective as Robert A \cite{usabilityproblems} conducted usability testing using Low- and High-prototypes of the same system, where one group of subjects were confronted with a paper prototype and the other group of subjects with high-fidelity prototype (real functional system) and both groups were give the same set of tasks, and stated that ``\emph{In both experiments, substantially the same sets of usability problems were found in the low- and high-fidelity conditions. Individual problems were detected by a similar proportion of subjects in both the low- and high-fidelity conditions}''
+
+
+There have been many researches on public display earlier prototypes like Scott Carter \cite{prototypetesting1}, where three different prototypes were created for Ubicomp systems and were evaluated at different stages inside office places, during the early phases the 16 paper prototype technique was used, the evaluator was simulating the computer’s reactions, and even he involved five of his friends and employees to play the part of network that could update content in the display and the analysis was mostly qualitative like by taking interviews. 
+
+
+During the last focus-group discussions and all gathered data from attraction attention study and interviews, the first paper prototype of interactive advertisement was decided to be created. This document describes the advertisement application requirements, lists all functionalities along with its use cases and defines the target group that this application is going to be made for. Paper prototype for Bauhaus-Walk \cite{BauhausWalk} shows two different interactions (body and mobile) and tries to give an overall general picture of how the advertisement would look like after development and conducts the evaluation of them for all important system functionalities.
+
 
 \newpage
 \section{Requirement gathering}
-
-The bellow mentions Bauhaus-Walk advertisement?s all functional and non-functional requirements and what system requirement would be required at the time of development.
+The bellow mentions a generalized form of Bauhaus-Walk advertisement's functional, non-functional requirements and system requirements. These requirements were the result of the foucs-group and discussions.
 
 \subsection{Functional Requirements}
 
@@ -41,19 +51,57 @@ Kinect camera should be functional during the experiment for people detection, A
 The advertisement interaction both mobile and body should meet all criteria of usability.
 \end{enumerate}
 
-\section{Personas}
+\subsection{Personas}
 The bellow personas are made based on focus group findings that most of people taking tour are elder people, which builds up our primary type of persona and secondary type persona would be young age girl as described bellow.
 
 
+\begin{table}[H]
+\centering
+\caption{First persona}
+\label{firstpersona}
+\resizebox{\textwidth}{!}{ 
+\begin{tabular}{l | l}
+\tabhead{Type}   & Primary                             \\
+\midrule
+\tabhead{Name}            & Andreas Müller              \\
+\midrule
+\tabhead{Background}       & History teacher            \\
+\midrule
+\tabhead{Demographics}     & \begin{tabular}[c]{@{}l@{}}Age:.........................................50\\ Height:.....................................1,6 m\\ Martial status:.........................Married\\ Kids:........................................Two\\ Profession:................................School teacher\\ Language:.................................Deutsche\\ Computer experience:...............None\\ Smartphone experience:............None\end{tabular}                                                 \\
+\midrule
+\tabhead{Goal and Task} & \begin{tabular}[c]{@{}l@{}} \textbf{Experience goals:}\\ 1.Likes to learn about places in Weimar\\ 2.Likes to have fun.\\ 3.Does not like to feel alone and likes his wife or \\ friend to also join.\\ \textbf{End goals}\\ 1.Wants to see his body moving in the screen.\\ 2.Wants to explore the character’s location.\\ 3.Want to learn about Bauhaus-Walk program.\end{tabular} \\
+\midrule
+\tabhead{Environment}   & \begin{tabular}[c]{@{}l@{}}He and his friends want to learn about some good \\ places in Weimar and explore other famous culture events. \\ He does not use technology.\end{tabular}                                                                       
+\end{tabular}
+}
+\end{table}
 
 
-\hilight{put the persona table here}
+
+\begin{table}[H]
+\centering
+\caption{Second persona}
+\label{secondpersona}
+\resizebox{\textwidth}{!}{ 
+\begin{tabular}{l | l}
+\tabhead{Type}   & Secondary                             \\
+\midrule
+\tabhead{Name}            & Anna Weber              \\
+\midrule
+\tabhead{Background}       & Media art student            \\
+\midrule
+\tabhead{Demographics}     & \begin{tabular}[c]{@{}l@{}}Age:.........................................25\\ Height:.....................................1,6 m\\ Martial status:.........................Single\\ Kids:........................................None\\ Profession:................................Designer  \\ Language:.................................Deutsche, English, Spanish\\ Computer experience:...............Yes\\ Smartphone experience:............Yes\end{tabular}                                                 \\
+\midrule
+\tabhead{Goal and Task} & \begin{tabular}[c]{@{}l@{}} \textbf{Experience goals:}\\ 1.Avoid feeling stupid. \\ 2.Likes to try and error.\\ 3.Likes to have fun and laugh.\\ \textbf{End goals}\\ 1.To complete the task.\\ 2.Learn about Bauhaus-Walk program\\ \end{tabular} \\
+\midrule
+\tabhead{Environment}   & \begin{tabular}[c]{@{}l@{}}She is a student in Bauhaus University; she is very \\ interested in art and design and wants to find out more about \\ Weimar art. She loves using technologies \\like smartphone. \end{tabular}                                                                       
+\end{tabular}
+}
+\end{table}
 
 
 
-\section{Use case diagrams}
-
-
+\subsection{Use case diagrams}
 
 \hilight{put good use case diagrams }
 
