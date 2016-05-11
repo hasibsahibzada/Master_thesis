@@ -8,8 +8,14 @@ J. Müller, Florian Alt, Albrecht Schmidt, Daniel Michelis,
  
 \bibitem{AudienceFunnel}
 Michelis and J. Müller.
-\emph{The audience funnel:Observations of gesture based interaction with multiple large displays in a city center}.
- 2011.
+\emph{The audience funnel:Observations of gesture based interaction with multiple large displays in a city center}.2011.
+
+
+\bibitem{HowToEvaluate}
+Florian Alt, Stefan Schneegaß, Albercht Schmidt, Jörg Müller, Nemanja Memarovic
+\emph{How to evaluate Public Displays}
+Proceeding PerDis '12 Proceedings of the 2012 International Symposium on Pervasive Displays Article No. 17 
+
 
 \bibitem{Luminance}
 James T. Enns, Erin L. Austen, Vincent Di Lollo, And Robert Rauschenberger and Steven Yantis 
@@ -98,6 +104,9 @@ M. Burke, A. Hornof, E. Nilsen, and N. Gorman.
 ACM Trans. Comput.-Hum. Interact., 12(4):423–445, 2005.
 
 
+\bibitem{SweepPointShoot}
+Ballagas, R., Rohs, M., and Sheridan, J. G. Sweep and point and shoot: phonecam-based interactions for large public displays. In CHI ’05 EA, ACM (NY, USA, 2005).
+
 \bibitem{prototypetesting1}
 Scott Carter, Jennifer Mankoff
 \emph{Prototypes in the Wild: Lessons Learned from Evaluating Three Ubicomp Systems}
@@ -107,6 +116,11 @@ Journal IEEE Pervasive Computing archive Volume 4 Issue 4, October 2005 Page 51-
 Alt, F., Schmidt, A., and Evers, C. 
 \emph{Mobile contextual display systems.}
 In Adj. Proc. of HotMobile’09 (2009).
+
+\bibitem{TouchProjector}
+Boring, S., Baur, D., Butz, A., Gustafson, S., and Baudisch, P. 
+\emph{Touch projector: mobile interaction through video.} 
+In Proc. of CHI’10, ACM (New York, USA, 2010), 2287–2296.
 
 
 \bibitem{usabilityproblems}
@@ -121,12 +135,23 @@ J. Müller, D. Wilmsmann, J. Exeler, M. Buzeck, A. Schmidt, T. Jay and A. Krüge
 In Proceedings of the 7th International Conference on Pervasive Computing (Nara, Japan), Pervasive’09, pages 1–8, Berlin, Heidelberg, 2009. Springer-Verlag.
 
 
+\bibitem{WalldragandDrop}
+Collomb, M., Hascoët, M., Baudisch, P., and Lee, B. 
+\emph{Improving drag-and-drop on wall-size displays.}
+In Proc. of GI ’05 (2005), 25–32.
+
+
 
 \bibitem{lowfidelityefficient}
  Virzi, R. 
  \emph{What can you learn from a low-fidelity prototype? }
  In Proc. of the Human Factors Society 33rd Annum Meeting, HFES: Santa Monica, CA(1989), pp. 224 - 228.
 
+
+\bibitem{call-to-action}
+Kules, B., Kang, H., Plaisant,C., Rose,A. and shaneiderman,B.
+\emph{Immediate usability: a case study of public access design for a community photo library.}
+Interactiing with Computers, 16, 6 (2004), 1171 - 1193
 
 
 
@@ -160,7 +185,16 @@ Last accessed: 1/05/2016 at 15:21:00
 
 \bibitem{powtoon}
 PowToon (Video advertisement)
+Last Accessed: 21 April 2016.
 \url{https://www.powtoon.com}
+
+\bibitem{wordle}
+Wordle
+Last Accessed: 10 May 2016.
+\url{http://www.wordle.net/create}
+
+
+
 
 
 
