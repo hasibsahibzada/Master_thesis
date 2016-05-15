@@ -81,46 +81,60 @@ The behaviors of the passers-by were observed by direct observation in onsite an
 
 \item \textbf{Colored-image recording} \\
 A 2D colored image was taken per second from each of three cameras, and meanwhile were joint together side-by-side and after the image recording was done, in lab another post processing script was applied to integrate a static background using Adobe Photoshop application. To match the data logs and the image frames each image name consisted time as (12.43.21.png).
+Bellow three kinect images stacked together, as can be seen that people' colored images rendered on the images (1,2 and 3) these images are stacked together so that the transition of one person be smooth from one camera to the other.
 
 \begin{figure}[H]
    \centering
-    \includegraphics[width=\textwidth,height=50mm]{Figures/9/stacked_image}%
-    \caption{Three kinect images stacked together, as can be seen that people' colored images rendered on the images (1,2 and 3) these images are stacked together so that the transition of one person be smooth from one camera to the other. }%
+    \includegraphics[width=\textwidth,height=40mm]{Figures/9/stacked_image}%
+    \caption{Three Kinect images}%
     \label{fig:threekinectimages}%
 \end{figure}
 
 \end{enumerate}
 
 
+\newpage
 \section{Findings and results}
-
-
 
 \subsection{Attention Level measurements}
 
+The bellow chart shows the number of glances and ignore for the following three days.
 \begin{figure}[H]
     \centering
     \includegraphics[width=110mm,height=55mm]{Figures/9/newbody_Inter_chart}%
-    \caption{New body interactive attention level chart}%
+    \caption{Attention level chart}%
     \label{fig:newbodyattentionlevelchart}%
 \end{figure}
 
 
+As can be seen from the above chart every day has almost similar number of glances and ignores and in average it makes about \%51 glances and \%49 ignores which is a great difference compared to the previous body interactive advertisement.
+
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=110mm,height=55mm]{Figures/9/newbody_inter_percentage}
-    \caption{Non-interactive Attention level percentage}%
+    \includegraphics[width=70mm,height=55mm]{Figures/9/newbody_inter_percentage}
+    \caption{Attention level percentage}%
     \label{fig:Nonattentionlevelpercentage}%
 \end{figure}
 
 
 
-\subsection{Engagement time}
+\subsection{Engagement phases and duration spent}
+
+The engagement time for phases were measured from system logs and depth recording manually and in which people spent 16.10 seconds in average for the motivation phase some people took longer and some shorter, and some of them may have left without switching to the rest phases. 16.20 seconds in average was spent for interaction phase, which was different from person to person, and only 3.63 seconds in average was spent for video advertisement.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=90mm,height=60mm]{Figures/9/avg_phases}
+    \caption{Average time for each phase}%
+    \label{fig:newbodyaveragephases}%
+\end{figure}
+
+
 
 \subsection{Passerby and engagement}
 
-
+The entire number of passers-by and engaged people were counted manually and people who interacted for more than 3 seconds were flagged as engaged. As shown in the chart bellow all three days are individually recorded. 
 
 \begin{figure}[H]
     \centering
@@ -129,53 +143,83 @@ A 2D colored image was taken per second from each of three cameras, and meanwhil
     \label{fig:newbodyengagedandengagedby}%
 \end{figure}
 
+
+From entire passers-by \%15.32 of them were engaged with the display and the rest might have only glanced or simply ignored.
+
 \begin{figure}[H]
     \centering
-    \includegraphics[width=110mm,height=60mm]{Figures/9/newbody_eng_percentage}
-    \caption{New body Percentage of engaged and passerby}%
+    \includegraphics[width=70mm,height=60mm]{Figures/9/newbody_eng_percentage}
+    \caption{Percentage of engaged and passers-by}%
     \label{fig:newbodyengagedpasserbypercentage}%
 \end{figure}
 
 
-
-
 \subsection{Landing and Honeypot effects}
+
+Landing and honeypot effects were observed for this type of technique although the number of days was only for three days. 
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth,height=140mm]{Figures/9/effects/honeypot}
+    \caption{Honeypot effect}%
+    \label{fig:newbodyhoneypoteffect}%
+\end{figure}
+
+As can be seen from the picture above, in first frame (A) two person in the middle are engaged with the system and a women at the right is busy with the help desk, but she is attracted to the screen and has looked many times in previous frames, in (B) the two guys leave and in Frame (C) that women is left alone and then approaches toward the screen in frame (D and E) and starts actively interaction in frame (F).
+
+Few landing effects has also been happened which were similar like previous some noticed the interactivity in the middle and stopped and moved back toward the screen.  
+
+The chart bellow shows the frequencies of landing and honeypot effects.
 
 \begin{table}[H]
 \caption{Landing and honeypot effects}
 \label{tab:landingandhonypot}
 \centering
+\resizebox{8cm}{0.8cm}{ 
 \begin{tabular}{| l | c | c |}
 \toprule
 \tabhead{Days} & \tabhead{Landing effect} & \tabhead{Honeypot effect} \\
 \midrule
-\textbf{8th April}  & 3 &  3 \\
-\textbf{9th April}  & 2 &  5 \\
-\textbf{10th April}  & 1 &  2 \\
+8th April & 3 &  3 \\
+9th April  & 2 &  5 \\
+10th April  & 1 &  2 \\
 \bottomrule
 \end{tabular}
+}
 \end{table}
 
 
-\subsection{Note taking}
 
+
+
+
+
+\subsection{Other observations}
 see Appendix Appendix \ref{AppendixE}.2
 
+
+
+
+
+\newpage
 \subsection{Comparison with Body interaction}
 
 
 \begin{enumerate}
 
 
-\item Comparison of number of passerby
-To be on safe side that the number of participants were statistically the same the bellow computation has be applied.
+\item \textbf{Comparison of number of passers-by} \\
+To be on safe side that the number of participants were statistically the same the bellow computation has be applied on three similar days, which provides the base for further evaluations.
+
 \begin{table}[H]
 \caption{Number of people for three conditions}
 \label{tab:newbodypasserbyofthreeweeks}
 \centering
+\resizebox{8cm}{1cm}{  
 \begin{tabular}{| l | c | c | c |}
 \toprule
-\tabhead{Days} & \tabhead{Non-Interactive} & \tabhead{Body Interactive} & \tabhead{New-body Interactive} \\
+\tabhead{Days} & \tabhead{Non-Interactive} & \tabhead{Body Interactive} & \tabhead{Enhanced body Interactive} \\
 \midrule
 \textbf{Day 1}  & 212 & 259 &  322 \\
 \midrule
@@ -186,51 +230,49 @@ To be on safe side that the number of participants were statistically the same t
 \textbf{Total}  & 629 & 597 &  679 \\
 \bottomrule
 \end{tabular}
+}
 \end{table}
-
-
-ANOVA test revealed that there is no significant different between the passers-by in each of the conditions (\emph{(F2,3)=0.1449, p >.05 (p=0.868)})
+ANOVA test revealed that there is no statistical significant different between the passers-by in each of the conditions (\emph{(F2,3)=0.1449, p >.05 (p=0.868)})
 
 
 
-\item{Attention Level measurements}
+\item \textbf{Attention Level comparison}  \\
+The number of glances and ignores for both body interaction and enhanced body interaction was collected as bellow.
+
 
 \begin{table}[H]
-\caption{Cross tabulation for each condition attention level }
+\caption{Cross tabulation for each condition attention level}
 \label{tab:newbodycrosstabulationweeks}
 \centering
+\resizebox{8cm}{1cm}{ 
 \begin{tabular}{| l | c | c | c |}
 \toprule
 \tabhead{Method} & \tabhead{Glanced (\%)} & \tabhead{Ignored} & \tabhead{Total } \\
 \midrule
-\textbf{Body Interactive}     	 & 96 (\%38.70)   &   152      &   248\\
+\textbf{Body Interactive}     	 & 106 (\%41.40)   &   150      &   256\\
 \midrule
-\textbf{New body Interactive }   & 108 (\%49.54)  &   110      &   218\\
+\textbf{New body Interactive }   & 115 (\%51.11)  &   110      &   225\\
 \midrule
-\textbf{Total }         		 & 204            &   262      &   466\\
+\textbf{Total }         		 & 221            &   260      &   481\\
 \bottomrule
 \end{tabular}
+}
 \end{table}
 
-As can be seen the new body interactive advertisement has a higher percentage almost \%50 of the glances compared to the old body interactive advertisement.
-
-To see if these are statistically significant different, the Chi-square test was applied on them.\\
-${\chi}^2$\emph{(1, N=466)=5.5303, p < .05 (p=.01869)}
+As can be seen the new body interactive advertisement has a higher percentage about \%51 of the glances compared to the old body interactive advertisement, this means that a rise of \%10 the number of glances have been increased. To examine if these have statistically significant difference, the Chi-square test was applied on them and revealed ${\chi}^2$\emph{(1, N=481)=4.5413, p < .05 (p=.033086)} that they are statistically different and the new body attraction technique does have higher effect the attention level.
 
 
-
-
-
-\item{Landing effects}
-
+\item \textbf{Landing effect comparison}\\
+The landing effects were recorded for non-interactive, body interactive and enhanced body interactive in bellow table.
 
 \begin{table}[H]
 \caption{Cross tabulation for each condition Landing effect }
 \label{tab:newbodylandingeffect}
 \centering
+\resizebox{8cm}{1cm}{  
 \begin{tabular}{| l | c | c | c |}
 \toprule
-\tabhead{Method} & \tabhead{Non-Interactive} & \tabhead{Body Interactive} & \tabhead{New body Interactive } \\
+\tabhead{Method} & \tabhead{Non-Interactive} & \tabhead{Body Interactive} & \tabhead{Enhanced body Interactive } \\
 \midrule
 \textbf{Day 1}    & 2    &   2      &   1\\
 \midrule
@@ -239,22 +281,23 @@ ${\chi}^2$\emph{(1, N=466)=5.5303, p < .05 (p=.01869)}
 \textbf{Day 3}    & 1    &   3      &   3\\
 \bottomrule
 \end{tabular}
+}
 \end{table}
-
-ANOVA states that there is no significant different for these three days for all of the conditions.\\
+After conducting ANOVA test, it states that there is no significant different between three days for all of the conditions.\\
 (\emph{(F2,3)=1.857, p >.05 (p=0.236)})
 
 
-\item{Honeypot effects}
-
+\item \textbf{Honeypot effect comparison}\\
+Honeypot effects were also gathered from those days as bellow in table.
 
 \begin{table}[H]
 \caption{Cross tabulation for each condition Honeypot effect }
 \label{tab:newbodyhoneypoteffect}
 \centering
+\resizebox{8cm}{1cm}{  
 \begin{tabular}{| l | c | c | c |}
 \toprule
-\tabhead{Method} & \tabhead{Non-Interactive} & \tabhead{Body Interactive} & \tabhead{New body Interactive } \\
+\tabhead{Method} & \tabhead{Non-Interactive} & \tabhead{Body Interactive} & \tabhead{Enhanced body Interactive } \\
 \midrule
 \textbf{Day 1}    & 2    &   2      &   3\\
 \midrule
@@ -263,6 +306,7 @@ ANOVA states that there is no significant different for these three days for all
 \textbf{Day 3}    & 1    &   3      &   2\\
 \bottomrule
 \end{tabular}
+}
 \end{table}
 
 ANOVA reveals that there is also no statistical difference between these conditions. \\
@@ -270,12 +314,30 @@ ANOVA reveals that there is also no statistical difference between these conditi
 
 
 
+\item \textbf{Engaged and Non-engaged passerby}
 
-\item{Engagement time}
 
-\item{Passerby and engagement}
+\begin{table}[H]
+\caption{Number of engaged passerby in three weeks}
+\label{tab:engagedofthreeweeks}
+\centering
+\resizebox{8cm}{1cm}{  
+\begin{tabular}{| l | c | c | c |}
+\toprule
+\tabhead{Days} & \tabhead{First week} & \tabhead{Second week} & \tabhead{Third week} \\
+\midrule
+\textbf{Day 1}  & 15 & 26 &  39 \\
+\midrule
+\textbf{Day 2}  & 15 & 20 &  37 \\
+\midrule
+\textbf{Day 3}  & 15 & 23 &  28 \\
+\midrule
+\textbf{Total}  & 45 & 69 &  104\\
+\bottomrule
+\end{tabular}
+}
+\end{table}
 
-\item{Note taking}
 
 
 \end{enumerate}
@@ -283,3 +345,8 @@ ANOVA reveals that there is also no statistical difference between these conditi
 
 
 \section{Discussions}
+
+
+
+
+\section{Conclusion}

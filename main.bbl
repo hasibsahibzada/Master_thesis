@@ -4,8 +4,10 @@
 \bibitem{DesignSpace}
 J. Müller, Florian Alt, Albrecht Schmidt, Daniel Michelis, 
  \emph{2010 Requirements and Design Space for Interactive Public Displays},
- (October 25-29, 2010, Firenze, Italy). 
- 
+In Proceedings of the SIGMM Conference on Multimedia (MM '10), 1285 - 1294
+
+
+
 \bibitem{AudienceFunnel}
 Michelis and J. Müller.
 \emph{The audience funnel:Observations of gesture based interaction with multiple large displays in a city center}.2011.
@@ -42,18 +44,41 @@ J. Müller, R. Walter, G. Bailly, M. Nischt, and F. Alt.
 \emph{Looking Glass: A Field Study on Noticing Interactivity of a Shop Window.},
 In Proceedings of the 2012 ACM Conference on Human Factors in Computing Systems (Austin, TX, USA), CHI’12, pages 297–306, New York, NY, USA, 2012. ACM.
 
+
 \bibitem{EnticingPeople}
 H. Brignull and Y. Rogers. 
 \emph{Enticing People to Interact with Large Public Displays in Public Spaces}. 
 In M. Rauterberg, M. Menozzi, and J. Wesson, editors, Proceedings of the IFIP TC13 International Conference on Human- Computer Interaction (Zürich, Switzerland), Interact’03. IOS Press, 2003.
+
+
+\bibitem{DisplayAngleEffect}
+Junko Ichino, Kazuo Isoda, Tetsuya Ueda and Reimi Satoh
+\emph{Effects of the Display Angle on Social Behaviors of the People around the Display: A Field study at a Museum.}
+Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work \& Social Computing ACM New York, NY, USA ©2016
+
+
+\bibitem{DisplayAngleEffect2}
+Junko Ichino, Kazuo Isoda, Ayako Hanai and Tetsuya Ueda
+\emph{Effects of the Display Angle in Museums on User's Cognition, Behavior, and Subjective Responses}
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems Pages 2979-2988 ACM New York, NY, USA ©2013
+
 
 \bibitem{FocusGroup}
 Jenny Cameron, \\
 \emph{Focusing on the Focus Group}. 
 School of Environmental Planning, Griffith University Australia.2005
 
+
+\bibitem{Bystanders}
+Anthony Tang, Mattias Finke, Michael Blackstock, Rock Leung, Meghan Deutscher, Rodger Lea \\
+\emph{Designing for Bystanders: Reflections on Building a Public Digital Forum}. 
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems
+Pages 879-882 
+
+
+
 \bibitem{Josef}
-Josef Hartwig,\\
+Josef Hartwig,
 \emph{Das Bauhaus Schach Spiel 
 Last time accessed 10 Feb 2016 } \\
 \url{https://de.wikipedia.org/wiki/Josef\_Hartwig}
@@ -64,12 +89,12 @@ Weimar tourist information \\
 \url{http://www.weimar.de/homepage/}
 
 \bibitem{Bauhaus_Walk_Uni}
-Bauhaus University \\
+Bauhaus University
 \emph{Bauhaus Walk} \\
 \url{https://www.uni-weimar.de/en/university/profile/bauhausatelier/bauhaus-walk/}
 
 \bibitem{BauhausWalk}
-Paper Prototype \\
+Paper Prototype, 
 \emph{Last accessed 10 April 2016}\\
 \url{https://youtu.be/XGBgeSGeUwQ}
 
@@ -135,11 +160,30 @@ J. Müller, D. Wilmsmann, J. Exeler, M. Buzeck, A. Schmidt, T. Jay and A. Krüge
 In Proceedings of the 7th International Conference on Pervasive Computing (Nara, Japan), Pervasive’09, pages 1–8, Berlin, Heidelberg, 2009. Springer-Verlag.
 
 
+\bibitem{digitalSignage}
+Müller, J., Exeler, J., Buzeck, M., and Krüger, A. 
+\emph{Reflectivesigns: Digital signs that adapt to audience attention.}
+ In Proc. of Pervasive’09, Springer (Berlin, 2009), 17–24.
+
+
+
 \bibitem{WalldragandDrop}
 Collomb, M., Hascoët, M., Baudisch, P., and Lee, B. 
 \emph{Improving drag-and-drop on wall-size displays.}
 In Proc. of GI ’05 (2005), 25–32.
 
+
+\bibitem{CylindricalScreen}
+Beyer, G., Alt, F., Müller, J., Schmidt, A., Isakovic, K., Klose, S., Schiewe, M., and Haulsen, I. 
+\emph{Audience behavior around large interactive cylindrical screens.}
+In Proc. of CHI’11, ACM (New York, USA, 2011), 1021–1030.
+
+
+
+\bibitem{chained_displays}
+Maurice ten Koppel,Gilles Bailly, Jörg Müller and Robert Walter
+\emph{Chained Displays: Configurations of Public Displays Can Be Used to Influence Actor-, Audience -,and Passer- By Behavior}
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems Pages 317-326ACM New York, NY, USA ©2012
 
 
 \bibitem{lowfidelityefficient}
@@ -153,6 +197,11 @@ Kules, B., Kang, H., Plaisant,C., Rose,A. and shaneiderman,B.
 \emph{Immediate usability: a case study of public access design for a community photo library.}
 Interactiing with Computers, 16, 6 (2004), 1171 - 1193
 
+
+\bibitem{summative}
+Quesenbery, W. (2004). 
+\emph{Defining a summative usability test for voting systems - A report from the UPA 2004 workshop on voting and usability}
+\url{http://www.slideshare.net/whitepapers/defining-a-summative-usability-test-for-voting systems}
 
 
 \bibitem{Meaningful_ad}
