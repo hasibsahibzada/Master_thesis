@@ -18,6 +18,12 @@ Florian Alt, Stefan Schneegaß, Albercht Schmidt, Jörg Müller, Nemanja Memarov
 \emph{How to evaluate Public Displays}
 Proceeding PerDis '12 Proceedings of the 2012 International Symposium on Pervasive Displays Article No. 17 
 
+\bibitem{ambient}
+H. Ishii and B. Ullmer. 
+\emph{Tangible Bits: Towards Seamless Interfaces Between People, Bits, and Atoms.} 
+In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (Atlanta, GA, USA),CHI’97, pages 234–241, New York, NY, USA, 1997. ACM.
+
+
 
 \bibitem{Luminance}
 James T. Enns, Erin L. Austen, Vincent Di Lollo, And Robert Rauschenberger and Steven Yantis 
@@ -45,10 +51,21 @@ J. Müller, R. Walter, G. Bailly, M. Nischt, and F. Alt.
 In Proceedings of the 2012 ACM Conference on Human Factors in Computing Systems (Austin, TX, USA), CHI’12, pages 297–306, New York, NY, USA, 2012. ACM.
 
 
+\bibitem{meme-tags}
+R. Borovoy, F. Martin, S. Vemuri, M. Resnick, B. Silverman, and C. Hancock. 
+\emph{Meme Tags and Community Mirrors: Moving from Conferences to Collaboration.}
+In Proceedings of the 1998 ACM Conference on Computer Supported Cooperative Work (Seattle, WA, USA), CSCW’98, pages 159–168, New York, NY, USA, 1998. ACM.
+
+
 \bibitem{EnticingPeople}
 H. Brignull and Y. Rogers. 
 \emph{Enticing People to Interact with Large Public Displays in Public Spaces}. 
 In M. Rauterberg, M. Menozzi, and J. Wesson, editors, Proceedings of the IFIP TC13 International Conference on Human- Computer Interaction (Zürich, Switzerland), Interact’03. IOS Press, 2003.
+
+\bibitem{information_precolator}
+J. M. Heiner, S. E. Hudson, and K. Tanaka. 
+\emph{The Information Percolator: Ambient Information Display in a Decorative Object.}
+In Proceedings of the 12th annual ACM Symposium on User Interface Software and Technology (Asheville, NC, USA), UIST ’99, pages 141–148, New York, NY, USA, 1999. ACM.
 
 
 \bibitem{DisplayAngleEffect}
@@ -61,6 +78,12 @@ Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work \&
 Junko Ichino, Kazuo Isoda, Ayako Hanai and Tetsuya Ueda
 \emph{Effects of the Display Angle in Museums on User's Cognition, Behavior, and Subjective Responses}
 Proceedings of the SIGCHI Conference on Human Factors in Computing Systems Pages 2979-2988 ACM New York, NY, USA ©2013
+
+\bibitem{chew_interaction}
+A. Chew, V. Leclerc, S. Sadi, A. Tang, and H. Ishii. 
+\emph{SPARKS.}
+In CHI’05 Extended Abstracts on Human Factors in Computing Systems (Portland, OR, USA), CHI EA’05, pages 1276–1279, New York, NY, USA, 2005. ACM.
+
 
 
 \bibitem{FocusGroup}
@@ -75,7 +98,23 @@ Anthony Tang, Mattias Finke, Michael Blackstock, Rock Leung, Meghan Deutscher, R
 Proceedings of the SIGCHI Conference on Human Factors in Computing Systems
 Pages 879-882 
 
+\bibitem{shared_notes}
+S.Greenberg, M.Boyle, and J.Laberge.
+\emph{PDAsandSharedPublicDisplays: Making Personal Information Public, and Public Information Personal.}
+Personal and Ubiquitous Computing, 3(1):54–64, 1999.
 
+
+\bibitem{ibmtags}
+Borovoy, R., McDonald, M., Martin, F., and Resnick, M. 
+\emph{Things that blink: Computationally augmented name tags.}
+IBM Systems Journal 35, 3\&4.
+
+
+
+\bibitem{office_plant}
+M. Böhlen and M. Mateas.
+\emph{Office Plant\# 1: Intimate Space and Contemplative Entertainment.}
+Leonardo, 31(5):345–348, 1998.
 
 \bibitem{Josef}
 Josef Hartwig,
@@ -97,6 +136,24 @@ Bauhaus University
 Paper Prototype, 
 \emph{Last accessed 10 April 2016}\\
 \url{https://youtu.be/XGBgeSGeUwQ}
+
+
+\bibitem{flump}
+J. Finney, S. Wade, N. Davies, and A. Friday. 
+\emph{Flump: The Flexible Ubiquitous Monitor Project.}
+In Proceedings of the 3rd Cabernet Radicals Workshop, 1996. 
+
+
+\bibitem{digifieds}
+F.Alt,T.Kubitza, D.Bial, F.Zaidan, M.Ortel, B.Zurmaar, T.Lewen, A.S. Shirazi, and A. Schmidt. 
+\emph{Digifieds: Insights into Deploying Digital Public Notice Areas in the Wild.} In Proceedings of the 10th International Confer- ence on Mobile and Ubiquitous Multimedia (Beijing, China), MUM’11, pages 165–174, New York, NY, USA, 2011. ACM.
+
+
+\bibitem{bluescreen}
+M. Shari , T. Payne, and E. David. 
+\emph{Public display advertising based on bluetooth device presence.}
+In Mobile Interaction with the Real World (MIRW 2006)in conjunction with the 8th International Conference on Human Computer Interaction with Mobile Devices and Services, Espoo, Finland, September 2006. 
+
 
 
 \bibitem{Intraface}
@@ -128,6 +185,11 @@ M. Burke, A. Hornof, E. Nilsen, and N. Gorman.
 \emph{High-cost banner blindness: Ads increase perceived workload, hinder visual search, and are forgotten.}
 ACM Trans. Comput.-Hum. Interact., 12(4):423–445, 2005.
 
+\bibitem{runwithuse}
+F. Gil-Castiñeira, A. Fernández-López, C. L. Bravo, N. Cid-Vieytes, D. Conde-Lagoa, E. Costa-Montenegro, and F. J. González-Castaño. 
+\emph{Runwithus: a social sports application in the ubiquitous oulu environment.} 
+In Proceedings of the 10th International Conference on Mobile and Ubiqui- tous Multimedia (Beijing, China), MUM ’11, pages 195–204, New York, NY, USA, 2011. ACM.
+
 
 \bibitem{SweepPointShoot}
 Ballagas, R., Rohs, M., and Sheridan, J. G. Sweep and point and shoot: phonecam-based interactions for large public displays. In CHI ’05 EA, ACM (NY, USA, 2005).
@@ -154,17 +216,43 @@ Robert A. Virzi, Jeffrey L. Sokolov and Demetrios Karis
 In Proceeding CHI '96 Proceedings of the SIGCHI Conference on Human Factors in Computing Systems Pages 236-243 
 
 
+\bibitem{imahere}
+E. M. Huang, D. M. Russell, and A. E. Sue. 
+\emph{IM Here: Public Instant Messaging on Large, Shared Displays for Workgroup Interactions.} In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (Vienna, Austria),CHI’04, pages 279–286, New York, NY, USA, 2004. ACM.
+
 \bibitem{display_blindness}
 J. Müller, D. Wilmsmann, J. Exeler, M. Buzeck, A. Schmidt, T. Jay and A. Krüger
 \emph{Display Blindness: The Effect of Expectations on Attention towards Digital Signage}
 In Proceedings of the 7th International Conference on Pervasive Computing (Nara, Japan), Pervasive’09, pages 1–8, Berlin, Heidelberg, 2009. Springer-Verlag.
 
 
+\bibitem{newgenerationcomputer}
+M. Weiser. 
+\emph{The computer for the 21st century.}
+Scientific American, 265(3):94–104, 1991.
+
+
+\bibitem{toward_situated}
+J. Müller and A. Krüger. 
+\emph{Towards Situated Public Displays as Multicast Systems.}
+In Proceedings of the Workshop on Ubiquitous User Modeling UbiqUM’06, 2006.
+
+
+\bibitem{prospero}
+B. Congleton. 
+\emph{Prospero – A “Visual Commons” Framework for Public Displays, 2007. }
+\url{http://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/3816/prospero\_wrap_up.pdf?sequence=1}, last accessed 15 May 2016.
+
+
+\bibitem{interactive_hospital}
+J. E. Bardram, T. R. Hansen, and M. Soegaard. 
+\emph{AwareMedia: a Shared Interactive Display Supporting Social, Temporal, and Spatial Awareness in Surgery.}
+In Proceedings of the 2006 20th Anniversary Conference on Computer Supported Cooperative Work (Banff, AB, Canada), CSCW ’06, pages 109–118, New York, NY, USA, 2006. ACM.
+
 \bibitem{digitalSignage}
 Müller, J., Exeler, J., Buzeck, M., and Krüger, A. 
 \emph{Reflectivesigns: Digital signs that adapt to audience attention.}
  In Proc. of Pervasive’09, Springer (Berlin, 2009), 17–24.
-
 
 
 \bibitem{WalldragandDrop}
@@ -179,11 +267,31 @@ Beyer, G., Alt, F., Müller, J., Schmidt, A., Isakovic, K., Klose, S., Schiewe, 
 In Proc. of CHI’11, ACM (New York, USA, 2011), 1021–1030.
 
 
+\bibitem{vogel}
+D. Vogel and R. Balakrishnan. 
+\emph{Interactive public ambient displays: Transitioning from implicit to explicit, public to personal, interaction with multiple users.}
+In Proceedings of the 17th annual ACM Symposium on User Interface Software and Technology (Santa Fe, NM, USA), UIST’04, pages 137–146, New York, NY, USA, 2004. ACM.
+
+
+
+\bibitem{cblink}
+K. Miyaoku, S. Higashino, and Y. Tonomura. 
+\emph{C-blink: A Hue Difference- based Light Signal Marker for Large Screen Interaction Via Any Mobile Terminal.}
+In Proceedings of the 17th annual ACM Symposium on User Interface Software and Technology (Santa Fe, NM, USA), UIST’04, pages 147–156, New York, NY, USA, 2004. ACM.
+
 
 \bibitem{chained_displays}
 Maurice ten Koppel,Gilles Bailly, Jörg Müller and Robert Walter
 \emph{Chained Displays: Configurations of Public Displays Can Be Used to Influence Actor-, Audience -,and Passer- By Behavior}
 Proceedings of the SIGCHI Conference on Human Factors in Computing Systems Pages 317-326ACM New York, NY, USA ©2012
+
+
+
+\bibitem{advertisementdef}
+ H. Meffert, C. Burmann, and M. Kirchgeorg.
+ \emph{Marketing: Grundlagen Marktorientierter Unternehmensfuhrung. Konzepte-Instrumente Praxisbeispiele.}
+ Gabler, 2011.
+
 
 
 \bibitem{lowfidelityefficient}
@@ -203,11 +311,84 @@ Quesenbery, W. (2004).
 \emph{Defining a summative usability test for voting systems - A report from the UPA 2004 workshop on voting and usability}
 \url{http://www.slideshare.net/whitepapers/defining-a-summative-usability-test-for-voting systems}
 
+\bibitem{blueboard}
+D. M. Russell, J. P. Trimble, and A. Dieberger. 
+\emph{The Use Patterns of Large, Interactive Display Surfaces: Case Studies of Media Design and Use for BlueBoard and MERBoard.}
+In Proceedings of the 37th Annual Hawaii International Conference on System Sciences HICSS’04, Washington, DC, USA, 2004. IEEE Computer Society.
+
+\bibitem{pervasiv_ubiquitous}
+Nieuwdorp, E. (2007).
+\emph{The pervasive discourse.}
+Computers in Entertainment 5 (2): 13. doi:10.1145/1279540.1279553.
+
+\bibitem{bluetooth2}
+N. Davies, A. Friday, P. Newman, S. Rutlidge, and O. Storz. 
+\emph{Using Bluetooth Device Names to Support Interaction in Smart Environments.}
+In Proceedings of the 7th international Conference on Mobile Systems, Applications, and Services (Krakow, Poland), MobiSys’09, pages 151–164, New York, NY, USA, 2009. ACM.
+
+
+\bibitem{twenty_first}
+M. WEISER: 
+\emph{The Computer of the Twenty-First Century.}
+Scientific American, pp. 94- 100, 1991.
+
 
 \bibitem{Meaningful_ad}
 P. van Waart, I. Mulder, and C. de Bont
-\emph{Meaningful advertising:pervasive advertising in the experience economy}
+\emph{Meaningful advertising: pervasive advertising in the experience economy}
 In J. Müller, F. Alt, and D. Michelis, editors, Pervasive Advertising, pages 57–81. Springer Limited London, 2011.
+
+
+\bibitem{flashlight}
+A. S. Shirazi, C. Winkler, and A. Schmidt. 
+\emph{Flashlight Interaction: A Study on Mobile Phone Interaction Techniques with Large Displays.} 
+In Proceedings of the 11th International Conference on Human-Computer Interaction with Mobile Devices and Services (Bonn, Germany), MobileHCI’09, pages 931–932, New York, NY, USA, 2009. ACM.
+
+\bibitem{Bluetooth}
+K. cheverst, A. Dix, D. Fitton, C. Kray, M. Rouncefield, C. Sas, G. SaslisLagoudakis, and J. G. Sheridan.
+\emph{Exploring Bluetooth-based Mobile PHone Interaction with the Hermes Photo Display.}
+In proceedings of the 7th Internaltional Conference on Human Computer Interaction with Mobile Devices \& Services (Salzburg, Austria), MobileHCI'05, pages 47-54, New York, NY, USA, 2005. ACM
+
+\bibitem{hole_space}
+K. Galloway and S. Rabinowitz. 
+\emph{Hole-in-Space, 1980.}
+http://www.ecafe.com/getty/HIS/, last accessed May 15, 2016.
+
+
+
+\bibitem{pervasiv_ad}
+J. Müller, F. Alt, and D. Michelis. 
+\emph{Pervasive Advertising.}
+Springer London Limited, 2011.
+
+
+\bibitem{ad_def}
+P. Kotler.
+\emph{Marketing Management. Pearson one series.}
+Pearson Prentice Hall, Upper Saddle River, NJ, 13th edition, 2009.
+
+
+\bibitem{pervais_ad}
+Alois Ferscha
+\emph{What is Pervasiv Computing?}
+Johannes Kepler Universität Linz, Institut für Praktische Informatik,
+
+
+\bibitem{ubiquitous_everyware}
+Greenfield, Adam (2006).
+\emph{Everyware: the dawning age of ubiquitous computing.}
+New Riders. pp. 11–12. ISBN 0-321-38401-6.
+
+
+\bibitem {zipper}
+L. Brill. 
+\emph{Led electronic message reader boards: Watching the world go by in streaming headlines.}signindustry.com, 2008.
+
+\bibitem{ubiquitous_computing}
+Mark Weiser, 
+\emph{Some Computer Science Problems in Ubiquitous Computing}
+Communications of the ACM, July 1993.(reprinted as ``Ubiquitous Computing''. Nikkei Electronics; December 6, 1993; pp. 137-143.) 
+
 
 
 \bibitem{Brand_experience}

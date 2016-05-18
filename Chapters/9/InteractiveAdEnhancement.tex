@@ -297,7 +297,7 @@ Honeypot effects were also gathered from those days as bellow in table.
 \resizebox{8cm}{1cm}{  
 \begin{tabular}{| l | c | c | c |}
 \toprule
-\tabhead{Method} & \tabhead{Non-Interactive} & \tabhead{Body Interactive} & \tabhead{Enhanced body Interactive } \\
+\tabhead{Days} & \tabhead{Non-Interactive} & \tabhead{Body Interactive} & \tabhead{Enhanced body Interactive } \\
 \midrule
 \textbf{Day 1}    & 2    &   2      &   3\\
 \midrule
@@ -324,7 +324,7 @@ ANOVA reveals that there is also no statistical difference between these conditi
 \resizebox{8cm}{1cm}{  
 \begin{tabular}{| l | c | c | c |}
 \toprule
-\tabhead{Days} & \tabhead{First week} & \tabhead{Second week} & \tabhead{Third week} \\
+\tabhead{Days} & \tabhead{Non-Interactive} & \tabhead{Body Interactive} & \tabhead{Enhanced body Interactive } \\
 \midrule
 \textbf{Day 1}  & 15 & 26 &  39 \\
 \midrule
@@ -338,6 +338,30 @@ ANOVA reveals that there is also no statistical difference between these conditi
 }
 \end{table}
 
+ANOVA reveals that there is statistical difference between these conditions. \\
+(\emph{(F2,3)=20.3154, p <.05 (p=0.0021)})
+
+And conducing post-hoc Tukey HSD test, reveals that 
+
+\begin{table}[H]
+\caption{Post-Hoc Tukey’s HSD}
+\label{tab:engage-non-posthoctukey}
+\centering
+\resizebox{\textwidth}{!}{  
+\begin{tabular}{| l | c | c | c |}
+\toprule
+\tabhead{Methods} & \tabhead{Tukey HSD Q statistic} & \tabhead{Tukey HSD p-value} & \tabhead{Tukey HSD inferfence} \\
+\midrule
+\textbf{A vs B}  & 3.6459 & 0.0920761 & \cellcolor{red!80} insignificant  \\
+\midrule
+\textbf{A vs C}  & 8.9627 & 0.0017440 &  \cellcolor{green!100} ** p<0.01 \\
+\midrule
+\textbf{B vs C}  & 5.3169 & 0.0218582 & \cellcolor{green!50} * p<0.05 \\
+
+\bottomrule
+\end{tabular}
+}
+\end{table}
 
 
 \end{enumerate}

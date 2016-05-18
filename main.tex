@@ -77,14 +77,20 @@ headsepline, % Uncomment to get a line under the header
 \usepackage{lipsum}
 \usepackage{subcaption}
 \usepackage{caption}
+
+\usepackage{xcolor}
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{205,201,201}
+
+
 %----------------------------------------------------------------------------------------
 %	MARGIN SETTINGS
 %----------------------------------------------------------------------------------------
 
 \geometry{
 	paper=a4paper, % Change to letterpaper for US letter
-	inner=2.5cm, % Inner margin
-	outer=3.8cm, % Outer margin
+	inner=1.0cm, % Inner margin
+	outer=2.5cm, % Outer margin
 	bindingoffset=2cm, % Binding offset
 	top=1.5cm, % Top margin
 	bottom=1.5cm, % Bottom margin
@@ -286,17 +292,19 @@ $\omega$ & angular frequency & \si{\radian} \\
 
 % Include the chapters of the thesis as separate files from the Chapters folder
 % Uncomment the lines as you write the chapters
+\newcommand{\hilight}[1]{\colorbox{yellow}{#1}}
 
-\include{Chapters/1/Introduction}
+
+%\include{Chapters/1/Introduction}
 \include{Chapters/2/Background}
-\include{Chapters/3/AttractionAttention}
-\include{Chapters/4/AdvertisementDecision}
-\include{Chapters/5/AdvertisementLowFi}
-\include{Chapters/7/AdvertisementApplication}
-\include{Chapters/6/AdvertisementHighFi}
-\include{Chapters/8/InteractiveNonInteractiveStudy}
-\include{Chapters/9/InteractiveAdEnhancement}
-\include{Chapters/10/Conclusion}
+%\include{Chapters/3/AttractionAttention}
+%\include{Chapters/4/AdvertisementDecision}
+%\include{Chapters/5/AdvertisementLowFi}
+%\include{Chapters/7/AdvertisementApplication}
+%\include{Chapters/6/AdvertisementHighFi}
+%\include{Chapters/8/InteractiveNonInteractiveStudy}
+%\include{Chapters/9/InteractiveAdEnhancement}
+%\include{Chapters/10/Conclusion}
 
 
 %----------------------------------------------------------------------------------------
@@ -323,7 +331,7 @@ $\omega$ & angular frequency & \si{\radian} \\
 % Include the appendices of the thesis as separate files from the Appendices folder
 % Uncomment the lines as you write the Appendices
 
-\include{Appendices/Appendix}
+%\include{Appendices/Appendix}
 
 
 
