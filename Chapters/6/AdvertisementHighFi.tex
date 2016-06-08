@@ -6,20 +6,193 @@
 \newpage
 
 \section{Introduction}
+A follow up study is conducted when a final version of a prototype is developed, this is called \emph{summative study}, \cite{summative} ``\emph{it is used to evaluate how well the design meets the usability requirements}'' it is to make some final decisions on the prototype, there have been studies like ``\emph{Sweep and point \& shoot}'' \cite{SweepPointShoot} that evaluated prototypes of interaction of personal computing device with large public displays, another was an evaluation of ``\emph{mobile interaction with live video}'' \cite{TouchProjector}, which was a with-in subject design, the participant’s performance were measured for automatic zooming and temporary image freezing. Sebastian .D \cite{WalldragandDrop} assessed the general performance of drag and drop interaction on large displays and compared it with a traditional drag and drop. Jorg Müller \cite{LookingGlass} did pre-studies (lab and field) on noticing interactivity of a display in which the time required for recognizing interactivity by participants were measured.
+
+Based on the feedbacks from the low-fidelity evaluation in previous chpater, I developed the hi-fidelity version of interactive advertisement both (body, mobile), which was at a functional level. This chapter explains the evaluation process of Hi-fidelity prototypes of interactive advertisement both body and mobile. The evaluations were more on user performance, user acceptance; it also focused on the possible usability issues. As the application would be in public, where many people would interact, therefor this study also tested the application performance with single and multi-users to ensure application stability.
 
 
-Various studies are conducted in different stages of a research, at this level the chapter concentrates to Experimental study, which is mostly done in a controlled environment or even at fields and finds variable that causes of a direct influence on another variable, there have been many Experimental studies like ``\emph{Sweep and point \& shoot}'' \cite{SweepPointShoot} that evaluated prototypes of interaction of personal computing device with large public displays, another was an evaluation of ``\emph{mobile interaction with live video}'' \cite{TouchProjector} in that the participants performance were measured for automatic zooming and temporary image freezing, which was an experimental with-in subject study design. Sebastian .D \cite{WalldragandDrop} assessed the general performance of drag and drop interaction on large displays and compared it with a traditional drag and drop. Jorg Müller \cite{LookingGlass} did pre-studies (lab and field) on noticing interactivity of a display in which the time required for recognizing interactivity by participants were measured.
 
-After low-fi prototype evaluation and refining the prototype, the Hi- fidelity prototype version of advertisement got ready and this chapter explains the steps taken for advertisement application evaluation. The focus of this study were more on user performance like task completion time and call-to-action \cite{call-to-action} understandability, it also investigated on user acceptance that how much the interaction techniques were motivated for them and if they would interact in future, it also focused on the possible usability issues of the techniques.
+\section{Advertisement prototypes}
+The prototype was to show a city map on the screen with possible interactive famous places of Bauhaus, the interaction idea was to map physical movement of the user, or map the cursor movement of a phone to the virtual movement on the city map, and let user to explore the target places by reaching to those locations. Three to five places were to be explored by one person to finish the interaction.
 
-This usability testing was to understand whether both mobile and body interactive advertisement would function in the public or not, what were other difficulties, confusions, common mistakes, and behavior toward the applications. As the application would be in public crowd and not just one person would pass by the screen we were also interested that how the application deal with many users while interacting and observe multi user behavior in front of the screen.
 
+There are mainly three hierarchical levels of interfaces, (1) \emph{call-to-action}, (2) \emph{Game interaction}, and (3) the advertisement video interface.
+
+\begin{itemize}
+\item Call-to-Action interface: \\
+This interface invites participants to interact with the application, this method was first proposed by Bill Kules \cite{call-to-action}, in which the immediate usability of public accesses to a system was designed. \emph{call-to-action} of body and mobile are designed differently, which are shown in bellow sections. 
+
+\item Interaction interface: \\
+This interface activates when the user follow the instructions of the first interface, the interface shows the interactive map with the hotspots to be explored by participants.
+\item video advertisement: \\
+After the interaction finishes then a silent video advertisement is shown for 20 seconds. 
+The advertisement video was created in powtoon\footnote{Powtoon: \url{https://www.powtoon.com}, last accessed: 21 April 2016} with a free version account, to see the full advertisement video visit bellow link.\\ 
+Old video version: \url{https://www.youtube.com/watch?v=GrWtOyjNcQ0}
+New video version: \url{https://www.youtube.com/watch?v=-y1Dbz6E6bU&feature=youtu.be}
+\end{itemize}
+
+
+\newpage
+\subsection{Body prototype}
+This section introduces the interfaces of the body interactive prototypes and the processes that how a user can start interaction. \\
+\hilight{make the video demo}
+
+
+\begin{enumerate}
+
+\item call-to-action interface: \\
+
+This interface is basically the attraction attention and call-to-action interface, as you can see bellow there is someone standing in front of the screen and the interface calls him to come near. This area also has alert message on the top right area of the screen and alerts the participant if they move away from the camera range, in this example the person is standing but there is also the second person but got immediately untracked and the system pops that message to raise his hand to be tracked again.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=120mm,height=70mm]{Figures/6/body/first_interface}
+    \caption{call-to-action interface}%
+    \label{fig:body_firstinterface}%
+\end{figure}
+
+When the person steps in the range of the Camera, his silhouette is projected on the screen with a different color, the application calls the person to come near in order to trigger the game.
+
+\item Transition to interaction interfaces: \\
+The transition happens when the person stands close to the screen for more than 3 seconds and the bellow things happen.
+
+\begin{enumerate}
+\item Loading animation:\\
+  The loading animation is a reaction to the action of the participants, and at the same time participants waits for something to be loaded.
+\item Scaling down the silhouette: \\
+To walk freely on the map and to give the participant the feeling of walking, the participant's silhouette is scaled down, the scaling happens smoothly frame-by-frame.
+\item Show task instruction:  \\
+Every interaction has instructions, the instruction is fairly very easy and it is simplified in one sentence to explore locations on the map.
+\end{enumerate}
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[H]{0.3\textwidth}
+        \centering
+        \includegraphics[width=\textwidth,height = 3.5cm]{Figures/6/body/loading}
+        \caption{Loading}
+        \label{fig:loading_logo}
+    \end{subfigure}
+    \begin{subfigure}[H]{0.3\textwidth}
+        \centering
+        \includegraphics[width=\textwidth,height = 3.5cm]{Figures/6/body/scalling_down}
+        \caption{Scalling down}
+        \label{fig:scalling_down}
+    \end{subfigure} 
+      \begin{subfigure}[H]{0.3\textwidth}
+        \centering
+        \includegraphics[width=\textwidth,height = 3.5cm]{Figures/6/body/task_description}
+        \caption{Task description}
+        \label{fig:task_description}
+    \end{subfigure}
+    \caption{Transitions of interfaces }
+    \label{fig:transition_sequence}
+\end{figure}
+
+
+\item Interaction interface: \\
+In this interface participants can interact with the elements on the map. As shown in  picture bellow, the silhouette has visited four locations therefor has 4/5 score, to finish the interaction he needs to visit the last one location.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=130mm,height=80mm]{Figures/6/body/interaction_inter}
+    \caption{Second Interface}%
+    \label{fig:body_secondinterface}%
+\end{figure}
+
+%\subsubsection{Flowchart Diagram}
+%The bellow chart roughly shows the flow of the application.
+%\begin{figure}[H]
+%    \centering
+%    \includegraphics[width=120mm,height=140mm]{Figures/7/body_interactive/body_flow_chart}
+%    \caption{Body Interactive advertisement Flowchart diagram}%
+%    \label{fig:Body_flowchat}%
+%\end{figure}
+
+\end{enumerate}
+
+\subsection{Mobile}
+Mobile interaction is possible by using a smartphone and a Wi-Fi connection to the advertisement network, the user should open the mentioned IP address in his / her mobile browser and enter a name to login. 
+\hilight{make the video demo}
+
+
+\begin{enumerate}
+
+\item call-to-action interface: \\
+This interface is designed in such a way to attract passers-by and also guide the participant on how to use their smartphone to access the advertisement application. The attraction is again the same method that was used for body, the passers-by silhouette is projected at the back of Access information. The interface has QR code that could be easy to be scanned instead of typing the whole IP address, and there is an alert area, that gets activated when a logged in person has not turned their phone in landscape orientation.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=120mm,height=70mm]{Figures/6/mobile/call-to-action}
+    \caption{Mobile interactive interface:}%
+    \label{fig:mobile_firstinterface}%
+\end{figure}
+
+
+
+\item Transition to interaction interfaces: \\
+The transition happens only when the user connects to the Wifi, open the controller and physically hold the phone in landscape.
+
+\begin{enumerate}
+\item Loading animation:\\
+  The loading animation is a reaction to the action of the participants, and at the same time participants waits for something to be loaded.
+\item  Creating Colored cursor: \\
+A colored circle will be created for the participant in the center of the screen; each participant would have different colors matching to their controller interface in their phone.
+\item Show task instruction:  \\
+The instruction is fairly very easy and it is simplified in one sentence to explore locations on the map by using their phone.
+
+\end{enumerate}
+
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[H]{0.45\textwidth}
+        \centering
+        \includegraphics[width=\textwidth,height=4cm]{Figures/6/mobile/loading}
+        \caption{Loading}
+        \label{fig:loading_mobile}
+    \end{subfigure}
+    \begin{subfigure}[H]{0.45\textwidth}
+        \centering
+        \includegraphics[width=\textwidth,height=4cm]{Figures/6/mobile/task_desc}
+        \caption{Task description}
+        \label{fig:task_mobile}
+    \end{subfigure}
+    \caption{Transitions of interfaces.}
+    \label{fig:Switching_between_phases_mobile}
+\end{figure}
+
+
+\item Interation interface" \\
+Second screen is the interaction screen for the participants, participants can navigate the cursor using their phone controller page. As can be seen in bellow picture, the user is controlling the cursor and has explored one location, the user's defined name is also shown on the cursor, to provide a hint that they have reached an interest point a small circle is shown to determine the area of that interest point. The interaction will finishe when all the locations are explored or the interaction time finishes.
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=120mm,height=70mm]{Figures/6/mobile/interaction_inter}
+    \caption{Mobile interactive interface}%
+    \label{fig:mobile_secondinterface}%
+\end{figure}
+
+
+
+\item Mobile interface: \\
+After opening the web page in smartphone, and entering name, the bellow interface would appear. The interface is very simply designed and has two elements, the cursor and the select button, with cursor the user can navigate inside the map for interest points and when reached on an interest point the participant presses the select button to explore that location, see the picture bellow.
+
+\hilight{ Florian Echtler's student projects! }
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=60mm]{Figures/6/mobile/mobile_interface}
+    \caption{Mobile controller interface: The left side is the cursor and the right side is the select button.}%
+    \label{fig:mobile_controllerinterface}%
+\end{figure}
+
+
+\end{enumerate}
 
 \section{Research questions}
 
-In this part of the study the bellow research questions should be answered after the study is conducted. 
-
-\subsection{Body and Mobile interactions}
 \begin{enumerate}
 \item	How fast do users understand call-to-action?
 \item	How fast participants react to the call-to-action?
@@ -27,7 +200,7 @@ In this part of the study the bellow research questions should be answered after
 \item	How long participants take to finish the interaction or visit all target locations?
 \item	What are the major usability flaws that prevent users from advertisement interactions?
 \item	What is the difference between mobile and body performance.
-\item   How the applications would perform in one user interaction and in multi user interaction?
+\item   How the applications would perform in single user interaction and in multi user interaction?
 \end{enumerate}
 
 \subsection{Video advertisement}
@@ -38,64 +211,73 @@ In this part of the study the bellow research questions should be answered after
 
 
 \section{Test Design}
-Within-Subject Design was chosen, in this test participants were asked to experience with both Body and Mobile Interactions, The interaction sequences were vary for participants in order to counterbalance to be able to limit the effects of learning transfer. 
+This study used a within subject design, in which each participants were asked to experience with both body and mobile interactions, the interaction sequence was interchanged for participants in order to counterbalance the learning effect.
+
 
 \subsection {Participants}
 12 participants were invited for the usability testing; from which five participants were female and seven were male, most of the participants had computer science background and were familiar with mobile and had seen or worked with body sensing technologies, one participant was not familiar with QR-code.
 
 \subsection{Task}
-Participants were not told about any specific task, they were told to explore the system by their own and understand what to do, To avoid different outcomes participants were told to continue interaction until they encounter the very first stage of the application. So the tasks for participants were to start from initial stage of the interaction (body /mobile) and continue until reach again the initial stage.
+Participants were not told about any specific task, they were told to explore the system by their own and understand what to do, to avoid different outcomes participants were told to continue interaction until they encounter the very first stage of the application. So the tasks for participants were to start from initial stage of the interaction (body /mobile) and continue until reach the initial stage again.
 
-As for body interaction no extra device was required to accomplish the task, but for mobile interaction a mobile phone was required, Participants were not told that the use of mobile is required unless participants used their own phone or asked for it from us.
+As for body interaction no extra device was required to accomplish the task, but for mobile interaction a mobile phone was required, participants were not told that the use of mobile is required unless participants used their own phone or asked for it from me.
 
-\subsubsection{call-to-action understandability}
-To determine this, the participants will be asked to approach the screen and perform what is relevant as soon as possible, The participants will not be told that the screen would ask them to do something, The participants should understand the task by the call-to-action method used in both interaction methods. The duration from approaching to screen and triggering the game would be considered as time taken to understand call-to-action. 
+\begin{itemize}
 
-Body interaction application can count how long does it take for the user to trigger the game, but for mobile interaction there is no pre-counting for each individuals because mobile users and Kinect camera are two separate technologies that is very hard to know which user hold the phone, therefor we used manual timer and asked the participant to think-aloud anything he understood about the task.
+\item Task understandability: \\
+Participants were told to think-aloud that what task will they perform at each stage. 
 
-\subsubsection{Task understandability}
-Participants should think aloud that what they will do after reading the task. 
 
-\subsubsection{Task completion time}
-Task completion time is measured from the time game starts until the game ends. 
+\item Performance measurment: \\
 
-\subsubsection{Content of Advertisement}
-To check if the users understand the content of advertisement while interacting and while advertisement was shown, participants will be given paper and pen to write down words that they could recall from entire session.
+\begin{itemize}
+\item call-to-action undrestanding duration \\
+The time from when the user saw his/her silhouette until he/she understood / approached to start the interaction. For body call-to-action, if the person intentionally moved toward the screen and for mobile call-to-action, when the person pulled the phone out.
 
-\subsubsection{Usability issues}
-Each participant was given five minutes to interact with advertisement after one another and questions were asked regarding the issues they faced.
-The usability issues are all observed by the moderator at the scene and later while watching the recorded videos. To understand better each interaction is separately listed as bellow.
+\item Triggering game duration\\
+This time is measured from the time the user understood that how to start the interaction, until the user actually starts the interaction. for example in case of mobile interaction, the time is measured from the time the user takes out the mobile until he logins and opens the interaction controller.
 
-Anything, which was confusing and unclear for the participants, committed errors and misunderstood events, which were done by participants, will also be counted as a usability issue. 
+\item Task undrestanding duration \\
+This time is measured when the users starts the game until he/she undrestands what to do. or how to explore locations.
 
-\subsubsection{Data Gathering }
+\item Task completion duration \\
+Task completion time is measured from the time interaction starts until the interaction ends. 
+
+\end{itemize}
+
+
+
+
+\item Content recall: \\
+After the first interaction with the advertisement, immediately participants were given paper and pen to write down the name of anything that they could recall. The interactions (mobile and body) were counterbalanced between the participants.
+
+
+\item Usability issues: \\
+Each participant was given five minutes to interact with advertisement for both mobile and body and then follow up questions were asked regarding the issues they faced.
+The usability issues like (confusing, unclear events and mistakes) were all observed by the moderator at the scene and later while watching the recorded videos. To understand better each interaction was separately listed as bellow.
+
+\end{itemize}
+
+\subsection{Data Gathering }
 The bellow data were gathered.
 
 \subsection{Performance data}
-The bellow is the performance measures data that will be gathered after successful conduction of the test.
-\begin{enumerate}
-\item	Duration of call-to-action understandability.
-\item	Duration of the reaction to call-to-action
-\item	Task completion time.
-\item	Count of usability issues.
-\end{enumerate}
- 
-Each individual's performance with both mobile and body interactions was created in bar chart, this data could also be used to check for efficiency of the interactions techniques too.
- 
-Mean time value for call-to-action understandability, game triggering, task completion and whole interaction time was computed for each interaction techniques. Along the mean time the confidence interval was also taken in consideration.
+Check for performance measurements, which were discussed in the previous sections. Each individual's performance with both mobile and body interactions were created in bar chart, this data could also be used to check for efficiency of the interactions techniques too, then to get an overview of performance in general the mean duration of the performance data were computed.
 
-\subsection{Preference data}
+
+\subsubsection{Preference data}
 The preference data, which is the measures of participant opinion or thought process, like the think-aloud each participant performed, or the answers for the interviews and their feedbacks.
+\begin{itemize}
 
-\subsection{Think aloud quotes}
+\item Think aloud quotes \\
 Think-Aloud quotes were noted during the video observation, these quotes were important to check at which point in time users understand about the interaction and tasks. It also helped to analyze their reaction and feedbacks toward the tasks being done.
 
-\subsection{Interview transcripts}
+\item Interview transcripts \\
 All the interviews were transcribed and color-coding technique was applied to analyze and comprehend different aspects and categories from the defined questions.
 \hilight{attach the color code chart}
 
 
-\subsection{Recordings}
+\item Recordings \\
 There were two different recordings done during the session, first was video recording using camera at the backside that could record user actions and computer screen, the second recording was the screen recording of the application using QuickTime screen recorder. These recordings were used to analyze behavior, application performance and listen to the things participants said during interaction.
 
 
@@ -107,28 +289,30 @@ There were two different recordings done during the session, first was video rec
         \caption{Participant in body interaction mode.}
         \label{fig:singlebody}
     \end{subfigure}
-    \hfill
     \begin{subfigure}[H]{0.45\textwidth}
         \centering
         \includegraphics[width=\textwidth,height=4cm]{Figures/6/singleMobile}
         \caption{Participant in mobile interaction mode}
         \label{fig:singleMobile}
     \end{subfigure}
-    \caption{}
+    \caption{Participant's video recordings}
     \label{fig:Focus_group_room}
 \end{figure}
+
+\end{itemize}
+
 
 
 \section{Findings}
 
-\subsection{Mobile Interaction performance}
-The bellow chart shows four different aspects when the mobile interaction happened for participants. The y-axis shows duration in seconds and x-axis shows the aspects as bellow. You can see performance chart for each individual in Appedix \hilight{put number}
+
+\subsection{User performance}
+
+
 \begin{itemize}
-\item Understand call-to-action,
-\item Trigger game time
-\item Understand task time
-\item Game time.
-\end{itemize}
+
+\item Mobile Interaction performance: \\
+The bellow chart shows the performance data when the mobile interaction happened for participants. The y-axis shows duration in seconds and x-axis shows the aspects as bellow. You can see performance chart for each individual in Appedix \hilight{put number}
 
 \begin{figure}[H]
 \centering
@@ -137,7 +321,7 @@ The bellow chart shows four different aspects when the mobile interaction happen
  \label{fig:mobile_average}%
 \end{figure}
 
-As can be seen above participants took longer time approximately 240 seconds for whole interaction time. Participants took 49 seconds in average to understand how to access the system (call-to-action), After participants understood what to do it took 73 seconds in average from taking their phone, opening the web page, logging and starting the game, it took 45 seconds in average to figure out how to do the task and 72 seconds to complete the task.
+ Participants took 49 seconds in average to understand how to access the system (call-to-action), After participants understood what to do it took 73 seconds in average from taking their phone, opening the web page, logging and starting the game, it took 45 seconds in average to figure out how to do the task and 72 seconds to complete the task, as a result in average 240 seconds were taken for whole interaction time.
 
 %
 %\begin{figure}[H]
@@ -149,7 +333,7 @@ As can be seen above participants took longer time approximately 240 seconds for
 
 %above chart is generated in an online tool [1] with a confidence interval up to 95\% for complete interaction time for all 11 participants; the confidence interval is between (210.2, 267) the chart shows the Arithmetic standard deviation to be up to 38.82 seconds, Arithmetic Mean to be 240 seconds
 
-\subsection{Body Interaction performance}
+\item Body Interaction performance: \\
 This also shows four different aspects of the body interaction in the bellow chart. To see all participant's interaction see Appendix. \hilight{put number}
 
 \begin{figure}[H]
@@ -171,7 +355,7 @@ As can be seen above most of the participants finished the whole interaction in 
 %The above confidence interval for body interaction is generated using the web tool [1] for whole body interaction time. In which with the confidence interval of 95\% is between (69.7 ? 91) seconds, with the standard deviation of 15.79 seconds.
 
 
-\subsection{Body Vs. Mobile performance}
+\item Body Vs. Mobile performance: \\
 As can be seen bellow body interaction seems to be much better than mobile interaction in terms of performance. The whole interaction time of body is less than the half of the time of mobile interaction. 
 
 \begin{figure}[H]
@@ -191,24 +375,36 @@ As can be seen bellow body interaction seems to be much better than mobile inter
 \end{figure}
 
 
-As can be seen in the chart mobile interaction took much longer than body interaction for each phase or aspects, ANOVA reveals a significant effect of call-to-action of (body vs. mobile)( \emph{(F1,11)=22.4758, p < .001 (p=.0001)}). A post-hoc tukey test shows that participants understood very quickly the call-to-action of body interaction compared to mobile interaction technique, maybe because it is very easy and understandable by any person because of the action ``\emph{to play come near}''is very usual and easy compared to using mobile phone which is not expected at that moment and the users should read and see the information text to understand that requires more cognitive load than simple action of body interaction.
+As can be seen in the chart mobile interaction took much longer than body interaction for each phase or aspects, ANOVA reveals a significant effect of call-to-action of (body vs. mobile)( \emph{(F1,11)=22.4758, p < .001 (p=.0001)}). A post-hoc tukey test shows that participants understood very quickly the call-to-action of body interaction compared to mobile interaction technique, maybe because it is very easy and understandable by any person because of the action ``\emph{to play come near}''is very usual and easy compared to using mobile phone, which is not expected at that moment and the users should read and see the information text to understand, all those steps requires more cognitive load than simple action of body interaction.
 
 ANOVA reveals a significant difference of triggering game between (body vs. mobile) ( \emph{(F1,11)=124.1066, p < .001}). post-hoc tukey test shows that in body interaction the triggering happens much faster than mobile interaction, This is because mobile technique has many steps to follow in order to trigger the game (like connecting to WiFi, logging to website).
 
 
 ANOVA reveals a significant difference of task undrestandability between (body vs. mobile) ( \emph{(F1,11)=7.1340, p < .05 (p=.0147)}). A post-hoc tukey test shows that participants undrestand the task very faster compared to mobile technique, one hint could be the body representation itself and in mobile an abstract circle is shown and the interface that takes time to try and error and find what to do.
 
-Interaction time is also significant different as ANOVA test suggests a significant difference between the game interaction ( \emph{(F1,11)=19.7000, p < .001 (p=.01)}) post-hoc tukey test also strongly recommends that body interaction takes less time to complete the interaction comparted to body.
+Interaction time is also significantly different as ANOVA test suggests a significant difference between the game interaction ( \emph{(F1,11)=19.7000, p < .001 (p=.01)}) post-hoc tukey test also strongly recommends that body interaction takes less time to complete the interaction comparted to mobile.
+
+
+
+\end{itemize}
+
+
 
 \subsection{Usability issues}
 The bellow usability issues are gathered from participant while observing them during the interactions.
-\subsubsection{Mobile Interaction}
+
+
+\begin{itemize}
+
+\item Mobile Interaction: \\
+
+
 \begin{enumerate}
 \item	Call-to-Action
 \begin{enumerate}
 \item	At the first glance and moment most participants did not try to read the text on the screen, despite they were expecting other way to get quick information, but after many try with their body they had to read the information text. This could be because of many issues like (amount of text, text size and used icons). And most importantly the text information was being covered by the silhouette, if participants were far the text was readable but when participants would get near to the screen to scan the QR-code or read the IP address, the silhouette drawn by the Kinect camera would occlude part of the information text, which resulted that participants should move a side to scan while facing toward the screen.
 \item	Participants did not understand about the phone icon or the browser animation on top of it until they figured by themselves.
-\item	IP address was complicated and took time to type in phone.
+\item	Frustration of typing the IP address.
 \item	The size of QR code was small.
 \end{enumerate}
 
@@ -231,40 +427,42 @@ The bellow usability issues are gathered from participant while observing them d
 
 \item	Controller
 \begin{enumerate}
-\item	Beside small instruction for controller usage but still it was not sufficient because most of the participants did not give time to read it.	
+\item	Participants did not read and saw the instructions for phone.	
 \item	Many participants complained about the elasticity (automatic centering feature) of cursor. They had to reposition the cursor for another location to explore.
 \end{enumerate}
 \end{enumerate}
 
-\subsubsection {Body Interaction}
+
+
+\item Body Interaction: \\
 
 \begin{enumerate}
-\item	Call-To-Action
-\begin{enumerate}
-\item	The silhouette is projected in the largest scale for attraction attention but when users trigger the interaction by coming close to the screen then participants could not see themselves, because the silhouette was projected on the top of the screen or sometimes when participants were very close their silhouette was projected on top out of the screen image, This happens because of the mapping of participant location in relation to the screen, if participant moves back then they could see themselves. 
+\item	Call-To-Action \\
+The silhouette is projected in the largest scale for attraction attention, but the silhouette scales down (mini-silhouette) and adjusts to person position (x, z) on the display, when users triggered the interaction by coming close to the screen, then participants could not see themselves, because the mini-silhouette would adjust outside at top of the display, if participant moved back then they could see the silhouette back. 
+
+\item	Silhouette controlle \\
+There was no instruction on how to move the body physically to perform the tasks, but participants tried themselves to find a way to interact.
+
+\item	Alert image \\
+Alert image that shows a Hands-Up person lead to confusion at the moment where users were much closer to the system.
 \end{enumerate}
 
-\item	Controller
-\begin{enumerate}
-\item	Participants tried themselves to find a way to interact, by moving their body; there was no instruction on how to control their silhouette.
-\end{enumerate}
-
-\item	Alert image
-\begin{enumerate}
-\item	Alert image that shows a Hands-Up person lead to confusion at the moment where users were much closer to the system.
-\end{enumerate}
-\end{enumerate}
-
-\subsubsection{Advertisement video}
+\item Advertisement video: \\
 \begin{enumerate}
 \item The slides were switching fast.
 \item Some did not liked the colors and theme. 
 \end{enumerate}
 
 
+\end{itemize}
+
 \subsection{Advertisement goal}
 
-\subsubsection{Did users understand about advertisement?}
+
+\begin{itemize}
+
+
+\item Did users understand about advertisement? \\
 
 	The criteria for recalling the advertisement was that participants should recall ``\emph{Bauhaus-Walk}'' word and explain what does it do or if the interaction technique gave them an idea what could be the advertisement about, At best users can recall the date, timing and location of the tour program.
 
@@ -272,6 +470,9 @@ The bellow usability issues are gathered from participant while observing them d
 
 \item	\textbf{Ad goal description} \\
 Therefor to find out this, when all participants experienced with the very first interaction technique mobile or body, they were immediately asked about the goal of advertisement, we wanted to know if the participants would understand about the advertisement at their very first try. All of the participants were speaking in English language and the advertisement interaction and the entire participants responded as they finished the interaction. 9 participants accurately described the goal of the advertisement and 2 participants generally described about the goal, the reason behind that was advertisement video, which was shown was in German language, later the video was changed to English for the rest of participants and they responded precisely.
+
+\hilight{put two example sentence by participants}
+
 
 \item	\textbf{Ad-related elements recalled}  \\ 
 After the participants described the goal, they were given a piece of sheet to draw and write any element related to the interaction and advertisement with in five minutes. All the sketches drawn and keywords written by the participants were manually analyzed and counted
@@ -285,8 +486,8 @@ After the participants described the goal, they were given a piece of sheet to d
 
 \end{enumerate}
 
-\subsubsection{Word cloud (Wordle)}
-All the keywords written in the papers by participants were collected in one text file and using an online tool \cite{wordle} the bellow word cloud was generated.
+\item Word cloud (Wordle): \\
+All the keywords written in the papers by participants were collected in one text file and visualized in world cloude technique by using an online tool\footnote{Wordle: \url{http://www.wordle.net/create}, last accessed: 10 May 2016} the bellow word cloud was generated.
 
 \begin{figure}[H]
 \centering
@@ -298,7 +499,7 @@ All the keywords written in the papers by participants were collected in one tex
 As can be seen, most key words that has high frequency are the ones actually related to the advertisement it seems most location names that participants interacted with are recalled a lot like ``\emph{Bauhaus University}'' ,``\emph{Haus-am-horn}''and others, The program name ``\emph{Bauhaus-Walk}'' is also in high frequency, and even the day of the event is mentioned too.
 
 
-\subsubsection{Key factors for advertisement understanding}
+\item Key factors for advertisement understanding: \\
 \begin{enumerate}
 \item	\textbf{Game environment} \\
 The game environment designed for the interactions had a major impact for understanding the advertisement goal, for example one of the participants replied ``\emph{I saw a map and different places, so I guess touristic places that I can visit in Weimar.}'' Beside the map the blinking points on the map, which more people are familiar that shows interest regions of a city, one participant replied ``\emph{ I think it was about tourist places in the city, at first I saw the map, and there were points on the top}'' By analyzing their reply, they already linked the points with the touristic places.
@@ -311,15 +512,19 @@ The advertisement video had an impact on the participants to be able to recall t
 
 \end{enumerate}
 
+\end{itemize}
 
 \subsection{Interview Findings}
-All the interviews transcripts were coded for better analyzing and finding appropriate connections to categories and these categories are shown as a big diagram attached to appendix B. Each category is discussed separately 
+All the interviews transcripts were coded for better analyzing and finding appropriate connections to categories and these categories are shown as a big diagram attached to appendix B. Each category is discussed separately \\
+\hilight{fix the appendix}
 
-\subsubsection{Mobile Categories}
+\begin{itemize}
+
+\item Mobile Categories: \\
 Many important categories were created from the responder's codes; these categories reflect the functionality, nature, issues and complications of mobile interaction technique. Most of them points out negative concerns and some positive feedbacks too about the interactions, which is discussed bellow.
 \begin{enumerate}
 \item	\textbf{Comfortable} \\
-	Mobile interaction is more comfortable in the context of public environment, users do not feel shy to work with their phone, they have more privacy as one user said ``\emph{I think for people moving in public could be more embarrassing if you just use your phone the people passing by will not pay attention}''. Users can also work with the display from a far location rather than standing in front as one participant said, ``\emph{you can comfortably set far away see the screen and start interacting}''.
+	Mobile interaction is comfortable in the context of public environment, users do not feel shy to work with their phone, they have more privacy as one user said ``\emph{I think for people moving in public could be more embarrassing if you just use your phone the people passing by will not pay attention}''. Users can also work with the display from a far location rather than standing in front as one participant said, ``\emph{you can comfortably set far away see the screen and start interacting}''.
 \item	\textbf{Activity} \\
 	This method has less Activity, participants do not have to move their body to reach certain points in the map, instead they can use their phone and stand or sit steady and with the tip of their finger can easily explore locations, as one of the user said ``\emph{I could go with the tip of my finger and it helped me all the places I visited}''.
 \item	\textbf{Dependency}\\
@@ -339,7 +544,7 @@ There were many instructions like Access-information, mobile instruction and tas
 \end{enumerate}
 
 
-\subsubsection{Body Categories}
+\item Body Categories: \\
 Body interaction was more appreciated by the participants; from the interview transcripts the bellow positive and negative opinions were derived and categorized.
 
 \begin{enumerate}
@@ -367,7 +572,7 @@ The projection of silhouette on the advertisement also made some participants co
 \end{enumerate}
 
 
-\subsubsection{Advertisement}
+\item Others: \\
 
 \begin{enumerate}
 \item	\textbf{Interface}\\
@@ -383,10 +588,13 @@ The projection of silhouette after the interaction body or mobile technique was 
 The pictures for the locations and the advertisement video were fast, a user said, ``\emph{The description of the places were very fast, when I was trying to read it, it disappeared.}'', 
 \end{enumerate}
 
-\subsection{Application Performance}
-Application performed quite well for both single and multi-user interactions, Application did not crashed nor hanged in the middle of interaction. In multi-user interaction, application faced some delay in both body and mobile because of many participants 5-7 at the same time, this issue got solved by changing the 
-JRE version 32bit to JRE version 64bit and along with this the processing version was also changed from 32bit to 64bit and increased the maximum usage memory to highest in processing.
+\end{itemize}
 
+
+\subsection{Application Performance}
+Application performed quite well for both single and multi-user interactions, it did not crashed nor hanged in the middle of interaction, but in multi-user interaction, application faced some delay in both body and mobile because of many participants 5-7 at the same time, this issue got solved by changing the JRE version from 32bit to 64bit and along with this the processing version was also changed from 32bit to 64bit and increased the maximum usage memory to highest in processing.
+
+\hilight{Maybe put some system specifications that run the applications}
 
 \begin{figure}[H]
     \centering
@@ -396,7 +604,6 @@ JRE version 32bit to JRE version 64bit and along with this the processing versio
         \caption{Group body interaction.}
         \label{fig:groupbody}
     \end{subfigure}
-    \hfill
     \begin{subfigure}[H]{0.45\textwidth}
         \centering
         \includegraphics[width=\textwidth,height=4cm]{Figures/6/groupMobile}
@@ -407,15 +614,16 @@ JRE version 32bit to JRE version 64bit and along with this the processing versio
     \label{fig:Focus_group_room_interactive}
 \end{figure}
 
-
+\newpage
 \section{Conclusion}
-This chapter concludes that with body interaction technique, participants felt more satisfied than mobile technique and preferred the use of body than mobile in public environment.
+This chapter concludes that with body interaction technique, users performed better than mobile technique and preferred the use of body interaction than mobile in public environment, but at the same time mobile interaction was also preferred by some participant. 
 
-Learnability of body interaction was better than mobile interaction, because of the problems mentioned like (unclear access-info text, unfamiliarity with QR code or phone icons, Registration) and many other things that made the process quite complicated whereas the body interaction had none of them.The efficiency of accessing the system was also significant between body interaction and mobile interaction, because of the lengthy process, which was required for mobile interaction, which made it really hard for participants.
-Body representation on the map provides a strong clue of “walking” which was the main task and the learnability of task was very significant compared to mobile technique, which showed a circle colored shape, along the understandability task completion time was also significant, participants completed the task much earlier than mobile technique. 
-Along the usability issues most of the participants understood the goal and purpose of advertisement in both techniques.
+Body interaction was more natural and convenient for participants. This interaction had no dependency to any preferable device like mobile phone, the call-to-action was very understandable and performing this call-to-action (come near), was very natural. Body representation on the map provided a strong clue of ``\emph{walking}'', this clue had two major benefits, (1) understanding the task and performing it, (2) understanding the goal of the interactive advertisement. Participant felt enjoyment, immersion while interacting using their body. Despite the positive feedbacks, there were some usability issues like incorrect mapping of the silhouette when user was standing near, and some alert messages were not implemented, and also the interaction was difficult if there were multi-user because the users were colliding to each other, but the overall performance and acceptability of this technique was very convincing compared to mobile interaction.
+
+Mobile interaction had various usability issues and especially with the accessibility to the advertisement system, participants took very long time to understand what was required to access because of (unclear access-info text, unfamiliarity with QR code or phone icons, inserting name), and then took longer time to follow the steps to login to the system. Task completion time was also significantly low than body interaction.  Beside all these major issues some participants found it more comfortable to use it in public display because it will not cause the sense of embarrassment for them, and while interaction it did not require more physical body movement but only required cursor movement, and also participants understood the goal of advertisement.
 
 Considering the above issues, the next step would be to refine both prototypes and make it ready for evaluation on public space.
+
 
 
 

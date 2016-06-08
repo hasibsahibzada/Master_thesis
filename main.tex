@@ -77,12 +77,12 @@ headsepline, % Uncomment to get a line under the header
 \usepackage{lipsum}
 \usepackage{subcaption}
 \usepackage{caption}
-
+\usepackage{multirow}
 \usepackage{xcolor}
 \usepackage{framed}
 \definecolor{shadecolor}{RGB}{205,201,201}
-
-
+\usepackage{adjustbox}
+%\usepackage{showframe}
 %----------------------------------------------------------------------------------------
 %	MARGIN SETTINGS
 %----------------------------------------------------------------------------------------
@@ -118,6 +118,11 @@ headsepline, % Uncomment to get a line under the header
 \hypersetup{pdftitle=\ttitle} % Set the PDF's title to your title
 \hypersetup{pdfauthor=\authorname} % Set the PDF's author to your name
 \hypersetup{pdfkeywords=\keywordnames} % Set the PDF's keywords to your keywords
+
+
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0.4em}
+
 
 \begin{document}
 
@@ -202,7 +207,7 @@ headsepline, % Uncomment to get a line under the header
 
 \noindent\enquote{\itshape Thanks to my solid academic training, today I can write hundreds of words on virtually any topic without possessing a shred of information, which is how I got a good job in journalism.}\bigbreak
 
-\hfill Dave Barry
+\hfill Hasibullah Sahibzada
 
 %----------------------------------------------------------------------------------------
 %	ABSTRACT PAGE
@@ -229,7 +234,7 @@ The acknowledgments and the people to thank go here, don't forget to include you
 %----------------------------------------------------------------------------------------
 %	LIST OF CONTENTS/FIGURES/TABLES PAGES
 %----------------------------------------------------------------------------------------
-
+\setcounter{tocdepth}{2}
 \tableofcontents % Prints the main table of contents
 
 \listoffigures % Prints the list of figures
@@ -294,17 +299,25 @@ $\omega$ & angular frequency & \si{\radian} \\
 % Uncomment the lines as you write the chapters
 \newcommand{\hilight}[1]{\colorbox{yellow}{#1}}
 
+%----------------------------------------------------------------------------------------
 
-%\include{Chapters/1/Introduction}
+% Define some commands to keep the formatting separated from the content 
+\newcommand{\keyword}[1]{\textbf{#1}}
+\newcommand{\tabhead}[1]{\textbf{#1}}
+\newcommand{\code}[1]{\texttt{#1}}
+\newcommand{\file}[1]{\texttt{\bfseries#1}}
+\newcommand{\option}[1]{\texttt{\itshape#1}}
+
+\include{Chapters/1/Introduction}
 \include{Chapters/2/Background}
-%\include{Chapters/3/AttractionAttention}
-%\include{Chapters/4/AdvertisementDecision}
-%\include{Chapters/5/AdvertisementLowFi}
-%\include{Chapters/7/AdvertisementApplication}
-%\include{Chapters/6/AdvertisementHighFi}
-%\include{Chapters/8/InteractiveNonInteractiveStudy}
-%\include{Chapters/9/InteractiveAdEnhancement}
-%\include{Chapters/10/Conclusion}
+\include{Chapters/3/AttractionAttention}
+\include{Chapters/4/AdvertisementDecision}
+\include{Chapters/5/AdvertisementLowFi}
+\include{Chapters/6/AdvertisementHighFi}
+\include{Chapters/7/AdvertisementApplication}
+\include{Chapters/8/InteractiveNonInteractiveStudy}
+\include{Chapters/9/InteractiveAdEnhancement}
+\include{Chapters/10/Conclusion}
 
 
 %----------------------------------------------------------------------------------------

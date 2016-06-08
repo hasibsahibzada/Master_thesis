@@ -6,22 +6,44 @@
 
 
 \section{Introduction}
-After doing requirement analysis of Interactive advertisement, which was described in the previous chapter, now the stage shifts to formative studies that help the design process of advertisement and how to investigate problems with the various interactive prototypes, as Charles M. Reigeluth \cite{formativestudy} says ``\emph{Formative evaluation (sometimes called field testing or usability testing) is a methodology for improving instructional resources and curricula}'', and using this we question that what is correct in prototype and what things do not make sense or make sense, what are the most usability issues.
+This chapter conducts formative studies, which help the design process of application and how to investigate problems with the various prototypes, as Charles M. Reigeluth \cite{formativestudy} says ``\emph{Formative evaluation (sometimes called field testing or usability testing) is a methodology for improving instructional resources and curricula}''. Evaluating the paper prototype of a system can be efficient \cite{lowfidelityefficient} and can be very effective as Robert A \cite{usabilityproblems} conducted usability testing using Low- and High-prototypes of the same system, where one group of subjects were confronted with a paper prototype and the other group of subjects with high-fidelity prototype (real functional system) and both groups were give the same set of tasks, and stated that ``\emph{In both experiments, substantially the same sets of usability problems were found in the low- and high-fidelity conditions. Individual problems were detected by a similar proportion of subjects in both the low- and high-fidelity conditions}'', therefor it is better at early stage to conduct such paper based evaluations.
+
+There have been many evaluations on public display prototypes like Scott Carter \cite{prototypetesting1}, where three different prototypes were created for Ubicomp systems and were evaluated at different stages inside office places, during the early phases the 16 paper prototype technique was used, the evaluator was simulating the computer’s reactions, and even he involved five of his friends and employees to play the part of network that could update content in the display and the analysis was mostly qualitative like by taking interviews. 
+
+Evaluation of computer and mobile application paper prototypes are very common and it is easy to be conducted because there is only one interface and the interaction happens on the same interface, but as far as public non-touch displays are concerned, they seem to be slightly different because the interaction is happening outside maybe with a smartphone or without any input device like body interaction, at this point the moderator should be monitoring the interaction interface and simulate the effect in the display, most of this kind of testing is done with using think-aloud method as Robert .A \cite{usabilityproblems} conducted the evaluation of electronic book player where the keyboard and the screen were simulated on paper and participants were told to call loud when pressing a key and the evaluator was doing the action on the screen.
+
+This chapter describes the study design, evaluation process and findings of Low-Fi advertisement prototype, the \emph{map-game} prototype, which was chosen by Bauhaus-Walk members in focus group discussions in chapter 4. The \emph{map-game} prototype consisted of two different interactions (1) body interaction and (2) mobile interaction. The reason to conduct this study was to exploit usability issues of prototype and find out the appropriate and meaningful elements and what elements were confusing and not understandable. This document also describes the advertisement application requirements, lists all functionalities, and defines the target group that this application was going to be made for. 
 
 
-Evaluating the paper prototype of a system can be an efficient \cite{lowfidelityefficient} and can be very effective as Robert A \cite{usabilityproblems} conducted usability testing using Low- and High-prototypes of the same system, where one group of subjects were confronted with a paper prototype and the other group of subjects with high-fidelity prototype (real functional system) and both groups were give the same set of tasks, and stated that ``\emph{In both experiments, substantially the same sets of usability problems were found in the low- and high-fidelity conditions. Individual problems were detected by a similar proportion of subjects in both the low- and high-fidelity conditions}''
 
+\section{Advertisement paper Prototypes}
+The prototype was to show a city map on the screen with possible interactive famous places of Bauhaus, the interaction idea was to map physical movement of a person or map the cursor movement of a phone to the virtual movement on the city map, and let user to explore the target places by reaching to those locations. Maximum three places were to be explored by one person to finish the interaction.
 
-There have been many researches on public display earlier prototypes like Scott Carter \cite{prototypetesting1}, where three different prototypes were created for Ubicomp systems and were evaluated at different stages inside office places, during the early phases the 16 paper prototype technique was used, the evaluator was simulating the computer’s reactions, and even he involved five of his friends and employees to play the part of network that could update content in the display and the analysis was mostly qualitative like by taking interviews. 
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[H]{0.7\textwidth}
+        \centering
+        \includegraphics[width=\textwidth,height=6cm]{Figures/5/body_interaction}
+        \caption{Body Interaction}
+        \label{fig:body_inter_}
+    \end{subfigure}
+    \begin{subfigure}[H]{0.7\textwidth}
+        \centering
+        \includegraphics[width=\textwidth,height=6cm]{Figures/5/mobile_interactions}
+        \caption{Mobile Interaction}
+        \label{fig:mobile_inter}
+    \end{subfigure}
+    \caption{Bauhaus-Walk Advertisement Prototypes}
+    \label{fig:Interactive_prototype}
+\end{figure}
 
+As can be seen in picture (A), the person, in the left corner, is physically walking and his blue silhouette in the screen is changing its location on the map.
+and in mobile interaction in picture (B), the person is changing the cursor in the phone screen and the movement is shown on the display on the map.
+To have a look the entire paper prototype interaction sequence both with body and mobile, watch the prototype video\footnote{Ad Low-fi:\url{https://youtu.be/XGBgeSGeUwQ}, Last accessed 27th May 2016. } for all the process. \\
 
-Evaluation of computer and mobile application paper prototypes are very common and it is easy to be conducted because there is only one interface and the interaction happens on and with the interface, but as far as public non-touch displays are concerned, they seem to be slightly different because the interaction is happening outside maybe with a smartphone or without any input device like body interaction, at this point the moderator should be monitoring the interaction interface and simulate the effect in the display, most of this kind of testing is done with using think-aloud method as Robert .A \cite{usabilityproblems} conducted the evaluation of electronic book player where the keyboard and the screen were simulated on paper and participants were told to call loud when pressing a key and the evaluator was doing the action on the screen.
-
-
-During the last focus-group discussions and all gathered data from attraction attention study and interviews, the first paper prototype of interactive advertisement was decided to be created. This document describes the advertisement application requirements, lists all functionalities along with its use cases and defines the target group that this application is going to be made for. Paper prototype for Bauhaus-Walk \cite{BauhausWalk} shows two different interactions (body and mobile) and tries to give an overall general picture of how the advertisement would look like after development and conducts the evaluation of them for all important system functionalities.
 
 \section{Requirement gathering}
-The bellow mentions a generalized form of Bauhaus-Walk advertisement's functional, non-functional requirements and system requirements. These requirements were the result of the foucs-group and discussions.
+The bellow mentions a generalized form of Bauhaus-Walk advertisement's functional, non-functional requirements. These requirements were the result of the foucs-group and discussions.
 
 \subsection{Functional Requirements}
 
@@ -59,7 +81,7 @@ The bellow personas are made based on focus group findings that most of people t
 \centering
 \caption{First persona}
 \label{firstpersona}
-\resizebox{\textwidth}{!}{ 
+\resizebox{8cm}{4cm}{ 
 \begin{tabular}{l | l}
 \tabhead{Type}   & Primary                             \\
 \midrule
@@ -82,7 +104,7 @@ The bellow personas are made based on focus group findings that most of people t
 \centering
 \caption{Second persona}
 \label{secondpersona}
-\resizebox{\textwidth}{!}{ 
+\resizebox{8cm}{4cm}{ 
 \begin{tabular}{l | l}
 \tabhead{Type}   & Secondary                             \\
 \midrule
@@ -101,11 +123,6 @@ The bellow personas are made based on focus group findings that most of people t
 
 
 
-\subsection{Use case diagrams}
-
-\hilight{Should i make ? }
-
-
 \section{Goal}
 The goal of this evaluation is to find possible issues as listed bellow with interactive advertisement. 
 
@@ -117,56 +134,51 @@ The goal of this evaluation is to find possible issues as listed bellow with int
 \end{enumerate}
 
 
-\subsection{Hypothesis}
-Hypothesis are divided for each individual interactions like mobile and body.
+\subsection{Questions}
+The questions are divided for each individual interactions (mobile and body).
 
 \subsubsection{Body Interaction}
 
 \begin{itemize}
-
-\item H1: Users understand and react to the Call-to-Action approach.
-\item H2: Users recognizes the character assigned to them.
-\item H3: Users understands the tasks assigned to them.
-\item H4: Users can explore locations by moving their body in physical space.
-\item H5: Application raises alerts to specific user actions.
-\item H6: Application motivates participants to continue playing.
+\item  Do users understand and react to the Call-to-Action approach?
+\item  Do users recognizes the character assigned to them?
+\item  Do users understands the tasks assigned to them?
+\item  Do users can explore locations by moving their body in physical space?
+\item  Does application raise alerts to specific user actions?
+\item  Does application motivates participants to continue playing?
 \end{itemize}
 
 \subsection{Mobile Interaction}
 
 \begin{itemize}
-\item H1: Users understand the Access Information shown on the board.
-\item H2: Users open the controller website by scanning QR-Code.
-\item H3: Webpage application produces alerts with in correct user input.
-\item H4: Users rotate the mobile phone to start game.
-\item H5: Users understand the task.
-\item H6: Users can navigate the character by moving the face in mobile.
-\item H7: Screen application produces alerts for incorrect location.
+\item Do users understand the access-information shown on the board?
+\item Do users open the controller website by scanning QR-Code?
+\item Does Webpage application produce alerts with incorrect user input?
+\item Do users rotate the mobile phone to start game?
+\item Do users understand the task?
+\item Can users navigate the character by moving the face in mobile?
+\item Does application produce alerts for incorrect location?
 \end{itemize}
 
-\section{Design study}
-Bauhaus-Walk interactive advertisement consisted of two elements, first was the screen that the users see the reaction and advertisement content, and the second was the means of interaction which were body and mobile, to design the test first of all the paper prototype should be capable to show both of these elements to be applicable to the real scenario later.
 
-Actual advertisement screen paper prototype was made along with its interactive objects. The experimenter simulated all user actions on the display even actions like movement of silhouette or character face.
-
-
+\section{Study Design}
+Bauhaus-Walk interactive advertisement consisted of two elements, (1) the screen that the users see the reaction of their action and advertisement content, (2) was the mean of interaction, which was body or mobile. To design the evaluation, first of all, this paper prototype should be capable to mimic both of these elements as real life scenario. As result the actual advertisement screen paper prototype was made, in which the experimenter simulated the output of all user action even small actions like, movement of silhouette or character face, on a display board, which resembled a display.
 
 \begin{figure}[H]
     \centering
-    \begin{subfigure}[H]{0.45\textwidth}
+    \begin{subfigure}[H]{0.48\textwidth}
         \centering
-        \includegraphics[width=\textwidth,height=4cm]{Figures/5/paper_board}
-        \caption{Screen paper prototype.}
-        \label{fig:screen_proto}
-    \end{subfigure}
-    \hfill
-    \begin{subfigure}[H]{0.45\textwidth}
-        \centering
-        \includegraphics[width=\textwidth,height=4cm]{Figures/5/mobile_paper}
+        \includegraphics[width=\textwidth,height=5cm]{Figures/5/mobile_paper}
         \caption{Mobile paper prototype.}
         \label{fig:mobileproto}
     \end{subfigure}
-    \caption{}
+    \begin{subfigure}[H]{0.48\textwidth}
+        \centering
+        \includegraphics[width=\textwidth,height=5cm]{Figures/5/paper_board}
+        \caption{Display board prototype.}
+        \label{fig:screen_proto}
+    \end{subfigure}
+    \caption{Paper prototypes}
     \label{fig:paper_prototype_screen}
 \end{figure}
 
@@ -176,33 +188,43 @@ The prototype testing was limited to five participants; they were from different
 
 
 \subsection{Procedures}
-The test subjects will be given basically one task by the interactive advertisement screen and by user body movement their location on the paper screen would be changed and checked for possible interactive object so that the content could be changed and for mobile interaction the subjects will be instructed to think-aloud while interacting with mobile interface so that examiner be able to change content on paper screen.
+
+The bellow procedures were followed.
+
+\begin{enumerate}
+\item Participants were handed the information sheet and consent form for film recording.
+\item Short introduction was given about the goal of thesis and this evaluation in particular. But they were not given any clue about the interactive prototypes.
+\item The task for participants were to explore the paper prototype until the game finishes and advertisement content is shown.
+\item Participants interacted with both prototype one after another.
+\item They were instructed to think-aloud during interaction to help the experimenter imitate the reactions on the board.
+\end{enumerate}
 
 
+\subsection{Display output simulation}
+The moderator, as a computer between display and the user, would receive (watching or listening) the user’s action and compute the result and show it on the display. All the interactive elements for the display were separately cut and put a side and each had a sticker at backside, and whenever the user wanted to do something like for example visiting a location, moderator would stick the picture of that place on display and also move the character based on the user’s physical movement.
 
 \begin{figure}[H]
     \centering
-    \begin{subfigure}[H]{0.45\textwidth}
+    \begin{subfigure}[H]{0.48\textwidth}
         \centering
-        \includegraphics[width=\textwidth,height=4cm]{Figures/5/body_interaction}
-        \caption{Body Interaction}
-        \label{fig:body_inter_}
+        \includegraphics[width=\textwidth,height=5cm]{Figures/5/body}
+        \caption{Participant interactig with body}
+        \label{fig:screen_proto_inter}
     \end{subfigure}
-    \hfill
-    \begin{subfigure}[H]{0.45\textwidth}
+    \begin{subfigure}[H]{0.48\textwidth}
         \centering
-        \includegraphics[width=\textwidth,height=4cm]{Figures/5/mobile_interactions}
-        \caption{Mobile Interaction}
-        \label{fig:mobile_inter}
+        \includegraphics[width=\textwidth,height=5cm]{Figures/5/mobile}
+        \caption{Participant interacting with mobile phone.}
+        \label{fig:mobileproto_inter}
     \end{subfigure}
-    \caption{(A) Body interaction: as can be seen on the left corner, the person is physically walking and in the screen the blue silhouette is changing.\\ (B) Mobile interaction: In the left corner, the person is changing the cursor in the phone and the effect is shown on the screen.}
-    \label{fig:Interactive_prototype}
+    \caption{Participants interactions}
+    \label{fig:paper_prototype_screen}
 \end{figure}
 
-
+As can be seen in the left picture, the user is interacting with body and the moderator is holding the blue silhouette on the board and would change if user changed her position. The picture on the right shows the mobile interaction, the user is interacting with phone prototype and sees reaction in the display board (The display board had not come in the picture frame).
 
 \subsection{Data gathering}
-The process of data gathering was as bellow, the methods are designed in a way to fully answer the research questions and the defined hypothesis.
+The process of data gathering was as bellow, the methods are designed in a way to fully answer the research questions.
 
 
 \begin{enumerate}
@@ -222,11 +244,8 @@ After both paper prototype interactions were finished, a brief interview was tak
 
 
 \section{Findings}
-The important part for analyzing the data is shaped based on the defined hypothesis at the beginning; the bellow procedure was followed to best answer our open questions and to be able to evaluate both paper prototypes. For interview codings see Appendix \ref{AppendixC}
-
-
-\subsection{Usability issues}
-
+The important part for analyzing the data is shaped based on the defined hypothesis at the beginning; the bellow procedure was followed to best answer our open questions and to be able to evaluate both paper prototypes. For interview codings 
+see Appendix \hilight{fix the appendix}%\ref{AppendixC}
 
 \subsection{Body Interactions issues}
 
@@ -234,22 +253,20 @@ The important part for analyzing the data is shaped based on the defined hypothe
 \item Confusions 
 
 \begin{enumerate}
-\item  Participant was confused of how should to walk, because it felt that there is not enough space. 
+\item  user was confused of how should to walk, because it felt that there is not enough space. 
 \item  User thought that if he/she moves to the location names or the icons, someone would guide her.
 \item  User was confused on the new character photo labeled on the top of his silhouette; he thought that the new character is trying to interact with his silhouette. ``\emph{Is it like people approaching you and say hi and hello, and then ask me if I can visit his places}''
-\item  He did not know his places (the character’s places).
+\item  User did not know his places (the character’s places).
 \item  Could not understood the word move or walk, he taught that it is not applicable at the moment.
 \item  Raise one hand to see if the blue reacts or not.
 \item  Did not recognize the person.
-\item  Did not understand the task.
-\item  Did not understand what is the blue person.
-\item  Asked question about who is the face, he did not know it.
+\item  Did not understand the task partially.
+\item  Did not understand what is the blue silhouette.
 
 \end{enumerate}
 
 \item Frustrations
 \begin{enumerate}
-\item  Entering IP address.
 \item  When the wrong house was explored, and she said ``\emph{(Ohh No)}''.
 \item  Waiting for the houses to load on the screen.
 \end{enumerate}
@@ -288,6 +305,7 @@ The bellow chart lists all the possible issues with mobile interaction.
 
 \item Frustrations
 \begin{enumerate}
+\item  Entering IP address.
 \item  Visiting to all locations to finish the interaction.
 \item  Not enough things when visiting to a location.
 \item  She felt frustrated when visiting the wrong location and find the right location.
@@ -323,39 +341,45 @@ The bellow chart lists all the possible issues with mobile interaction.
 
 \end{enumerate}
 
-This chart was created to list all the possible, mistakes, misunderstandings and confusions for each of the interactions carried by participants, these lists were categorized under usability problem. This error chart was made during video observations, flow of the tasks were observed and also the words they used during interaction from which confusion, frustration and misunderstandings events were recorded. 
+The bellow chart lists all the number of usability issues as, confusions, frustrations, and errors for each of the interactions carried by participants.
 
-Looking through all the usability problem chart of each participant the bellow single chart is being created, each category is separately listed with the possible problems.
+\begin{table}[H]
+\caption{Number of usability issues}
+\label{tab:prototypeusabilityissues}
+\centering
+\begin{tabular}{| l | c | c | c |}
+\toprule
+\tabhead{Prototype} & \tabhead{Confusion} & \tabhead{Frustration} & \tabhead{Errors} \\
+\midrule
+\textbf{Body}     & 9  &  2  &  3\\
+\midrule
+\textbf{Mobile}   & 5  &  7  &  9\\
+\bottomrule
+\end{tabular}
+\end{table}
 
+\subsection{Summary of findings}
 
-\subsection{Hypothesis decisions}
-
-The hypothesis those were defined in the design study, from which some of them are accepted and rejected based on the above findings. 
+The questions, which were defined in the design study, from which some of them are accepted and rejected based on the above findings. 
 
 \subsubsection{Body Interaction}
 \begin{itemize}
-\item H1: Users understand and react to the Call-to-Action approach.\\ 
-\textbf{[Accepted]}\\
+\item Users understood and react to the Call-to-Action approach. \\
 All of the participants understood call-to-action and reacted to it quickly as soon they read it.
 
-\item H2: Users recognizes the character assigned to them.\\ 
-\textbf{[Rejected]}\\
+\item Users did not recognize the character assigned to them.\\ 
 All the participants did not understand the character which was assigned to them, This happens when the participants do not have background to the related history that should know the character, It would be better to use someone who is very famous and is known to most of the population and different cultures, using very specific character is a bad idea. Users gets confused. At one occasion even an architect student who must know that face, but unfortunately did not recognized him. 
 
-\item H3: Users understands the tasks assigned to them.  \\ 
-\textbf{[Rejected]}\\
+\item Users did not understand the tasks assigned to them.  \\ 
 Most users did not understand the task in the sense of the defined character, but they did understand that they should walk and explore locations.
 
-\item H4: Users can explore locations by moving their body in physical space. \\ 
-\textbf{[Accepted]}\\
-As soon they understand that the silhouette is them and projected on the screen, then they did the task by moving them selves physically, except one participant who did not understand until the observer gave him hint to move his self physically in right or left.
+\item Users could explore locations by moving their body in physical space. \\ 
+As soon as users understood that the silhouette shown are theirs then they did the task by moving them selves physically, except one participant who did not understand until the observer gave him hint to move his self physically in right or left.
 
-\item H5: Application raises alerts to specific user actions.   \\ 
-\textbf{[Rejected]}\\
-The application did not raised error for user?s specific interactions like if the user was out of the screen or very close to the screen. Most of the participants raised their hand up, or turned around, there was no alerts for the participants.
+\item Application did not raise alerts to specific user actions.   \\ 
+The application did not raised error for user's specific interactions like if the user was out of the screen or very close to the screen. Most of the participants raised their hand up, or turned around, there was no alerts for the participants.
 
-\item H6: Application motivates participants to continue playing. \\ 
-\textbf{[Rejected]}\\
+\item Application did motivate participants to continue playing. \\ 
 When the users explored the first location, they were excited and tried to see the other places, but all the locations action was predictable by the participants and nothing new was happening, participants expected more from their interactions to be more excited to play the whole game. They did finish the game because they were told so.
 
 \end{itemize}
@@ -363,32 +387,25 @@ When the users explored the first location, they were excited and tried to see t
 
 \subsubsection {Mobile Interaction}
 \begin{itemize}
-\item H1: Users understand the Access Information shown on the board. \\ 
-\textbf{[Accepted]}\\
+\item Users understood the Access Information shown on the board. \\ 
 The participants were not shown the phone prototype at first, they were only shown the display and were asked to react based on the messages or what ever the users comprehend, after reading the Access information they asked for the phone prototype and then the phone prototype was shown to them to interact.
 
-\item H2: Users open the controller website by scanning QR-Code. \\ 
-\textbf{[Accepted]}\\
+\item Users opened the controller website. \\ 
 Four of the participants understood the use of QR-code and from which two of them scanned it and other two typed the IP address, and one participant did not understood the use of QR-code.
 
-\item H3: Webpage application produces alerts with in correct user input.\\ 
-\textbf{[Rejected]}\\
+\item Webpage application did not produce alerts with in correct user input.\\ 
 The webpage did not produce error at many occasions while filling the form like, what happens when cancel button is pressed, or when the game finishes the application does not alert user to replay or leave webpage.
 
-\item H4: Users rotate the mobile phone to start game.\\ 
-\textbf{[Rejected]}\\
+\item Users did not rotate the mobile phone to start game.\\ 
 Only two of the participants rotated the phone but the rest of the participants tapped on the icon and tried to rotate the icon in the screen instead rotating the whole phone.
 
-\item H5: Users understand the task.\\ 
-\textbf{[Rejected]}\\
+\item Users did not understand the task.\\ 
 This happened because all of the participants did not recognized the face and did not know where are his locations.
 
-\item H6: Users can navigate the character by moving the face in mobile.\\ 
-\textbf{[Rejected]}\\
+\item Users could not navigate the character by moving the face in mobile.\\ 
 Four of the participants touched and tapped the face shown on the mobile phone many times, they expected that something will happen after they touch the character like a dropdown list would appear to edit it, but one of the users drag it and saw the reaction on the screen.
 
-\item H7: Screen application produces alerts for incorrect location.\\ 
-\textbf{[Accepted]}\\
+\item Screen application produced alerts for incorrect location.\\ 
 The incorrect locations that were explored by the participants were given an alert message.
 \end{itemize}
 
@@ -398,8 +415,8 @@ Evaluation of low-fidelity prototype of advertisement was very helpful to unders
 
 First, the body interaction was easily understood by most of the participants, this type of interaction is more natural and can be done by any kind of participant without having any technical expertise. Two most important interactions in this technique was the call-to-action which approached participants to come near to the screen and other was to explore the locations using their body position in physical space. This low-fidelity usability testing suggests bringing changes for the next high-fidelity version of the advertisement. The changes would be to remove the character assigning for individuals, improving alert messages for different user actions, improving task description and integrating features to increase interest rate for participants to be engaged with the advertisement.
 
-Second, participants also appreciated the mobile interaction, but they were not so convinced for the usage because of many issues like logging in web application first, then navigating the face character. There was no clear instructions for how to navigate the character, and what will happen if there are many participants playing at the same time, where all of the participant would have the same face and they would get confused that which one is being controlled by their controller and lastly, it was unclear that what happens in web application when the interaction is over. This usability testing helped us to identify the mention usability problems and would bring changes for the new high fidelity version that would solve the current issues.
+Second, participants also appreciated the mobile interaction, but they were not so convinced for the usage because of many issues like logging in web application first, then navigating the face character. There was no clear instructions for how to navigate the character, and what will happen if there are many participants playing at the same time, where all of the participant would have the same face and they would get confused that which one is being controlled by their controller, and lastly, it was unclear that what happens in web application when the interaction is over. This usability testing helped me to identify the mention usability problems and would bring changes for the new high fidelity version that would solve the current issues.
 
 Third, The advertisement text, which was shown at the end of interaction, did not brought user’s attention, it would be better to make a short video for the next prototype that could bring users attention to see the advertisement. After the video advertisement gets over the attraction phase starts again.
 
-Finally, all hypotheses that were accepted or reject will be taken in to account from which new decisions for the high fidelity version will be taken, this version will overcome all the issues discovered until this stage. Participant’s recommendations and feedbacks have also much value and would be considered in the development phase.
+Finally, all usability related questions were taken in to account from which new decisions for the high fidelity version would be taken, the new version would overcome all the issues discovered until this stage. Participant’s recommendations and feedbacks had also much value and would be considered in the development phase.

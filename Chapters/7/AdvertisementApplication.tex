@@ -5,11 +5,13 @@
 \newpage
 
 \section{Introduction}
-The use of technology in advertisement plays a major role in advertisement industries, it would have been much difficult to reach to their customers without technologies, and technology enhances the two-way communication much with client and customers. The companies can now easily express their thoughts and vision to their customers with the use new technologies. Advertisement are everywhere like in websites, in your smartphone, in Television and radio and especially from past decade it is more common on the streets, supermarkets, airports and areas where is crowded, So for every context or setting there are set of technologies that are being used to make the advertisement more appropriate, and when it comes to interactive advertisement the use of right technology plays another major role in terms of usability and understandability, Interactive advertisement in websites are usually interactive using keyboard and mouse, in smartphone is using the capability of the touch or other sensors to make the interaction easy and at the same time funny, and interactive advertisement in public space has again another bunch of technologies that could make the interaction usable like using face recognition, body and position recognition, hand gesture recognition and also touch sensors, proximity sensors and much more.
-
-This chapter explains all the technical aspects of advertisement system that were developed during the thesis work. This chapter discusses what technologies and hardware have been used and what algorithm and methods have been implemented to accomplish the goals. This chapter explains the software for three main parts, attracting attention application, main advertisement application and the enhanced advertisement application.
+The use of technology in advertisement plays a major role in advertisement industries, it would have been much difficult to reach to their customers without technologies, and technology enhances the two-way communication with client and customers. The companies can now easily express their thoughts and vision to their customers with the use new technologies. Advertisement are everywhere like in websites, in your smartphone, in television and radio and especially from past decade it is more common on the streets, supermarkets, airports and areas where is crowded, so for every context or setting there are set of technologies that are being used to make the advertisement more appropriate, and when it comes to interactive advertisement the use of right technology plays another major role in terms of usability and understandability, interactive advertisement in websites are usually interactive using keyboard and mouse, in smartphone they are using the capability of the touch or other sensors to make the interaction easy, and interactive advertisement in public space has again another bunch of technologies that could make the interaction usable like using face recognition, body and position recognition, hand gesture recognition and also touch sensors, proximity sensors and much more.
 
 
+This chapter explains all the technical aspects of advertisement system that were developed during the thesis work for attracting attention application and main advertisement application, it discusses what technologies and hardware had been used and what algorithm and methods were implemented to accomplish the goals. Beside the technical details it describes the interaction design of interactive advertisement display.
+
+
+\iffalse
 \section{Attracting attention Application}
 The goal of attraction attention was to develop systems that could attract the attention of the passers-by, in which three different applications were developed and later compared.
 
@@ -47,32 +49,30 @@ Explore the attached CD for the source code.
 This application also uses kinect camera to track user position and renders a firework animation for each person.
 The fireworks are created with using random number of circls (balls) with random colors and sizes, the circles burst from the person's location and spreads to random directions with a high speed and slows down at the end. One part of the application's code is freely taken from openprocessing community that could generate random firework bubbles.
 For more detail please check the CD for source code.
+\fi
 
-\subsection{Silhouette application}
-This application uses Kinect camera to produce colored silhouette of passers-by, the camera has a resolution of 640x480 pixels and the application requests UserMap from Kinect camera, userMap is a 1xD integer array from that corresponds to the pixels of the Kinect image, which normally looks like bellow. \\
+
+\section{Applications}
+
+\subsection{Silhouette representation}
+The reason behind silhouette representation of passers-by was to attract their attention toward the display. There are a lot of body sensing technologies, and the most easy way was to use Microsoft Kinect camera \footnote{Microsoft Kinect: https://developer.microsoft.com/de-de/windows/kinect, last accessed 5 jun 2016}, that has built-in algorithm to track people, the camera has a resolution of 640x480 pixels. I created the colored silhouette representation from the \emph{UserMap} array sent by camera, which is a 1xD integer array that corresponds to the pixels of the image, the array looks like bellow \\
 
 \emph {Int upix = context.userMap();}
 
 \emph{upix = [1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,-1,-1,-1,-1,-1,-1,2,2,2,2,....]}
 
 The above example shows the structure of the array, the index of the elements of array correspond to the pixel number of image and the element values correspond to the user id standing in front of the camera, the user id is always above zero, any value which is not above zero in fact could be background or non-user pixel, the example shows that there are at least two people standing in front of the camera, which has user id (1 and 2) the -1 value is a non-user pixels. 
-So the application iterates to this array and assigns specific color to each of the pixels of the user image and does not give color to the non-user pixels. 
+So the application iterates to this array and assigns specific color to each of the pixels of the user image and does not give color to the non-user pixels, and after assigning the color value to each index of the user in the picture and leave out the background as null, the bellow picture will be created.
 
 
-% Please add the following required packages to your document preamble:
-% \usepackage[table,xcdraw]{xcolor}
-% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
-% Please add the following required packages to your document preamble:
-% \usepackage[table,xcdraw]{xcolor}
-% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
-% Please add the following required packages to your document preamble:
-% \usepackage[table,xcdraw]{xcolor}
+
+
 % If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
 \begin{table}[H]
 \centering
 \caption{UserMap and application color mapping}
 \label{usermap_colormapping}
-\resizebox{\textwidth}{!}{ 
+\resizebox{0.8\textwidth}{3cm}{ 
 \begin{tabular}{ccccccccccccccccccccccccccccccccccccccccc}
 -1 & -1 & -1                        & -1                        &                           &                           &                           &                           &                           &                           &                           &                           &                           &                           &                           &                           &                           &                           &                           &                           &                           &                           &                           &    &    &    &                           &                           &                           &                           &                           &                           &                           &                           &                           &                           &                           &                           &  &  &  \\
 -1 & -1 & -1                        &                           & -1                        &                           & -1                        & -1                        & -1                        &                           & -1                        & -1                        & -1                        & -1                        & -1                        & -1                        & -1                        & -1                        & -1                        & -1                        &                           &                           &                           &    &    &    &                           &                           & -1                        &                           & -1                        &                           & -1                        & -1                        &                           &                           &                           &                           &  &  &  \\
@@ -99,70 +99,89 @@ So the application iterates to this array and assigns specific color to each of 
 \end{table}
 The above picture has very limited pixels; it is not an original picture but is made to clear the idea of how the coloring of silhouette  works.
 As you can see from above picture, the white areas or the -1 values are background and non-user and the remaining positive number represent the pixelse related to the user.
-For more information about the source codes, please refer to the CD.
+Check the Silhouette video\footnote{Attraction attention method: \url{https://www.youtube.com/watch?v=1EtHVqS412M}, last accessed 5 jun 2016} and For more information about the source codes, please refer to the DVD.
 
 
-\section{Main advertisement application}
+\subsection{Main advertisement application}
 In this section the main advertisement applications are being discussed.
 According to the plane there was a need to develop three-advertisement application (non-interactive, body interactive and mobile interactive), which had the same functionality but were different in terms of interactivity and control.
 
 The advertisement application was designed to show important places of Bauhaus that were included in Bauhaus-Walk tour, the pictures of these places are attached on top of the Weimar map with a name on top and a small description at bellow this technique helps participants to build a relationship of location and the map, only five locations are randomly chosen by the software to be shown on the map, each come one after another and when all the locations are explored then the advertisement video will be played and after that the application will repeat it self.
 
-\newpage
-\subsection{Interfaces}
+
+\subsubsection{Non-Interactive application}
+As can be understood from the name, the application is not influenced by the passers-by but triggers automatically, it automates through whole three hierarchical levels of interfaces, (1)Initial interface, (2) Map interface, and (3) the advertisement video interface, all the interfaces have a fixed time in which it will switch from one to another, see the bellow figure.
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=100mm,height=50mm]{Figures/7/initialpage}
-    \caption{Initial interface of advertisement: The picture shown is the \emph{Gropius walter} room, and the Event name on the upper left side, and the Bauhaus University logo at the bottom right.}%
+    \includegraphics[width=0.8\textwidth,height=30mm]{Figures/7/application_flow}
+    \caption{Interface flow}%
+    \label{fig:InterfaceFlow}%
+\end{figure}
+
+\begin{enumerate}
+
+\item Initial Interface: \\
+Initial interface of advertisement shows is the \emph{Gropius walter} room, and the Bauhaus-Walk name on the upper left side, and the Bauhaus University logo at the bottom right.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=100mm,height=60mm]{Figures/7/initialpage}
+    \caption{Initial Interface}%
     \label{fig:adInitialpage}%
 \end{figure}
 
+\item Map Interface: \\
+This is the city map of Weimar that has some interest regions shown on the top of the map. Those regions are blinking to signal the users.
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=100mm,height=50mm]{Figures/7/map}
-    \caption{Second Interface: This is map of Weimar that has some interest regions shown on the top of the map. Those regions are blinking to signal the users.}%
+    \includegraphics[width=100mm,height=60mm]{Figures/7/map}
+    \caption{Map Interface}%
     \label{fig:adSecondpage1}%
 \end{figure}
 
-
+The location pictures are animated randomly and they are first enlarged, and then resized backed to fit on the map region.
 \begin{figure}[H]
     \centering
-    \includegraphics[width=100mm,height=50mm]{Figures/7/enlarged_pic}
-    \caption{Second interface: Before the image is shown on the map, first the picture is animated to become enlarged then the picture is resized to fit on the map.}%
+    \includegraphics[width=100mm,height=60mm]{Figures/7/enlarged_pic}
+    \caption{Enlarged picture}%
     \label{fig:adSecondpage2}%
 \end{figure}
 
-
+The resized pictures on the map looks like bellow. 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=100mm,height=50mm]{Figures/7/map_pictures}
-    \caption{Second interface: This shows a map with the picture elements, each picture contains a name}%
+    \includegraphics[width=100mm,height=60mm]{Figures/7/map_pictures}
+    \caption{Pictures on the map}%
     \label{fig:adSecondpage3}%
 \end{figure}
 
+\item Advertisement video:\\
+In this interface the video is being played, this picture is a screenshot of one of the frames of the video.
 \begin{figure}[H]
     \centering
-    \includegraphics[width=100mm,height=50mm]{Figures/7/ad_first}
-    \caption{Third interface: In this interface the video is being played, this picture is a screenshot of one of the frames of the video}%
+    \includegraphics[width=100mm,height=60mm]{Figures/7/ad_first}
+    \caption{Advertisement video}%
     \label{fig:adthirdpage1}%
 \end{figure}
 
+This is the last frame of the video that shows information about how and where to join the Bauhaus Walk.
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=100mm,height=50mm]{Figures/7/ad_last}
-    \caption{Third interface: This is the last frame of the video that shows information about how and where to join the Bauhaus Walk.}%
+    \includegraphics[width=100mm,height=60mm]{Figures/7/ad_last}
+    \caption{Advertisement video last frame}%
     \label{fig:adthirdpage2}%
 \end{figure}
 
-Please watch the complete animation stored in DVD. 
+The advertisement video was created in PowToon\footnote{PowToon: \url{https://www.powtoon.com/index/?gclid=CJqSqrf5l80CFesV0wod1u8IEQ&edgetrackerid=10083804111572}, last accessed 5 jun 2016} with a free version account, visit this video\footnote{Advertisement Video:  \url{https://www.youtube.com/watch?v=-y1Dbz6E6bU&feature=youtu.be}, last accessed 5 jun 2016} that shows the advertisement video or browse the animation from the DVD. 
 
+To see the full non-interactive advertisement flow of interfaces and its animations visit this video\footnote{Non-interactive Ad: \url{https://www.youtube.com/watch?v=ZLszzfbZJgI}, last accessed: 5 Jun 2016} or browse the video from DVD.
 
-\subsection{Advertisement video}
-The advertisement video was created in powtoon \cite{powtoon} with a free version account, to see the full advertisement video visit bellow link.\\ \url{https://www.youtube.com/watch?v=-y1Dbz6E6bU&feature=youtu.be}
+\end{enumerate}
 
+\iffalse
 \subsection{Hardware setup}
 The bellow setup is the hardware setup for the advertisement. The same setup is used for all three weeks.
 
@@ -185,10 +204,6 @@ The bellow setup is the hardware setup for the advertisement. The same setup is 
 
 
 
-\subsection{Non-Interactive application}
-As can be understood the application is not influenced by the passers-by but triggers automatically, it automate through whole three phases (Initial screen, Map screen and video screen) and at the same time records colored image frames using Kinect Camera.
-
-
 \subsubsection{Flowchart Diagram}
 
 \begin{figure}[H]
@@ -197,74 +212,77 @@ As can be understood the application is not influenced by the passers-by but tri
     \caption{Non-interactive Flowchart diagram}%
     \label{fig:non_inter_flowchart}%
 \end{figure}
+\fi
 
-\newpage
-\subsection{Body Interactive application}
-This method allows participants to interact with using body on the map, in this case exploring the interest points on the map by moving physically (forward, backward, right and left) in front of the screen in order to move their silhouette and reach to the interest regions.
 
-As discussed earlier there are three phases of the application, First Interface, second interface and then the advertisement video. The first two interfaces are interactive as described bellow.
+\subsubsection{Body Interactive application}
+As discussed earlier there are three interfaces or phases (initial interface, map interface and advertisement video) of the application, and in body interaction the same interfaces are used, but with a difference of interactivity, the first two interfaces are interactive and allows participants to interact with using their body with the advertisement, in this case exploring the interest points on the map by moving physically (forward, backward, right and left) in front of the screen. Kinect camera is used to track user’s body position.
 
-\subsubsection{First interface}
-This interface is basically the attraction attention and call-to-action interface, as you can see bellow there is someone standing in front of the screen and the interface calls him to come near. This area also has alert message on the top right area of the screen and alerts the participant if they move away from the camera range, in this example the person is standing but there is also the second person but got immediately untracked and the system pops that message to raise his hand to be tracked again.
+\begin{enumerate}
+
+\item Initial Interface (Call-to-Action) : \\
+This interface is basically the same interface as non-interactive but with a difference, that it projects passers-by silhouette on interface, this interface is also called \emph{call-to-action} interface because it calls passers-by to interact with the screen, as you can see bellow there is someone standing in front of the screen and the interface calls him to come near. This interface also has alert messages on the top right that alerts the participant if they move away from the camera range, in this example a second person had got untracked from the camera and the system pops that message to raise his hand to be tracked again.
+
 \begin{figure}[H]
     \centering
-    \includegraphics[width=100mm,height=60mm]{Figures/7/body_interactive/first_interface}
-    \caption{\textbf{First Interface:} When the person steps in the range of the Camera, his silhouette is projected on the screen with a different color; the application calls the person to come near in order to trigger the game.}%
+    \includegraphics[width=0.8\textwidth,height=70mm]{Figures/7/body_interactive/first_interface}
+    \caption{Initial interface}%
     \label{fig:body_firstinterface}%
 \end{figure}
 
 
-
-\subsubsection{Transition to second interfaces}
-The transition happens when the person stands close to the screen for more than 3 seconds and the bellow things happen.
+\item Transition to Map Interfaces: \\
+The transition happens when the person stands close to the screen for more than 3 seconds and the bellow process happen.
 
 \begin{enumerate}
 \item Loading animation:\\
-  The loading animation is a reaction to the action of the participants, and at the same time participants waits for something to be loaded.
+  The loading animation is implemented to show reaction to the action of the participants, and at the same time participants waits for something to be loaded.
 \item Scaling down the silhouette: \\
-To walk freely on the map and to give the participant the feeling of walking, the participant's silhouette is scaled down, the scaling happens smoothly frame-by-frame.
+To walk freely on the map environment and to give the participant the feeling of real walking, the participant's silhouette is scaled down, the scaling happens smoothly frame-by-frame.
 \item Show task instruction:  \\
 Every interaction has instructions, the instruction is fairly very easy and it is simplified in one sentence to explore locations on the map.
 \end{enumerate}
 
 \begin{figure}[H]
     \centering
-    \begin{subfigure}[H]{0.3\textwidth}
+    \begin{subfigure}[H]{0.32\textwidth}
         \centering
         \includegraphics[width=\textwidth,height = 3.5cm]{Figures/7/body_interactive/loading}
         \caption{}
         \label{fig:loading_logo}
     \end{subfigure}
-    \hfill
-    \begin{subfigure}[H]{0.3\textwidth}
+    \begin{subfigure}[H]{0.32\textwidth}
         \centering
         \includegraphics[width=\textwidth,height = 3.5cm]{Figures/7/body_interactive/scalling_down}
         \caption{}
         \label{fig:scalling_down}
-    \end{subfigure}
-    \hfill  
-      \begin{subfigure}[H]{0.3\textwidth}
+    \end{subfigure} 
+      \begin{subfigure}[H]{0.32\textwidth}
         \centering
         \includegraphics[width=\textwidth,height = 3.5cm]{Figures/7/body_interactive/task_description}
         \caption{}
         \label{fig:task_description}
     \end{subfigure}
-    \caption{As can be seen in picture A, the person is close to the screen and the loading animation is started, in picture B the person silhouette is being scaled down (in this example the silhouette color is green) and in picture C the instruction is shown. }
+    \caption{}
     \label{fig:transition_sequence}
 \end{figure}
 
+As can be seen in picture A, the person is close to the screen and the loading animation is started, in picture B the person silhouette is being scaled down (in this example the silhouette color is green) and in picture C the instruction is shown.
 
-
-
-\subsubsection{Second interface}
-In this interface participant can interact with the elements on the map.In bellow picture, the silhouette has visited two locations therefor has 2/5 score, to finish the interaction he needs to visit all the location or the timer on the corner right will be over.
-\begin{figure}[H]
+\item Map Interface (Interaction): \\
+In this interface participant can interact with the elements on the map. In bellow picture, the silhouette has visited two locations therefor has 2/5 score, to finish the interaction he needs to visit all the location or the timer(40 seconds) on the corner right will be over.\begin{figure}[H]
     \centering
-    \includegraphics[width=100mm,height=60mm]{Figures/7/body_interactive/second_interface}
-    \caption{Second Interface}%
+    \includegraphics[width=0.8\textwidth,height=70mm]{Figures/7/body_interactive/second_interface}
+    \caption{Map Interface}%
     \label{fig:body_secondinterface}%
 \end{figure}
 
+\item Advertisement video:\\
+The same advertisement video, which was for non-interactive, is shown after the interaction is overed.
+
+\end{enumerate}
+
+\iffalse
 \subsubsection{Flowchart Diagram}
 The bellow chart roughly shows the flow of the application.
 \begin{figure}[H]
@@ -289,29 +307,31 @@ The application is developed in Processing language with the support of Kinect L
 
 Refere to source code in DVD that has all the libraries and important things you require to run the application.
 
+\fi
 
-\subsection{Mobile Interactive application}
-The interaction in this application is carried out with a smartphone, the interface is absolutely the same as the other two applications; the only different is that there is a colored circle pointer to select map elements.
+\subsubsection{Mobile Interactive application}
+In this application, the display interface is absolutely the same as the other two applications; the only different is that a user carries out the interaction with a smartphone. The mobile interaction technique and platform was adapted from the Bauhaus University \emph{MMM Ball}\cite{MMMball} project under Mobile Media Group\footnote{Mobile Media Group: \url{https://www.uni-weimar.de/de/medien/professuren/mobile-media/}, last accessed 5 jun 2016} department.
 
+\begin{enumerate}
 
-\subsubsection{First screen interface}
+\item Initial Interface (Call-to-Action) : \\
 This interface is designed in such a way to attract passers-by and also guide the participant on how to use their smartphone to access the advertisement application. The attraction is again the same method that was used for body, the passers-by silhouette is projected at the back of Access information. The interface has QR code that could be easy to be scanned instead of typing the whole IP address, and there is an alert area, that gets activated when a logged in person has not turned their phone in landscape orientation.
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=100mm,height=60mm]{Figures/7/mobile_interactive/first_interface}
-    \caption{Mobile interactive interface:}%
+    \includegraphics[width=0.8\textwidth,height=70mm]{Figures/7/mobile_interactive/first_interface}
+    \caption{Initial Interface}%
     \label{fig:mobile_firstinterface}%
 \end{figure}
 
 
 
-\subsubsection{Transition to second interfaces}
-The first user will not be able to trigger the game, until his/her has not physically hold the phone in landscape, when it is in landscape the bellow process will be triggered.
+\item Transition to Map Interface: \\
+The user should login to the advertisement system and open the interaction controller and hold the mobile in landscape mode and then the bellow process will be triggered. 
 
 \begin{enumerate}
 \item Loading animation:\\
-  The loading animation is a reaction to the action of the participants, and at the same time participants waits for something to be loaded.
+ The loading animation is a reaction to the action of the participants, and at the same time participants waits for something to be loaded.
 \item  Creating Colored cursor: \\
 A colored circle will be created for the participant in the center of the screen; each participant would have different colors matching to their controller interface in their phone.
 \item Show task instruction:  \\
@@ -322,48 +342,53 @@ The instruction is fairly very easy and it is simplified in one sentence to expl
 
 \begin{figure}[H]
     \centering
-    \begin{subfigure}[H]{0.45\textwidth}
+    \begin{subfigure}[H]{0.48\textwidth}
         \centering
-        \includegraphics[width=\textwidth,height=4cm]{Figures/7/mobile_interactive/loading}
+        \includegraphics[width=\textwidth,height=5cm]{Figures/7/mobile_interactive/loading}
         \caption{}
         \label{fig:loading_mobile}
     \end{subfigure}
-    \hfill
-    \begin{subfigure}[H]{0.45\textwidth}
+    \begin{subfigure}[H]{0.48\textwidth}
         \centering
-        \includegraphics[width=\textwidth,height=4cm]{Figures/7/mobile_interactive/task_description}
+        \includegraphics[width=\textwidth,height=5cm]{Figures/7/mobile_interactive/task_description}
         \caption{}
         \label{fig:task_mobile}
     \end{subfigure}
-    \caption{In picture (A) a user has logged in and the screen is loading, in picture (B) the task description is shown.}
+    \caption{Transition of interface}
     \label{fig:Switching_between_phases_mobile}
 \end{figure}
 
+In picture (A) a user has logged in and the screen is loading, in picture (B) the task description is shown.
 
-\subsubsection{Second screen interface}
-Second screen is the interaction screen for the participants, participants can navigate the cursor using their phone controller page. As can be seen in bellow picture, the user is controlling the cursor and has explored one location, the user's defined name is also shown on the cursor, to provide a hint that they have reached an interest point a small circle is shown to determine the area of that interest point. The interaction will finishe when all the locations are explored or the interaction time finishes.
+
+\item Map Interface (Interaction): \\
+Map interface is interactive for the participants; participants can navigate the cursor using their phone controller page. As can be seen in bellow picture, the user is controlling the cursor and has explored one location, the user's defined name is also shown on the cursor, to provide a hint that they have reached an interest point a small circle is shown to determine the area of that interest point. The interaction finishes when all the locations are explored or the interaction time (40 seconds) gets over.
 
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=100mm,height=60mm]{Figures/7/mobile_interactive/second_interface}
-    \caption{Mobile interactive interface}%
+    \includegraphics[width=0.8\textwidth,height=70mm]{Figures/7/mobile_interactive/second_interface}
+    \caption{Map interface}%
     \label{fig:mobile_secondinterface}%
 \end{figure}
 
+\item Advertisement video:\\
+The same advertisement video, which was for non-interactive, is shown after the interaction is overed.
 
 
-\subsubsection{Mobile interface}
-After opening the web page in smartphone, and entering name, the bellow interface would appear. The interface is very simply designed and has two elements, the cursor and the select button, with cursor the user can navigate inside the map for interest points and when reached on an interest point the participant presses the select button to explore that location, see the picture bellow.
+\item Mobile interface: \\
+The interaction controller in smartphone is shown in bellow picture, the interface is very simply designed and has two elements, the cursor and the select button, with cursor the user can navigate inside the map for interest points and when reached on an interest point the participant presses the select button to explore that location, see the picture bellow.
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=100mm,height=60mm]{Figures/7/mobile_interactive/mobile_interface}
-    \caption{Mobile controller interface: The left side is the cursor and the right side is the select button.}%
+    \caption{Mobile controller}%
     \label{fig:mobile_controllerinterface}%
 \end{figure}
 
+\end{enumerate}
 
+\iffalse
 
 \subsubsection{Hardware setup}
 The hardware required for the type of interactive application, would be to use one Access point that enable participants to connect to the system, Kinect camera to record colored user images, a mobile phone at client side and obviously the screen and a workstation.
@@ -408,7 +433,42 @@ The bellow chart roughly shows the flow of the application.
     \caption{Mobile Interactive advertisement Flowchart diagram}%
     \label{fig:mobile_flowchat}%
 \end{figure}
+\fi
+
+\section{Interaction Design}
+The body interaction model is designed based on \emph{Audience funnel},  because it suites well for public setup like Tourist information center and advertising, with the design of this interaction model different levels of interactions and phases can be observed. Based on this model the three phases of the applications were designed (Call-to-Action, Interaction interface and ad video), this model attracts passers-by and gradually motivates them toward display for interaction to be engaged and at the same time it is convenient for passers-by to avoid the display. 
 
 
-\hilight{What other things i should include?}
+
+\subsection{Body Interaction Design}
+As can be seen in bellow diagram, that shows the display on top, the body-tracking area illustrated by a triangle, which is divided in two sections that is separated by dashed lines, (1) gray region defines the least interest regions, because in this area it is assumed that people maybe busy with other things around display, and people in this region can easily avoid the display and display will not motivate them for interaction, and (2) the highest interest region that it is assumed that people are aware of display and display would motivate them for interactions only if they are facing toward display.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\textwidth,height=8cm]{Figures/7/body_interaction_model}
+    \caption{Body interaction design.}%
+    \label{fig:body_interaction_deisng}%
+\end{figure}
+
+
+The model consists of seven phases, (1) Passing by phase, which demonstrates passers-by who are not in display tracking range, (2) Implicit Interaction phase, when passers-by are gray region of display tracking range but are far or at the side of the display, (3) Subtle interaction, where the user is in near and center area of tracking range and facing toward display, the system motivates the user for direction interaction with the call-to-action feature ``\emph{To play, Come near}'', (4) Direct body interaction phase, is when the user has actively started the game interaction and is playing, at this phase the whole tracking range (gray and white) could be used for direct interaction until the end of interaction phase. (5) Watch ad video, happens when the interaction is over and a short advertisement video is shown,(6)multi interaction phase, demonstrates that the user can perform interaction multiple times, (7) Follow up action phase, is when the user leaves the display’s tracking range and performs other actions.
+
+The Black curve bellow the diagram shows the transition of user between each phase and shows the flow of the attention, motivation, interaction and other phases. The attention is captured mainly in implicit interaction phase, the motivation occurs when the user is in subtle interaction phase and the interaction is when the user is directly playing with the his/her body in the entire tracking coverage area, after the interaction and watching ad video the curve changes direction to down which illustrates that the user would likely leave the interaction area and follow other actions unrelated to the screen. 
+
+
+
+\subsection{Mobile Interaction Design}
+The bellow diagram shows the mobile interaction design; the diagram shows the display on top, and the triangle, which is body-tracking range for passers-by. The design has 8 phases. (1) Passing by phase, which demonstrates passers-by who are not in display tracking range, (2) Implicit Interaction phase, the mobile version also has the implicit body interaction for attracting attention only and it is not limited to a certain region, but the whole the tracking area could be used for this purpose, and no further direct interaction is possible, (3) Read Access info, after the user is attracted toward the screen, the user reads how to use his/her mobile phone to connect to the display, (4) connect to system, in this phase the user connects to Wi-Fi and opens the controller, (5) direct interaction phase, is when the user actively interacts using smartphone with the display, (6) Watch ad video, this phase is triggered when the interaction is over, (7) multi interaction phase, demonstrates that the user can perform interaction multiple times, (8) Follow up action phase, is when the user leaves the display’s tracking range and performs other actions.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\textwidth,height=8cm]{Figures/7/mobile_interaction_design.png}
+    \caption{Body interaction design.}%
+    \label{fig:body_interaction_deisng}%
+\end{figure}
+
+
+
+
+
 
