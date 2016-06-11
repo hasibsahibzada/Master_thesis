@@ -1,150 +1,63 @@
 \BOOKMARK [0][-]{section*.1}{Declaration of Authorship}{}% 1
 \BOOKMARK [0][-]{section*.2}{Abstract}{}% 2
 \BOOKMARK [0][-]{section*.3}{Acknowledgements}{}% 3
-\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 4
+\BOOKMARK [0][-]{chapter.1}{Advertisement application}{}% 4
 \BOOKMARK [1][-]{section.1.1}{Introduction}{chapter.1}% 5
-\BOOKMARK [1][-]{section.1.2}{Advertisement performance}{chapter.1}% 6
-\BOOKMARK [1][-]{section.1.3}{Research Questions}{chapter.1}% 7
-\BOOKMARK [1][-]{section.1.4}{Procedures}{chapter.1}% 8
-\BOOKMARK [1][-]{section.1.5}{Methodology}{chapter.1}% 9
-\BOOKMARK [2][-]{subsection.1.5.1}{Prototypes}{section.1.5}% 10
-\BOOKMARK [2][-]{subsection.1.5.2}{Evaluations}{section.1.5}% 11
-\BOOKMARK [1][-]{section.1.6}{Research context}{chapter.1}% 12
-\BOOKMARK [1][-]{section.1.7}{Thesis outline}{chapter.1}% 13
-\BOOKMARK [0][-]{chapter.2}{Background}{}% 14
-\BOOKMARK [1][-]{section.2.1}{Advertising}{chapter.2}% 15
-\BOOKMARK [2][-]{subsection.2.1.1}{History of advertisement}{section.2.1}% 16
-\BOOKMARK [2][-]{subsection.2.1.2}{Pervasive Advertising}{section.2.1}% 17
-\BOOKMARK [2][-]{subsection.2.1.3}{Advertisement models}{section.2.1}% 18
-\BOOKMARK [1][-]{section.2.2}{Public displays}{chapter.2}% 19
-\BOOKMARK [2][-]{subsection.2.2.1}{History of public display research}{section.2.2}% 20
-\BOOKMARK [2][-]{subsection.2.2.2}{Auto-active displays}{section.2.2}% 21
-\BOOKMARK [2][-]{subsection.2.2.3}{Interactive displays}{section.2.2}% 22
-\BOOKMARK [2][-]{subsection.2.2.4}{Engagement with displays}{section.2.2}% 23
-\BOOKMARK [2][-]{subsection.2.2.5}{Metaphors}{section.2.2}% 24
-\BOOKMARK [2][-]{subsection.2.2.6}{Interaction models}{section.2.2}% 25
-\BOOKMARK [2][-]{subsection.2.2.7}{Technologies}{section.2.2}% 26
-\BOOKMARK [0][-]{chapter.3}{Attraction attention}{}% 27
-\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 28
-\BOOKMARK [1][-]{section.3.2}{Attention}{chapter.3}% 29
-\BOOKMARK [1][-]{section.3.3}{Approaches}{chapter.3}% 30
-\BOOKMARK [2][-]{subsection.3.3.1}{Prototypes}{section.3.3}% 31
-\BOOKMARK [2][-]{subsection.3.3.2}{Hypothesis}{section.3.3}% 32
-\BOOKMARK [1][-]{section.3.4}{Study design}{chapter.3}% 33
-\BOOKMARK [2][-]{subsection.3.4.1}{Participants}{section.3.4}% 34
-\BOOKMARK [2][-]{subsection.3.4.2}{Location}{section.3.4}% 35
-\BOOKMARK [2][-]{subsection.3.4.3}{Procedures}{section.3.4}% 36
-\BOOKMARK [2][-]{subsection.3.4.4}{Data gathering}{section.3.4}% 37
-\BOOKMARK [1][-]{section.3.5}{Findings}{chapter.3}% 38
-\BOOKMARK [2][-]{subsection.3.5.1}{Observation findings}{section.3.5}% 39
-\BOOKMARK [2][-]{subsection.3.5.2}{Interview Findings}{section.3.5}% 40
-\BOOKMARK [1][-]{section.3.6}{Conclusion}{chapter.3}% 41
-\BOOKMARK [0][-]{chapter.4}{Advertisement decision}{}% 42
-\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 43
-\BOOKMARK [1][-]{section.4.2}{Research Questions}{chapter.4}% 44
-\BOOKMARK [1][-]{section.4.3}{Study design}{chapter.4}% 45
-\BOOKMARK [2][-]{subsection.4.3.1}{Participants and Environment}{section.4.3}% 46
-\BOOKMARK [2][-]{subsection.4.3.2}{First session}{section.4.3}% 47
-\BOOKMARK [2][-]{subsection.4.3.3}{Second Session}{section.4.3}% 48
-\BOOKMARK [2][-]{subsection.4.3.4}{Data Gathering}{section.4.3}% 49
-\BOOKMARK [1][-]{section.4.4}{Findings}{chapter.4}% 50
-\BOOKMARK [2][-]{subsection.4.4.1}{First Session Findings}{section.4.4}% 51
-\BOOKMARK [2][-]{subsection.4.4.2}{Second Session Findings}{section.4.4}% 52
-\BOOKMARK [1][-]{section.4.5}{Conclusion}{chapter.4}% 53
-\BOOKMARK [0][-]{chapter.5}{Advertisement Low fidelity prototype}{}% 54
-\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 55
-\BOOKMARK [1][-]{section.5.2}{Advertisement paper Prototypes}{chapter.5}% 56
-\BOOKMARK [1][-]{section.5.3}{Requirement gathering}{chapter.5}% 57
-\BOOKMARK [2][-]{subsection.5.3.1}{Functional Requirements}{section.5.3}% 58
-\BOOKMARK [2][-]{subsection.5.3.2}{Non-functional Requirements}{section.5.3}% 59
-\BOOKMARK [2][-]{subsection.5.3.3}{Personas}{section.5.3}% 60
-\BOOKMARK [1][-]{section.5.4}{Goal}{chapter.5}% 61
-\BOOKMARK [2][-]{subsection.5.4.1}{Questions}{section.5.4}% 62
-\BOOKMARK [2][-]{subsection.5.4.2}{Mobile Interaction}{section.5.4}% 63
-\BOOKMARK [1][-]{section.5.5}{Study Design}{chapter.5}% 64
-\BOOKMARK [2][-]{subsection.5.5.1}{Subjects and location}{section.5.5}% 65
-\BOOKMARK [2][-]{subsection.5.5.2}{Procedures}{section.5.5}% 66
-\BOOKMARK [2][-]{subsection.5.5.3}{Display output simulation}{section.5.5}% 67
-\BOOKMARK [2][-]{subsection.5.5.4}{Data gathering}{section.5.5}% 68
-\BOOKMARK [1][-]{section.5.6}{Findings}{chapter.5}% 69
-\BOOKMARK [2][-]{subsection.5.6.1}{Body Interactions issues}{section.5.6}% 70
-\BOOKMARK [2][-]{subsection.5.6.2}{Mobile usability}{section.5.6}% 71
-\BOOKMARK [2][-]{subsection.5.6.3}{Summary of findings}{section.5.6}% 72
-\BOOKMARK [1][-]{section.5.7}{Conclusions}{chapter.5}% 73
-\BOOKMARK [0][-]{chapter.6}{Advertisement High Fidelity prototype}{}% 74
-\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 75
-\BOOKMARK [1][-]{section.6.2}{Advertisement prototypes}{chapter.6}% 76
-\BOOKMARK [2][-]{subsection.6.2.1}{Body prototype}{section.6.2}% 77
-\BOOKMARK [2][-]{subsection.6.2.2}{Mobile}{section.6.2}% 78
-\BOOKMARK [1][-]{section.6.3}{Research questions}{chapter.6}% 79
-\BOOKMARK [2][-]{subsection.6.3.1}{Video advertisement}{section.6.3}% 80
-\BOOKMARK [1][-]{section.6.4}{Test Design}{chapter.6}% 81
-\BOOKMARK [2][-]{subsection.6.4.1}{Participants}{section.6.4}% 82
-\BOOKMARK [2][-]{subsection.6.4.2}{Task}{section.6.4}% 83
-\BOOKMARK [2][-]{subsection.6.4.3}{Data Gathering }{section.6.4}% 84
-\BOOKMARK [2][-]{subsection.6.4.4}{Performance data}{section.6.4}% 85
-\BOOKMARK [1][-]{section.6.5}{Findings}{chapter.6}% 86
-\BOOKMARK [2][-]{subsection.6.5.1}{User performance}{section.6.5}% 87
-\BOOKMARK [2][-]{subsection.6.5.2}{Usability issues}{section.6.5}% 88
-\BOOKMARK [2][-]{subsection.6.5.3}{Advertisement goal}{section.6.5}% 89
-\BOOKMARK [2][-]{subsection.6.5.4}{Interview Findings}{section.6.5}% 90
-\BOOKMARK [2][-]{subsection.6.5.5}{Application Performance}{section.6.5}% 91
-\BOOKMARK [1][-]{section.6.6}{Conclusion}{chapter.6}% 92
-\BOOKMARK [0][-]{chapter.7}{Advertisement application}{}% 93
-\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 94
-\BOOKMARK [1][-]{section.7.2}{Applications}{chapter.7}% 95
-\BOOKMARK [2][-]{subsection.7.2.1}{Silhouette representation}{section.7.2}% 96
-\BOOKMARK [2][-]{subsection.7.2.2}{Main advertisement application}{section.7.2}% 97
-\BOOKMARK [1][-]{section.7.3}{Interaction Design}{chapter.7}% 98
-\BOOKMARK [2][-]{subsection.7.3.1}{Body Interaction Design}{section.7.3}% 99
-\BOOKMARK [2][-]{subsection.7.3.2}{Mobile Interaction Design}{section.7.3}% 100
-\BOOKMARK [0][-]{chapter.8}{Interactive and non-Interactive Advertisement field study}{}% 101
-\BOOKMARK [1][-]{section.8.1}{Introduction}{chapter.8}% 102
-\BOOKMARK [1][-]{section.8.2}{Advertisement}{chapter.8}% 103
-\BOOKMARK [2][-]{subsection.8.2.1}{Interactive and Non-interactive Ads}{section.8.2}% 104
-\BOOKMARK [2][-]{subsection.8.2.2}{Advertisement Effectivness}{section.8.2}% 105
-\BOOKMARK [1][-]{section.8.3}{Research questions}{chapter.8}% 106
-\BOOKMARK [1][-]{section.8.4}{Study design}{chapter.8}% 107
-\BOOKMARK [2][-]{subsection.8.4.1}{Location}{section.8.4}% 108
-\BOOKMARK [2][-]{subsection.8.4.2}{Duration}{section.8.4}% 109
-\BOOKMARK [2][-]{subsection.8.4.3}{Internal Validity}{section.8.4}% 110
-\BOOKMARK [2][-]{subsection.8.4.4}{Participants}{section.8.4}% 111
-\BOOKMARK [2][-]{subsection.8.4.5}{Data gathering}{section.8.4}% 112
-\BOOKMARK [1][-]{section.8.5}{Data Analysing}{chapter.8}% 113
-\BOOKMARK [2][-]{subsection.8.5.1}{Glance counts}{section.8.5}% 114
-\BOOKMARK [2][-]{subsection.8.5.2}{Interviews}{section.8.5}% 115
-\BOOKMARK [2][-]{subsection.8.5.3}{Display Engagement phases and time}{section.8.5}% 116
-\BOOKMARK [2][-]{subsection.8.5.4}{Honeypot and landing effects}{section.8.5}% 117
-\BOOKMARK [2][-]{subsection.8.5.5}{Other observations}{section.8.5}% 118
-\BOOKMARK [1][-]{section.8.6}{Findings}{chapter.8}% 119
-\BOOKMARK [2][-]{subsection.8.6.1}{Non-Interactive findings}{section.8.6}% 120
-\BOOKMARK [2][-]{subsection.8.6.2}{Body Interactive findings}{section.8.6}% 121
-\BOOKMARK [2][-]{subsection.8.6.3}{Mobile Interactive findings}{section.8.6}% 122
-\BOOKMARK [2][-]{subsection.8.6.4}{Comparison of advertisements}{section.8.6}% 123
-\BOOKMARK [1][-]{section.8.7}{Discussion}{chapter.8}% 124
-\BOOKMARK [1][-]{section.8.8}{Conclusion}{chapter.8}% 125
-\BOOKMARK [0][-]{chapter.9}{Advertisement enhancement}{}% 126
-\BOOKMARK [1][-]{section.9.1}{Introduction}{chapter.9}% 127
-\BOOKMARK [1][-]{section.9.2}{Enhanced attracting attention}{chapter.9}% 128
-\BOOKMARK [1][-]{section.9.3}{Research question}{chapter.9}% 129
-\BOOKMARK [1][-]{section.9.4}{Study design}{chapter.9}% 130
-\BOOKMARK [2][-]{subsection.9.4.1}{Location}{section.9.4}% 131
-\BOOKMARK [2][-]{subsection.9.4.2}{Duration}{section.9.4}% 132
-\BOOKMARK [2][-]{subsection.9.4.3}{Participants}{section.9.4}% 133
-\BOOKMARK [2][-]{subsection.9.4.4}{Data gathering}{section.9.4}% 134
-\BOOKMARK [1][-]{section.9.5}{Findings and results}{chapter.9}% 135
-\BOOKMARK [2][-]{subsection.9.5.1}{Attention Level measurements}{section.9.5}% 136
-\BOOKMARK [2][-]{subsection.9.5.2}{Engagement phases and time}{section.9.5}% 137
-\BOOKMARK [2][-]{subsection.9.5.3}{Number of engaged passers-by}{section.9.5}% 138
-\BOOKMARK [2][-]{subsection.9.5.4}{Landing and Honeypot effects}{section.9.5}% 139
-\BOOKMARK [2][-]{subsection.9.5.5}{Other observations}{section.9.5}% 140
-\BOOKMARK [2][-]{subsection.9.5.6}{Comparison}{section.9.5}% 141
-\BOOKMARK [1][-]{section.9.6}{Discussions}{chapter.9}% 142
-\BOOKMARK [1][-]{section.9.7}{Conclusion}{chapter.9}% 143
-\BOOKMARK [0][-]{chapter.10}{Conclusion}{}% 144
-\BOOKMARK [1][-]{section.10.1}{Summary of research}{chapter.10}% 145
-\BOOKMARK [2][-]{subsection.10.1.1}{Attracting attraction}{section.10.1}% 146
-\BOOKMARK [2][-]{subsection.10.1.2}{Motivation}{section.10.1}% 147
-\BOOKMARK [2][-]{subsection.10.1.3}{Interaction}{section.10.1}% 148
-\BOOKMARK [2][-]{subsection.10.1.4}{Advertisement performance}{section.10.1}% 149
-\BOOKMARK [1][-]{section.10.2}{}{chapter.10}% 150
+\BOOKMARK [1][-]{section.1.2}{Applications}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.2.1}{Silhouette representation}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.2}{Main advertisement application}{section.1.2}% 8
+\BOOKMARK [1][-]{section.1.3}{Interaction Design}{chapter.1}% 9
+\BOOKMARK [2][-]{subsection.1.3.1}{Body Interaction Design}{section.1.3}% 10
+\BOOKMARK [2][-]{subsection.1.3.2}{Mobile Interaction Design}{section.1.3}% 11
+\BOOKMARK [0][-]{chapter.2}{Interactive and non-Interactive Advertisement field study}{}% 12
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.2}{Advertisement}{chapter.2}% 14
+\BOOKMARK [2][-]{subsection.2.2.1}{Interactive and Non-interactive Ads}{section.2.2}% 15
+\BOOKMARK [2][-]{subsection.2.2.2}{Advertisement Effectivness}{section.2.2}% 16
+\BOOKMARK [1][-]{section.2.3}{Research questions}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.4}{Study design}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.4.1}{Location}{section.2.4}% 19
+\BOOKMARK [2][-]{subsection.2.4.2}{Duration}{section.2.4}% 20
+\BOOKMARK [2][-]{subsection.2.4.3}{Internal Validity}{section.2.4}% 21
+\BOOKMARK [2][-]{subsection.2.4.4}{Participants}{section.2.4}% 22
+\BOOKMARK [2][-]{subsection.2.4.5}{Data gathering}{section.2.4}% 23
+\BOOKMARK [1][-]{section.2.5}{Data Analysing}{chapter.2}% 24
+\BOOKMARK [2][-]{subsection.2.5.1}{Glance counts}{section.2.5}% 25
+\BOOKMARK [2][-]{subsection.2.5.2}{Interviews}{section.2.5}% 26
+\BOOKMARK [2][-]{subsection.2.5.3}{Display Engagement phases and time}{section.2.5}% 27
+\BOOKMARK [2][-]{subsection.2.5.4}{Honeypot and landing effects}{section.2.5}% 28
+\BOOKMARK [2][-]{subsection.2.5.5}{Other observations}{section.2.5}% 29
+\BOOKMARK [1][-]{section.2.6}{Findings}{chapter.2}% 30
+\BOOKMARK [2][-]{subsection.2.6.1}{Non-Interactive findings}{section.2.6}% 31
+\BOOKMARK [2][-]{subsection.2.6.2}{Body Interactive findings}{section.2.6}% 32
+\BOOKMARK [2][-]{subsection.2.6.3}{Mobile Interactive findings}{section.2.6}% 33
+\BOOKMARK [2][-]{subsection.2.6.4}{Comparison of advertisements}{section.2.6}% 34
+\BOOKMARK [1][-]{section.2.7}{Discussion}{chapter.2}% 35
+\BOOKMARK [1][-]{section.2.8}{Conclusion}{chapter.2}% 36
+\BOOKMARK [0][-]{chapter.3}{Advertisement enhancement}{}% 37
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 38
+\BOOKMARK [1][-]{section.3.2}{Enhanced attracting attention}{chapter.3}% 39
+\BOOKMARK [1][-]{section.3.3}{Interaction design}{chapter.3}% 40
+\BOOKMARK [1][-]{section.3.4}{Research question}{chapter.3}% 41
+\BOOKMARK [1][-]{section.3.5}{Study design}{chapter.3}% 42
+\BOOKMARK [2][-]{subsection.3.5.1}{Location}{section.3.5}% 43
+\BOOKMARK [2][-]{subsection.3.5.2}{Duration}{section.3.5}% 44
+\BOOKMARK [2][-]{subsection.3.5.3}{Participants}{section.3.5}% 45
+\BOOKMARK [2][-]{subsection.3.5.4}{Data gathering}{section.3.5}% 46
+\BOOKMARK [1][-]{section.3.6}{Findings and results}{chapter.3}% 47
+\BOOKMARK [2][-]{subsection.3.6.1}{Attention Level measurements}{section.3.6}% 48
+\BOOKMARK [2][-]{subsection.3.6.2}{Engagement phases and time}{section.3.6}% 49
+\BOOKMARK [2][-]{subsection.3.6.3}{Number of engaged passers-by}{section.3.6}% 50
+\BOOKMARK [2][-]{subsection.3.6.4}{Landing and Honeypot effects}{section.3.6}% 51
+\BOOKMARK [2][-]{subsection.3.6.5}{Other observations}{section.3.6}% 52
+\BOOKMARK [2][-]{subsection.3.6.6}{Comparison}{section.3.6}% 53
+\BOOKMARK [1][-]{section.3.7}{Discussions}{chapter.3}% 54
+\BOOKMARK [1][-]{section.3.8}{Conclusion}{chapter.3}% 55
+\BOOKMARK [0][-]{chapter.4}{Conclusion}{}% 56
+\BOOKMARK [1][-]{section.4.1}{Summary of research}{chapter.4}% 57
+\BOOKMARK [2][-]{subsection.4.1.1}{Attracting attraction}{section.4.1}% 58
+\BOOKMARK [2][-]{subsection.4.1.2}{Motivation}{section.4.1}% 59
+\BOOKMARK [2][-]{subsection.4.1.3}{Interaction}{section.4.1}% 60
+\BOOKMARK [2][-]{subsection.4.1.4}{Passers-by Behavior around display}{section.4.1}% 61
+\BOOKMARK [2][-]{subsection.4.1.5}{Advertisement performance}{section.4.1}% 62
+\BOOKMARK [2][-]{subsection.4.1.6}{Advertisement development cycle}{section.4.1}% 63
