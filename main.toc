@@ -2,73 +2,94 @@
 \contentsline {chapter}{Declaration of Authorship}{i}{section*.1}
 \contentsline {chapter}{Abstract}{iii}{section*.2}
 \contentsline {chapter}{Acknowledgements}{iv}{section*.3}
-\contentsline {chapter}{\numberline {1}Advertisement application}{1}{chapter.1}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Introduction}{2}{section.1.1}
-\contentsline {section}{\numberline {1.2}Applications}{2}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Silhouette representation}{2}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Main advertisement application}{3}{subsection.1.2.2}
-\contentsline {subsubsection}{Non-Interactive application}{3}{section*.12}
-\contentsline {subsubsection}{Body Interactive application}{6}{section*.20}
-\contentsline {subsubsection}{Mobile Interactive application}{8}{section*.24}
-\contentsline {section}{\numberline {1.3}Interaction Design}{11}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Body Interaction Design}{11}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Mobile Interaction Design}{12}{subsection.1.3.2}
-\contentsline {chapter}{\numberline {2}Interactive and non-Interactive Advertisement field study}{14}{chapter.2}
-\contentsline {section}{\numberline {2.1}Introduction}{15}{section.2.1}
-\contentsline {section}{\numberline {2.2}Advertisement}{16}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Interactive and Non-interactive Ads}{16}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Advertisement Effectivness}{17}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Research questions}{17}{section.2.3}
-\contentsline {section}{\numberline {2.4}Study design}{18}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Location}{18}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Duration}{18}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Internal Validity}{18}{subsection.2.4.3}
-\contentsline {subsection}{\numberline {2.4.4}Participants}{19}{subsection.2.4.4}
-\contentsline {subsection}{\numberline {2.4.5}Data gathering}{19}{subsection.2.4.5}
-\contentsline {section}{\numberline {2.5}Data Analysing}{21}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Glance counts}{21}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Interviews}{21}{subsection.2.5.2}
-\contentsline {subsection}{\numberline {2.5.3}Display Engagement phases and time}{21}{subsection.2.5.3}
-\contentsline {subsection}{\numberline {2.5.4}Honeypot and landing effects}{21}{subsection.2.5.4}
-\contentsline {subsection}{\numberline {2.5.5}Other observations}{21}{subsection.2.5.5}
-\contentsline {section}{\numberline {2.6}Findings}{22}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Non-Interactive findings}{22}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}Body Interactive findings}{26}{subsection.2.6.2}
-\contentsline {subsection}{\numberline {2.6.3}Mobile Interactive findings}{34}{subsection.2.6.3}
-\contentsline {subsection}{\numberline {2.6.4}Comparison of advertisements}{38}{subsection.2.6.4}
-\contentsline {subsubsection}{Number of passers-by}{38}{section*.62}
-\contentsline {subsubsection}{Attention Level Comparison}{38}{section*.64}
-\contentsline {subsubsection}{Engaged and Non-engaged passers-by}{39}{section*.66}
-\contentsline {subsubsection}{Landing effect}{40}{section*.69}
-\contentsline {subsubsection}{Honeypot effect}{41}{section*.72}
-\contentsline {section}{\numberline {2.7}Discussion}{42}{section.2.7}
-\contentsline {section}{\numberline {2.8}Conclusion}{43}{section.2.8}
-\contentsline {chapter}{\numberline {3}Advertisement enhancement}{44}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{45}{section.3.1}
-\contentsline {section}{\numberline {3.2}Enhanced attracting attention}{45}{section.3.2}
-\contentsline {section}{\numberline {3.3}Interaction design}{46}{section.3.3}
-\contentsline {section}{\numberline {3.4}Research question}{46}{section.3.4}
-\contentsline {section}{\numberline {3.5}Study design}{47}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Location}{47}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {3.5.2}Duration}{47}{subsection.3.5.2}
-\contentsline {subsection}{\numberline {3.5.3}Participants}{47}{subsection.3.5.3}
-\contentsline {subsection}{\numberline {3.5.4}Data gathering}{47}{subsection.3.5.4}
-\contentsline {section}{\numberline {3.6}Findings and results}{48}{section.3.6}
-\contentsline {subsection}{\numberline {3.6.1}Attention Level measurements}{48}{subsection.3.6.1}
-\contentsline {subsection}{\numberline {3.6.2}Engagement phases and time}{49}{subsection.3.6.2}
-\contentsline {subsection}{\numberline {3.6.3}Number of engaged passers-by}{49}{subsection.3.6.3}
-\contentsline {subsection}{\numberline {3.6.4}Landing and Honeypot effects}{51}{subsection.3.6.4}
-\contentsline {subsection}{\numberline {3.6.5}Other observations}{52}{subsection.3.6.5}
-\contentsline {subsection}{\numberline {3.6.6}Comparison}{54}{subsection.3.6.6}
-\contentsline {section}{\numberline {3.7}Discussions}{56}{section.3.7}
-\contentsline {section}{\numberline {3.8}Conclusion}{57}{section.3.8}
-\contentsline {chapter}{\numberline {4}Conclusion}{58}{chapter.4}
-\contentsline {section}{\numberline {4.1}Summary of research}{59}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Attracting attraction}{61}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Motivation}{61}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Interaction}{62}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Passers-by Behavior around display}{62}{subsection.4.1.4}
-\contentsline {subsubsection}{Landing Effect}{63}{section*.95}
-\contentsline {subsubsection}{Honeypot Effect}{63}{section*.96}
-\contentsline {subsection}{\numberline {4.1.5}Advertisement performance}{63}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Advertisement development cycle}{63}{subsection.4.1.6}
+\contentsline {section}{\numberline {1.2}Advertisement performance}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Research Questions}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Procedures}{4}{section.1.4}
+\contentsline {section}{\numberline {1.5}Methodology}{4}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Prototypes}{5}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Evaluations}{5}{subsection.1.5.2}
+\contentsline {section}{\numberline {1.6}Research context}{5}{section.1.6}
+\contentsline {section}{\numberline {1.7}Thesis outline}{6}{section.1.7}
+\contentsline {chapter}{\numberline {2}Background}{8}{chapter.2}
+\contentsline {section}{\numberline {2.1}Advertising}{9}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}History of advertisement}{9}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Pervasive Advertising}{9}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Advertisement models}{10}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Public displays}{10}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}History of public display research}{10}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Auto-active displays}{12}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Interactive displays}{12}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Engagement with displays}{13}{subsection.2.2.4}
+\contentsline {subsubsection}{Attention}{13}{section*.12}
+\contentsline {subsubsection}{Motivation}{14}{section*.13}
+\contentsline {subsection}{\numberline {2.2.5}Metaphors}{15}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Interaction models}{15}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.2.7}Technologies}{18}{subsection.2.2.7}
+\contentsline {chapter}{\numberline {3}Interactive and non-Interactive Advertisement field study}{20}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{21}{section.3.1}
+\contentsline {section}{\numberline {3.2}Advertisement}{22}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Interactive and Non-interactive Ads}{22}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Advertisement Effectivness}{23}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Research questions}{23}{section.3.3}
+\contentsline {section}{\numberline {3.4}Study design}{24}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Location}{24}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Duration}{24}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Internal Validity}{24}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Participants}{25}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Data gathering}{25}{subsection.3.4.5}
+\contentsline {section}{\numberline {3.5}Data Analysing}{27}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Glance counts}{27}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Interviews}{27}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}Display Engagement phases and time}{27}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}Honeypot and landing effects}{27}{subsection.3.5.4}
+\contentsline {subsection}{\numberline {3.5.5}Other observations}{27}{subsection.3.5.5}
+\contentsline {section}{\numberline {3.6}Findings}{28}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Non-Interactive findings}{28}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Body Interactive findings}{32}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Mobile Interactive findings}{40}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Comparison of advertisements}{44}{subsection.3.6.4}
+\contentsline {subsubsection}{Number of passers-by}{44}{section*.49}
+\contentsline {subsubsection}{Attention Level Comparison}{44}{section*.51}
+\contentsline {subsubsection}{Engaged and Non-engaged passers-by}{45}{section*.53}
+\contentsline {subsubsection}{Landing effect}{46}{section*.56}
+\contentsline {subsubsection}{Honeypot effect}{47}{section*.59}
+\contentsline {section}{\numberline {3.7}Discussion}{48}{section.3.7}
+\contentsline {section}{\numberline {3.8}Conclusion}{49}{section.3.8}
+\contentsline {chapter}{\numberline {4}Advertisement enhancement}{50}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{51}{section.4.1}
+\contentsline {section}{\numberline {4.2}Enhanced attracting attention}{51}{section.4.2}
+\contentsline {section}{\numberline {4.3}Interaction design}{52}{section.4.3}
+\contentsline {section}{\numberline {4.4}Research question}{52}{section.4.4}
+\contentsline {section}{\numberline {4.5}Study design}{53}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Location}{53}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Duration}{53}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Participants}{53}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.5.4}Data gathering}{53}{subsection.4.5.4}
+\contentsline {section}{\numberline {4.6}Findings and results}{54}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Attention Level measurements}{54}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Engagement phases and time}{55}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Number of engaged passers-by}{55}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Landing and Honeypot effects}{57}{subsection.4.6.4}
+\contentsline {subsection}{\numberline {4.6.5}Other observations}{58}{subsection.4.6.5}
+\contentsline {subsection}{\numberline {4.6.6}Comparison}{60}{subsection.4.6.6}
+\contentsline {section}{\numberline {4.7}Discussions}{62}{section.4.7}
+\contentsline {section}{\numberline {4.8}Conclusion}{63}{section.4.8}
+\contentsline {chapter}{\numberline {5}Conclusion}{64}{chapter.5}
+\contentsline {section}{\numberline {5.1}Summary of research}{65}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Advertisement development cycle}{67}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Advertisement performance}{68}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Attracting attraction}{68}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Motivation}{69}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}Interaction}{69}{subsection.5.1.5}
+\contentsline {subsection}{\numberline {5.1.6}Passers-by Behavior around display}{69}{subsection.5.1.6}
+\contentsline {subsubsection}{Landing Effect}{70}{section*.82}
+\contentsline {subsubsection}{Honeypot Effect}{70}{section*.83}
+\contentsline {subsection}{\numberline {5.1.7}Futur work}{70}{subsection.5.1.7}
+\contentsline {subsubsection}{Change the advertisement flow}{70}{section*.84}
+\contentsline {subsubsection}{Mobile improvement}{70}{section*.85}
+\contentsline {subsubsection}{Better data gathering}{70}{section*.86}
+\contentsline {subsubsection}{Better evaluation}{70}{section*.87}
+\contentsline {subsubsection}{Enhanced silhouette color in 3 kinect}{70}{section*.88}
+\contentsline {subsubsection}{New interactions}{70}{section*.89}
