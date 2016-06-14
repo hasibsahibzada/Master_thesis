@@ -156,19 +156,28 @@ The honeypot effect increases the attention level of the people toward the displ
 
 \subsection{Futur work}
 
-\subsubsection{Change the advertisement flow}
 
-\subsubsection{Mobile improvement}
-\subsubsection{Better data gathering}
-\subsubsection{Better evaluation}
-compare the emotions
-compare product attitude
+\subsubsection{Data gathering}
 
+The data gathered in this thesis was more from direct and indirect observations, which involved manually going through all depth images frame by frame to refine the data logs for accurate measurement. It would be more effective to create advanced techniques for data gathering in public spaces in real time with high accuracy and less errors, there have been works on this as bellow.
+
+\emph{Quantifying attention}, there are many applications that count glances, like \emph{IntraFace}\footnote{Intraface: \url{ http://www.humansensing.cs.cmu.edu/intraface/}, last accessed 12 jun 2016}\cite{Intraface}, this can detect gaze direction by obtaining head orientation, extracting eye corners, detecting pupils and then finds out where the person’s gaze direction, but the application was meant for single users or a controlled environment with multi users.  Another application was introduced in 2011 about the real world application of glance counting by F. De la Torre \cite{glancingcount} that could measure the person glance toward display, record passers-by speed and emotions, but I still personally doubt on these sort of applications in terms of accuracy and handling large amount of people glances and repeated glance of the same passer-by, but with the use of new technologies in future these gaze detections would be more precise and stable.
+
+In online marketing, measuring the \emph{duration of engagement} with interactive advertisement and how often the person interacts during day, week or month in Internet is very easy because the individual computers can be traced using their IP or Mac addresses or even user accounts in social medias, but in public displays the situation seems a bit difficult because many people pass by the display and start interacting too, but it is very hard to track the person during the day or week to measure the duration of engagement, there are applications \cite{glancingcount} using face detection algorithms that count the durations but it is only for one time, the second time the person come is threated as a new person, or even there are a lot of false detection of faces and makes it hard to measure accurately, in future technologies I believe there will be more stable tracking applications to track users, but the display owners should deal with legal issues if people would allow to be tracked or not. 
+
+\subsubsection{Impact of Advertisement types}
+This thesis compared the non-interactive and interactive advertisement in terms of performance and effectiveness, but has not quantified the amount of impact of advertisement on passers-by, \emph{Attitude} toward a the product, or\emph{buying decision}, a very clear and precise evaluation techniques should be developed to assess the impacts of interactivity and non-interactivity of advertisement from various viewpoint and angles.
+
+\subsubsection{Advertisement interaction design}
+The \emph{Audience funnel}\cite{AudienceFunnel} interaction model consisted of 6 phases \emph{Passing by, Implicit interaction, Subtle interaction, direction interaction, multiple interaction and follow-up actions}, but in this thesis the body interaction model design had one extra phase called \emph{Ad video phase}, which was after the \emph{direct interaction} phase. The findings show that people do not stay longer than 4 seconds in average to watch the advertisement video and this feature is a disturbance for the people who were interacting and were engaged with the display. This feature leads to a point that people would not be engaged anymore and future interaction designs should not include this phase in interaction design. A better solution would be to integrate short video clips inside the interaction phase, so that the people do not feel disconnected with the application and can still continue interaction and watch video.
 
 \subsubsection{Enhanced silhouette color in 3 kinect}
-\subsubsection{New interactions}
+The extended version was in fact a good solution to attract attention in side way public display. The integration of multiple Kinects extended the range but the problem was the silhouette colors, all the passers-by had the same color, because to have a seamless transformation of one person from one camera to other camera the color should had been consistent, but if there were different colors the person would see the shift in color in another next camera. An algorithm is required to keep track of passers-by in all three cameras and give one consistent color to each individual; in this case every person will have their own dedicated color.
 
+\subsubsection{Mobile interaction improvement}
+The usability testing, which was conducted in the thesis showed that the mobile phone had performed extremely worst than body interaction technique, and this is a major issue for public displays that use mobile phone interaction, and there is a need to research in this field from different perspectives like, (1) \emph{usability issues}, the usability issues are shared with mobile device and public display at the same time, there is a need to create usability evaluation techniques to tackle usability issues on both devices simultaneously, (2) \emph{Interaction technique}, create and develop interaction techniques that could be as easy as body interaction technique with less amount of cognitive load to user, and (3) \emph{Technology support}, the use of technology should be in a way that could support most famous platforms and at the same time it should be secure and reliable. 
 
+As stated before, the finding in tourist information center shows that no one interacted with mobile devices during the five-day deployment, which was a serious issue that why passers-by did not interacted, and some of the apparent issues were \emph{Physical setup, security, limited technology knowledge, lack of smartphones}, this raises questions that how to design a space for mobile interaction and increase trust between advertiser and passers-by to allow them interact without any doubt. 
 
 
 
