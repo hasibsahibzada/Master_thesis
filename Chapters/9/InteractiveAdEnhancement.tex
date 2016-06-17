@@ -11,22 +11,22 @@
 
 \section{Introduction}
 
-The very first phase to get passers-by engaged with the display is the getting their attention first. In previous experiment during the course of five days, only \%12 of the entire of passers-by were attracted and engaged, there could be many reasons, (1) the passers-by could not see their silhouette until got very close to the display and camera and by that time the passers-by might have turned his/her face from the display without looking to their silhouette, (2) Passing by the screen happens within 2 or 3 seconds and that is not enough for passers-by to understand interactivity quickly.\hilight{get the quotation}, (3) from the observations made during three weeks, most passers-by turned their faces toward the table, which was located in front of the display, and walked around the table to look for books. 
+The very first phase to get passers-by engaged with the display is the getting their attention. In previous experiment during the course of five days, only \%12 of the entire of passers-by were attracted and engaged, there could be many reasons, (1) the passers-by could not see their silhouette until got very close to the display and camera and by that time the passers-by might have turned his/her face from the display without looking to their silhouette, (2) Passing by the screen happens within a short amount of second and that is not enough for passers-by to understand interactivity quickly, if the screen is large and placed in front it takes about 1.2 to understand interactivity \cite{LookingGlass}, but my display was in sideways and small, so i assume that it takes longer than 1.2 seconds to understand interactivity and by that time the passers-by has passed the screen, (3) from the observations made during three weeks, most passers-by turned their faces toward the table, which was located in front of the display, and walked around the table to look for books and even did not see the display.
 
-Because of the mentioned main issues and the attraction of less number of passers-by, this chapter discusses on the extended version of attracting attention design to enhance the attention level of passers-by who were far or at corner of display and still could be tracked by display. The chapter also discusses on the study design and evaluation of this technique and meanwhile compares this technique with the previous technique to see the effectiveness and advantages.
-
-
+In existing real scenarios like in the tourist information center, where I conducted the study, the display was placed at sideways, and there was no other way to change the location of display to be more in front of passers-by to have more attention of people, therefor I took this real time scenario and proposed an extended version of attracting attention design to enhance the attention level of passers-by, who were far or at corner of display and still could be tracked by display. The chapter also discusses on the study design and evaluation of this technique and meanwhile compares this technique with the previous technique to see the effectiveness and advantages.
 
 
 \section{Enhanced attracting attention}
-The change in the new version was to extend the tracking area about 180 degree around display, this would over come the issues pointed before, because when passers-by walk from the sides the camera can track them and the application can project their silhouette, by doing this there will be enough time for passers-by to get attracted while coming toward display.
+The change in the new version was to extend the tracking area about 180 degree around display, this would over come the issues pointed before, because when passers-by walk from the sides the camera can track them and the application can project their silhouette, by doing this there will be enough time for passers-by to get attracted while coming toward display. 
 
-To achieve this, three Kinect cameras were integrated in the sides and in the center of the display and the tracked passers-by silhouette images were stacked together and shown on the display, a person passing from the side could see his self at the side of the screen and when moving to the middle of the screen the application could smoothly transition the person from side camera to the center camera by having the same silhouette color, physically the cameras were positioned side-by-side, therefor there was a small gap for each camera range, which was also not perceivable by passers-by. See the picture bellow to have a glance to the design. 
+To achieve this, three Kinect cameras were integrated in the sides and in the center of the display and the tracked passers-by silhouette images were stacked together and shown on the display, a person passing from the side could see his self at the side of the screen and when moving to the middle of the screen the application could smoothly transition the person from side camera to the center camera by having the same silhouette color, physically the cameras were positioned side-by-side, therefor there was a small gap for each camera range, which was not perceivable by passers-by. Kinect cameras were tracking individually the users, so the user in the first Kinect was not the same user in the second Kinect and as a result Kinect would give different colors to the same user while passing by each camera, therefor only one color was chosen for all users so that they do not see the shift from camera to other. 
+
+See the diagram bellow that shows the physical setup including Kinect camera and their ranges, the diagram shows three different person standing at each camera range and the system has mapped their silhouette representation that all have the same color on the screen sections relative to their distance to the screen.
 
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.9\textwidth,height=7.5cm]{Figures/9/Kinect_Extended}
+    \includegraphics[width=0.9\textwidth,height=8cm]{Figures/9/Kinect_Extended}
     \caption{Attracting attention extended version.}%
     \label{fig:KinectExtended}%
 \end{figure}
@@ -37,7 +37,7 @@ The interaction design for the extended version is completely the same as the bo
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.9\textwidth,height=10cm]{Figures/9/enhanced_interaction_design}
+    \includegraphics[width=0.85\textwidth,height=7.5cm]{Figures/9/enhanced_interaction_design}
     \caption{Extended Interaction design}%
     \label{fig:KinectExtended}%
 \end{figure}
@@ -507,33 +507,26 @@ ANOVA reveals that there is also no statistical difference between these conditi
 (\emph{(F2,3)=1.667, p >.05 (p=0.266)})
 
 
-
-
-
-
-
 \end{enumerate}
 
 
-
+\newpage
 \section{Discussions}
+The increase in attention level, which was higher than old body advertisement version could have many reasons, (1)\emph{Wide angle tracking}, the wide angle of display tracking, in which participants could see themselves from different angles (left, center and right) if they had missed the left, there was still chance to see the center or vice versa, and (2) \emph{Exposure time}, the time passers-by were exposed to their silhouette in three cameras facing (left, center, right), was longer than exposure time with only one camera, normally it takes around 1.2 seconds to understand interactivity with silhouette with large screen that is in front of passers-by \cite{ LookingGlass}.
 
-The enhanced version of advertisement seemed to be more effective than other two conditions in terms of attracting attention. The number of glances was dramatically increased up to \%51, this was higher than old body advertisement version, one of the main reason could be the wide angle of display tracking, in which participants could see themselves from different angles (left, center and right) if they had missed the left, there was still chance to see the center or vice versa, and the second reason could be the time they were exposed to their silhouette, for normal passing by the screen it takes around 2 to 3 seconds and if there was one tracking camera, then the silhouette was projected for 2 to 3 seconds only, and if there are three cameras facing (left, center, right) then for all region minimum it would take 6 – 9 seconds, this time is enough to get user attention.
+Honeypot effect in the previous body interaction experiment and in this experiment did not seemed to be more strong, there could be many reasons for this, (1) \emph{Environment}, the display is situated in a touristic place, where people do not stay longer than staying in restaurant or some other gatherings, people move in and out often times, (2) \emph{unfamiliarity}, people are not familiar with each other to wait or come near to the shoulder of other person to look what is going on, therefor they tend to ignore, (3) \emph{Personal interaction}, the interaction seemed more personal and single user,  and was not vast to be observed by others quickly, (4) \emph{display size}, screen size was also small and passers-by might have not noticed the interactions of people.
 
-The number of engaged people were also increased from \%12 to \%15, which was scientifically more than body interactive, and it was double in the compared to non-interactive (\%7) of the engaged passers-by. 
-
-
-
-Honeypot effect in the previous body interaction experiment and in this experiment did not seemed to be more strong (meaning not more than 2 people were attracted at a time), there could be many reasons for this, (1) \emph{Environment}, the display is situated in a touristic place, where people do not stay longer than staying in restaurant or some other gatherings, people move in and out often times, (2) \emph{unfamiliarity:}, people are not familiar with each other to wait or come near to the shoulder of other person to look what is going on, therefor they tend to ignore, (3) \emph{Personal interaction}, the interaction seemed more personal and single user,  and was not vast to be observed by others quickly, (4) \emph{display size}, screen size was also small and passers-by might have not noticed the interactions of people.
-
-
-As mentioned before, landing effect happens, when the user notices interactivity after he passes by the screen, but in this enhanced version few honeypot effects happened, one of the reasons could be that, when the passer-by is walking from a far side of the display, he is noticing the interactivity before hand because he can see him self in the screen, and when he reaches near to the screen, he is aware of the interactivity for sure and would not perform landing, but by that time he would have two options (a) start interacting, or (b) ignore the interaction and pass by the screen.
-
-
+As mentioned before, landing effect happens, when the user notices interactivity after he passes by the screen, but in this enhanced version few honeypot effects happened, one of the reasons could be that, when the passer-by is walking from a far side of the display, he is noticing the interactivity before hand because he can see himself in the screen, and when he reaches near to the screen, he is aware of the interactivity for sure and would not perform landing, but by that time he would have two options (a) start interacting, or (b) ignore the interaction and pass by the screen.
 
 \section{Conclusion}
-In conclusion, this enhanced attracting attention technique for display would perform better than the technique that uses only one camera, the findings and comparison reveals that the technique has increased the attention level significantly, and consequently increased the number of engaged passers-by. Landing effect was decreased because of the tracking 180 degree coverage and passers-by early understood the interactivity and did not performed landing often. 
+In conclusion, this enhanced body interactive version performed significantly better than body interactive technique, it has increased the attention level of passers-by and dramatically raised the number of engaged people in front of display, but the number of landing and honeypot effects were not significant compared to body interactive. 
 
-As a future work, the silhouette color for individuals should be different and consisted to all cameras, when passing by from one side of display to other side. 
+In enhance version, the number of glances was \%51 against the number of ignores, it was very effective in attention level than other two conditions (non-interactive and body interactive), because the number of glances was almost double than non-interactive and \%10 increase than body interactive. The findings show that for a display positioned in a sideway, this technique can increase the attention level significantly than non-interactive display.
+
+The enhanced version also increased the number of engaged people up to\%15 of whole passers-by during three days, which the body interactive could not achieve in five days (\%12) and the findings state that the enhanced version significantly engaged people than body interactive, but the significance was not as strong as compared to non-interactive (\%7), which was above the double of percentage of engaged. 
+
+The above percentages might would have increased if the silhouette color was not the same for all passers-by, various silhouette color has an effect on the attention level and the motivation on passers-by, it would be very effective if this problem gets fixed in future. 
+
+
 
 
