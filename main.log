@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.1)  25 JUN 2016 15:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.1)  25 JUN 2016 15:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2745,66 +2745,6 @@ File: Figures/9/effects/calling_others.jpg Graphic file (type jpg)
 Package pdftex.def Info: Figures/9/effects/calling_others.jpg used on input lin
 e 271.
 (pdftex.def)             Requested size: 220.51323pt x 398.33302pt.
- [130 <./Figures/9/effects/landing.jpg>]
-Underfull \hbox (badness 2096) in paragraph at lines 277--286
-[][]\T1/cmr/m/n/10.95 Few of this call-ing ef-fect have oc-
- []
-
-
-Underfull \hbox (badness 1221) in paragraph at lines 277--286
-\T1/cmr/m/n/10.95 curred in this en-hanced ver-sion too, as
- []
-
-
-Underfull \hbox (badness 3019) in paragraph at lines 277--286
-\T1/cmr/m/n/10.95 you can see the pic-ture in the right,
- []
-
-
-Underfull \hbox (badness 1342) in paragraph at lines 277--286
-\T1/cmr/m/n/10.95 in frame (A) a lady was en-gaged with
- []
-
-
-Underfull \hbox (badness 1622) in paragraph at lines 277--286
-\T1/cmr/m/n/10.95 the screen for a while and is stand-ing
- []
-
-
-Underfull \hbox (badness 1742) in paragraph at lines 277--286
-\T1/cmr/m/n/10.95 in the mid-dle of the screen, and then
- []
-
-
-Underfull \hbox (badness 1817) in paragraph at lines 277--286
-\T1/cmr/m/n/10.95 far from the dis-play and is busy with
- []
-
-
-Underfull \hbox (badness 2970) in paragraph at lines 277--286
-\T1/cmr/m/n/10.95 look-ing to some books, she turns her
- []
-
-
-Underfull \hbox (badness 3148) in paragraph at lines 277--286
-\T1/cmr/m/n/10.95 seems to be talk-ing to him in frame
- []
-
-
-Underfull \hbox (badness 2150) in paragraph at lines 277--286
-\T1/cmr/m/n/10.95 moves to-ward the screen in frame (D)
- []
-
-
-Underfull \hbox (badness 2547) in paragraph at lines 277--286
-\T1/cmr/m/n/10.95 while the lady is back busy with the
- []
-
-
-Underfull \hbox (badness 1509) in paragraph at lines 277--286
-\T1/cmr/m/n/10.95 space for him to let him see by mov-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 277--286
 
@@ -2845,10 +2785,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--286
 
  []
 
+[130 <./Figures/9/effects/landing.jpg>]
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--286
-
- []
+Package wrapfig Warning: Collision between wrapping environments on input line 
+294.
 
 <Figures/9/effects/noticing_earlier.jpg, id=2793, 602.25pt x 1053.9375pt>
 File: Figures/9/effects/noticing_earlier.jpg Graphic file (type jpg)
@@ -2858,87 +2798,16 @@ Package pdftex.def Info: Figures/9/effects/noticing_earlier.jpg used on input l
 ine 297.
 (pdftex.def)             Requested size: 198.45824pt x 256.07002pt.
 
-Underfull \hbox (badness 2126) in paragraph at lines 303--305
-\T1/cmr/m/n/10.95 ing ef-fect to-ward the screen and started
- []
-
-
-Underfull \hbox (badness 2809) in paragraph at lines 303--305
-\T1/cmr/m/n/10.95 in-ter-act-ing, this ef-fect might be be-cause
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 303--305
-\T1/cmr/m/n/10.95 of when they were pass-ing by the screen
- []
-
-
-Underfull \hbox (badness 5878) in paragraph at lines 303--305
-\T1/cmr/m/n/10.95 the first cam-era, which was faced to-
- []
-
-
-Underfull \hbox (badness 3724) in paragraph at lines 303--305
-\T1/cmr/m/n/10.95 ward the side of the dis-play, so it is
- []
-
-
-Underfull \hbox (badness 8056) in paragraph at lines 303--305
-\T1/cmr/m/n/10.95 as-sumed that they un-der-stood the in-
- []
-
-
-Underfull \hbox (badness 5652) in paragraph at lines 303--305
-\T1/cmr/m/n/10.95 ter-ac-tiv-ity and then came in the cen-
- []
-
-
-Underfull \hbox (badness 3590) in paragraph at lines 303--305
-\T1/cmr/m/n/10.95 ter of the dis-play and started in-ter-act-
- []
-
-
-Underfull \hbox (badness 5533) in paragraph at lines 303--305
-\T1/cmr/m/n/10.95 ing. As can be seen from the im-
- []
-
-
-Underfull \hbox (badness 2486) in paragraph at lines 303--305
-\T1/cmr/m/n/10.95 age at the left side, a per-son is walk-
- []
-
-
-Underfull \hbox (badness 2221) in paragraph at lines 303--305
-\T1/cmr/m/n/10.95 ing by from the left side in frame (A)
- []
-
-
-Underfull \hbox (badness 5954) in paragraph at lines 303--305
-\T1/cmr/m/n/10.95 and gets closer and closer to-ward the
- []
-
-
-Underfull \hbox (badness 4913) in paragraph at lines 303--305
-\T1/cmr/m/n/10.95 mid-dle of the screen, he is not pass-
- []
-
-
-Underfull \hbox (badness 7221) in paragraph at lines 303--305
-\T1/cmr/m/n/10.95 ing by the screen by he in-ten-tion-ally
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 303--305
 
  []
 
+[131 <./Figures/9/effects/calling_others.jpg>]
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--305
+Package wrapfig Warning: Collision between wrapping environments on input line 
+314.
 
- []
-
-[131 <./Figures/9/effects/calling_others.jpg> <./Figures/9/effects/noticing_ear
-lier.jpg>] <Figures/9/effects/playing.jpg, id=2799, 602.25pt x 1204.5pt>
+<Figures/9/effects/playing.jpg, id=2799, 602.25pt x 1204.5pt>
 File: Figures/9/effects/playing.jpg Graphic file (type jpg)
 
 <use Figures/9/effects/playing.jpg>
@@ -2974,19 +2843,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 335--336
 
  []
 
-[132 <./Figures/9/effects/playing.jpg>]
+[132 <./Figures/9/effects/noticing_earlier.jpg> <./Figures/9/effects/playing.jp
+g>]
 Overfull \hbox (32.27162pt too wide) in paragraph at lines 420--421
 []\T1/cmr/m/n/10.95 ANOVA re-veals that there was sta-tis-ti-cal dif-fer-ence b
 e-tween these con-di-tions, (\T1/cmr/m/it/10.95 (F2,3)=20.3154,
  []
 
-
+[133]
 Overfull \hbox (11.7999pt too wide) in paragraph at lines 444--445
 \T1/cmr/m/n/10.95 ac-tive) ad-ver-tise-ment ac-cord-ingly. Post-hoc Tukey com-p
 uted the crit-i-cal value(Studentized
  []
 
-[133] [134]) [135]
+[134] [135]) [136]
 \openout2 = `Chapters/10/Conclusion.aux'.
 
  (./Chapters/10/Conclusion.tex
@@ -2997,7 +2867,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 2--2
  []
 
 1: section
-[136
+[137
 
 
 
@@ -3007,34 +2877,34 @@ Overfull \hbox (5.60329pt too wide) in paragraph at lines 23--25
 o-bile) and non-interactive
  []
 
-[137] [138] [139] [140] [141] [142] [143]) [144] (./main.bbl
+[138] [139] [140] [141] [142] [143] [144]) [145] (./main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 42--45
 []\T1/cmr/m/n/10.95 Standford, At-ten-tion, Chap-ter 3, []$\T1/cmtt/m/n/10.95 h
 ttp : / / www-[]psych . stanford . edu / ashas /
  []
 
 1: section
-[145
+[146
 
 
-] [146]
+] [147]
 Underfull \hbox (badness 4886) in paragraph at lines 164--168
 []\T1/cmr/m/n/10.95 Tommy Walker \T1/cmr/m/it/10.95 The 14 types of on-line mar
 -ket-ing []$\T1/cmtt/m/n/10.95 http : / / tommy . ismy . name /
  []
 
-[147]
+[148]
 Underfull \hbox (badness 1308) in paragraph at lines 293--296
 []\T1/cmr/m/n/10.95 B. Con-gle-ton. \T1/cmr/m/it/10.95 Pros-pero ^^U A ^^PVi-su
 al Com-mons^^Q Frame-work for Pub-lic Dis-plays,
  []
 
-[148] [149] [150]) [151]
+[149] [150] [151]) [152]
 \openout2 = `Appendices/Appendix.aux'.
 
  (./Appendices/Appendix.tex
 1: section
-[152
+[153
 
 
 
@@ -3045,7 +2915,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 10--10
 [][][][][][][][][]  
  []
 
-<Appendices/3/Glance_Count_Method.pdf, id=2961, 794.97pt x 614.295pt>
+<Appendices/3/Glance_Count_Method.pdf, id=2965, 794.97pt x 614.295pt>
 File: Appendices/3/Glance_Count_Method.pdf Graphic file (type pdf)
 
 <use Appendices/3/Glance_Count_Method.pdf>
@@ -3054,37 +2924,37 @@ e 18.
 (pdftex.def)             Requested size: 441.03162pt x 284.52878pt.
 
 1: section
-[153
+[154
 
  <./Appendices/3/Glance_Count_Method.pdf>]
-<Appendices/3/Consent_form.pdf, id=2988, 601.53438pt x 492.64833pt>
+<Appendices/3/Consent_form.pdf, id=2992, 601.53438pt x 492.64833pt>
 File: Appendices/3/Consent_form.pdf Graphic file (type pdf)
 
 <use Appendices/3/Consent_form.pdf>
 Package pdftex.def Info: Appendices/3/Consent_form.pdf used on input line 55.
 (pdftex.def)             Requested size: 441.01643pt x 426.80397pt.
- [154]
-<Appendices/3/good_ad.jpg, id=2994, 931.48pt x 548.0475pt>
+ [155]
+<Appendices/3/good_ad.jpg, id=2999, 931.48pt x 548.0475pt>
 File: Appendices/3/good_ad.jpg Graphic file (type jpg)
 
 <use Appendices/3/good_ad.jpg>
 Package pdftex.def Info: Appendices/3/good_ad.jpg used on input line 64.
 (pdftex.def)             Requested size: 441.00784pt x 277.40154pt.
- [155 <./Appendices/3/Consent_form.pdf>]
-<Appendices/3/bad_ad.jpg, id=3033, 1038.88126pt x 669.50125pt>
+ [156 <./Appendices/3/Consent_form.pdf>]
+<Appendices/3/bad_ad.jpg, id=3037, 1038.88126pt x 669.50125pt>
 File: Appendices/3/bad_ad.jpg Graphic file (type jpg)
 
 <use Appendices/3/bad_ad.jpg>
 Package pdftex.def Info: Appendices/3/bad_ad.jpg used on input line 73.
 (pdftex.def)             Requested size: 441.00351pt x 312.08104pt.
- [156 <./Appendices/3/good_ad.jpg> <./Appendices/3/bad_ad.jpg>]
+ [157 <./Appendices/3/good_ad.jpg> <./Appendices/3/bad_ad.jpg>]
 Appendix B.
 
 Overfull \hbox (10.0pt too wide) in paragraph at lines 82--82
 [][][][][][][][][]  
  []
 
-<Appendices/4/sk1.png, id=3038, 302.5704pt x 416.757pt>
+<Appendices/4/sk1.png, id=3042, 302.5704pt x 416.757pt>
 File: Appendices/4/sk1.png Graphic file (type png)
 
 <use Appendices/4/sk1.png>
@@ -3092,29 +2962,29 @@ Package pdftex.def Info: Appendices/4/sk1.png used on input line 88.
 (pdftex.def)             Requested size: 441.02426pt x 554.80766pt.
 
 1: section
-[157
+[158
 
-] <Appendices/4/sk2.png, id=3043, 302.5704pt x 416.757pt>
+] <Appendices/4/sk2.png, id=3047, 302.5704pt x 416.757pt>
 File: Appendices/4/sk2.png Graphic file (type png)
 
 <use Appendices/4/sk2.png>
 Package pdftex.def Info: Appendices/4/sk2.png used on input line 97.
 (pdftex.def)             Requested size: 441.02426pt x 554.80766pt.
- [158 <./Appendices/4/sk1.png>]
-<Appendices/4/sk3.png, id=3049, 289.08pt x 418.2024pt>
+ [159 <./Appendices/4/sk1.png>]
+<Appendices/4/sk3.png, id=3053, 289.08pt x 418.2024pt>
 File: Appendices/4/sk3.png Graphic file (type png)
 
 <use Appendices/4/sk3.png>
 Package pdftex.def Info: Appendices/4/sk3.png used on input line 107.
 (pdftex.def)             Requested size: 441.04263pt x 554.81747pt.
- [159 <./Appendices/4/sk2.png>] [160 <./Appendices/4/sk3.png>]
+ [160 <./Appendices/4/sk2.png>] [161 <./Appendices/4/sk3.png>]
 Appendix C.
 
 Overfull \hbox (10.0pt too wide) in paragraph at lines 115--115
 [][][][][][][][][]  
  []
 
-<Appendices/5/Coded_Interview.pdf, id=3060, 845.1575pt x 597.23125pt>
+<Appendices/5/Coded_Interview.pdf, id=3065, 845.1575pt x 597.23125pt>
 File: Appendices/5/Coded_Interview.pdf Graphic file (type pdf)
 
 <use Appendices/5/Coded_Interview.pdf>
@@ -3123,7 +2993,7 @@ Package pdftex.def Info: Appendices/5/Coded_Interview.pdf used on input line 12
 (pdftex.def)             Requested size: 441.01775pt x 311.6556pt.
 
 1: section
-[161
+[162
 
  <./Appendices/5/Coded_Interview.pdf>]
 Appendix D.
@@ -3132,7 +3002,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 132--132
 [][][][][][][][][]  
  []
 
-<Appendices/6/Body_Interaction.pdf, id=3097, 2279.51625pt x 1367.1075pt>
+<Appendices/6/Body_Interaction.pdf, id=3101, 2279.51625pt x 1367.1075pt>
 File: Appendices/6/Body_Interaction.pdf Graphic file (type pdf)
 
 <use Appendices/6/Body_Interaction.pdf>
@@ -3145,14 +3015,14 @@ $[]$
  []
 
 1: section
-[162
+[163
 
 ]
 Overfull \vbox (23.40028pt too high) has occurred while \output is active []
 
 
-[163 <./Appendices/6/Body_Interaction.pdf>]
-<Appendices/6/mobile_Interaction.pdf, id=3116, 2056.68375pt x 1429.34pt>
+[164 <./Appendices/6/Body_Interaction.pdf>]
+<Appendices/6/mobile_Interaction.pdf, id=3120, 2056.68375pt x 1429.34pt>
 File: Appendices/6/mobile_Interaction.pdf Graphic file (type pdf)
 
 <use Appendices/6/mobile_Interaction.pdf>
@@ -3164,22 +3034,22 @@ Overfull \hbox (61.7422pt too wide) in paragraph at lines 151--161
 $[]$ 
  []
 
-<Appendices/6/body_performance.png, id=3117, 570.4512pt x 285.7074pt>
+<Appendices/6/body_performance.png, id=3121, 570.4512pt x 285.7074pt>
 File: Appendices/6/body_performance.png Graphic file (type png)
 
 <use Appendices/6/body_performance.png>
 Package pdftex.def Info: Appendices/6/body_performance.png used on input line 1
 69.
 (pdftex.def)             Requested size: 441.02446pt x 242.73035pt.
- [164 <./Appendices/6/mobile_Interaction.pdf>] <Appendices/6/mobile_performance
-.png, id=3132, 570.4512pt x 285.7074pt>
+ [165 <./Appendices/6/mobile_Interaction.pdf>] <Appendices/6/mobile_performance
+.png, id=3136, 570.4512pt x 285.7074pt>
 File: Appendices/6/mobile_performance.png Graphic file (type png)
 
 <use Appendices/6/mobile_performance.png>
 Package pdftex.def Info: Appendices/6/mobile_performance.png used on input line
  178.
 (pdftex.def)             Requested size: 441.02446pt x 242.73035pt.
- [165 <./Appendices/6/body_performance.png> <./Appendices/6/mobile_performance.
+ [166 <./Appendices/6/body_performance.png> <./Appendices/6/mobile_performance.
 png>]
 Appendix E.
 
@@ -3187,7 +3057,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 184--184
 [][][][][][][][][]  
  []
 
-<Appendices/8/whole_week_interivew.pdf, id=3139, 597.23125pt x 845.1575pt>
+<Appendices/8/whole_week_interivew.pdf, id=3143, 597.23125pt x 845.1575pt>
 File: Appendices/8/whole_week_interivew.pdf Graphic file (type pdf)
 
 <use Appendices/8/whole_week_interivew.pdf>
@@ -3196,10 +3066,10 @@ ne 194.
 (pdftex.def)             Requested size: 441.02379pt x 554.8138pt.
 
 1: section
-[166
+[167
 
 ]
-<Appendices/8/non-interactive/non-interactive_glances.pdf, id=3144, 597.23125pt
+<Appendices/8/non-interactive/non-interactive_glances.pdf, id=3149, 597.23125pt
  x 845.1575pt>
 File: Appendices/8/non-interactive/non-interactive_glances.pdf Graphic file (ty
 pe pdf)
@@ -3208,8 +3078,8 @@ Package pdftex.def Info: Appendices/8/non-interactive/non-interactive_glances.p
 df used on input line 204.
 (pdftex.def)             Requested size: 441.02379pt x 554.8138pt.
 
-[167 <./Appendices/8/whole_week_interivew.pdf>]
-<Appendices/8/body-interactive/body-interactive_glances.pdf, id=3176, 597.23125
+[168 <./Appendices/8/whole_week_interivew.pdf>]
+<Appendices/8/body-interactive/body-interactive_glances.pdf, id=3180, 597.23125
 pt x 845.1575pt>
 File: Appendices/8/body-interactive/body-interactive_glances.pdf Graphic file (
 type pdf)
@@ -3218,8 +3088,8 @@ type pdf)
 Package pdftex.def Info: Appendices/8/body-interactive/body-interactive_glances
 .pdf used on input line 214.
 (pdftex.def)             Requested size: 441.02379pt x 554.8138pt.
- [168 <./Appendices/8/non-interactive/non-interactive_glances.pdf>]
-<Appendices/8/mobile-interactive/mobile-interactive_glances.pdf, id=3204, 597.2
+ [169 <./Appendices/8/non-interactive/non-interactive_glances.pdf>]
+<Appendices/8/mobile-interactive/mobile-interactive_glances.pdf, id=3208, 597.2
 3125pt x 845.1575pt>
 File: Appendices/8/mobile-interactive/mobile-interactive_glances.pdf Graphic fi
 le (type pdf)
@@ -3228,8 +3098,8 @@ le (type pdf)
 Package pdftex.def Info: Appendices/8/mobile-interactive/mobile-interactive_gla
 nces.pdf used on input line 225.
 (pdftex.def)             Requested size: 441.02379pt x 554.8138pt.
- [169 <./Appendices/8/body-interactive/body-interactive_glances.pdf>]
-<Appendices/8/non-interactive/non-interactive_code.pdf, id=3231, 845.0471pt x 5
+ [170 <./Appendices/8/body-interactive/body-interactive_glances.pdf>]
+<Appendices/8/non-interactive/non-interactive_code.pdf, id=3235, 845.0471pt x 5
 97.51233pt>
 File: Appendices/8/non-interactive/non-interactive_code.pdf Graphic file (type 
 pdf)
@@ -3242,8 +3112,8 @@ Overfull \hbox (61.7422pt too wide) in paragraph at lines 233--243
 $[]$ 
  []
 
-[170 <./Appendices/8/mobile-interactive/mobile-interactive_glances.pdf>]
-<Appendices/8/body-interactive/body-Interactive_code.pdf, id=3258, 845.0471pt x
+[171 <./Appendices/8/mobile-interactive/mobile-interactive_glances.pdf>]
+<Appendices/8/body-interactive/body-Interactive_code.pdf, id=3262, 845.0471pt x
  597.51233pt>
 File: Appendices/8/body-interactive/body-Interactive_code.pdf Graphic file (typ
 e pdf)
@@ -3256,8 +3126,8 @@ Overfull \hbox (61.7422pt too wide) in paragraph at lines 246--256
 $[]$ 
  []
 
-[171 <./Appendices/8/non-interactive/non-interactive_code.pdf>]
-<Appendices/8/mobile-interactive/mobile-Interactive_code.pdf, id=3269, 845.0471
+[172 <./Appendices/8/non-interactive/non-interactive_code.pdf>]
+<Appendices/8/mobile-interactive/mobile-Interactive_code.pdf, id=3273, 845.0471
 pt x 597.51233pt>
 File: Appendices/8/mobile-interactive/mobile-Interactive_code.pdf Graphic file 
 (type pdf)
@@ -3271,8 +3141,8 @@ Overfull \hbox (61.7422pt too wide) in paragraph at lines 260--270
 $[]$ 
  []
 
-[172 <./Appendices/8/body-interactive/body-Interactive_code.pdf>]
-<Appendices/8/non-interactive/Observation_notes.pdf, id=3280, 597.23125pt x 845
+[173 <./Appendices/8/body-interactive/body-Interactive_code.pdf>]
+<Appendices/8/non-interactive/Observation_notes.pdf, id=3285, 597.23125pt x 845
 .1575pt>
 File: Appendices/8/non-interactive/Observation_notes.pdf Graphic file (type pdf
 )
@@ -3280,31 +3150,31 @@ File: Appendices/8/non-interactive/Observation_notes.pdf Graphic file (type pdf
 Package pdftex.def Info: Appendices/8/non-interactive/Observation_notes.pdf use
 d on input line 275.
 (pdftex.def)             Requested size: 441.02379pt x 554.8138pt.
- [173 <./Appendices/8/mobile-interactive/mobile-Interactive_code.pdf>]
-<Appendices/8/body-interactive/Note_1.pdf, id=3292, 597.23125pt x 845.1575pt>
+ [174 <./Appendices/8/mobile-interactive/mobile-Interactive_code.pdf>]
+<Appendices/8/body-interactive/Note_1.pdf, id=3296, 597.23125pt x 845.1575pt>
 File: Appendices/8/body-interactive/Note_1.pdf Graphic file (type pdf)
 
 <use Appendices/8/body-interactive/Note_1.pdf>
 Package pdftex.def Info: Appendices/8/body-interactive/Note_1.pdf used on input
  line 284.
 (pdftex.def)             Requested size: 441.02379pt x 554.8138pt.
- [174 <./Appendices/8/non-interactive/Observation_notes.pdf>]
-<Appendices/8/body-interactive/Note_2.pdf, id=3327, 597.23125pt x 845.1575pt>
+ [175 <./Appendices/8/non-interactive/Observation_notes.pdf>]
+<Appendices/8/body-interactive/Note_2.pdf, id=3332, 597.23125pt x 845.1575pt>
 File: Appendices/8/body-interactive/Note_2.pdf Graphic file (type pdf)
 
 <use Appendices/8/body-interactive/Note_2.pdf>
 Package pdftex.def Info: Appendices/8/body-interactive/Note_2.pdf used on input
  line 292.
 (pdftex.def)             Requested size: 441.02379pt x 554.8138pt.
- [175 <./Appendices/8/body-interactive/Note_1.pdf>]
-<Appendices/8/mobile-interactive/notetaking.pdf, id=3361, 597.23125pt x 845.157
+ [176 <./Appendices/8/body-interactive/Note_1.pdf>]
+<Appendices/8/mobile-interactive/notetaking.pdf, id=3365, 597.23125pt x 845.157
 5pt>
 File: Appendices/8/mobile-interactive/notetaking.pdf Graphic file (type pdf)
  <use Appendices/8/mobile-interactive/notetaking.pdf>
 Package pdftex.def Info: Appendices/8/mobile-interactive/notetaking.pdf used on
  input line 301.
 (pdftex.def)             Requested size: 441.02379pt x 554.8138pt.
- [176 <./Appendices/8/body-interactive/Note_2.pdf>] [177 <./Appendices/8/mobile
+ [177 <./Appendices/8/body-interactive/Note_2.pdf>] [178 <./Appendices/8/mobile
 -interactive/notetaking.pdf>]
 Appendix F.
 
@@ -3312,7 +3182,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 308--308
 [][][][][][][][][]  
  []
 
-<Appendices/9/new_body_glance.pdf, id=3428, 845.1575pt x 597.23125pt>
+<Appendices/9/new_body_glance.pdf, id=3432, 845.1575pt x 597.23125pt>
 File: Appendices/9/new_body_glance.pdf Graphic file (type pdf)
 
 <use Appendices/9/new_body_glance.pdf>
@@ -3320,7 +3190,7 @@ Package pdftex.def Info: Appendices/9/new_body_glance.pdf used on input line 31
 6.
 (pdftex.def)             Requested size: 441.03195pt x 346.74977pt.
 
-<Appendices/9/Observation_notes.pdf, id=3429, 597.23125pt x 845.1575pt>
+<Appendices/9/Observation_notes.pdf, id=3433, 597.23125pt x 845.1575pt>
 File: Appendices/9/Observation_notes.pdf Graphic file (type pdf)
 
 <use Appendices/9/Observation_notes.pdf>
@@ -3329,9 +3199,9 @@ Package pdftex.def Info: Appendices/9/Observation_notes.pdf used on input line
 (pdftex.def)             Requested size: 441.02379pt x 554.8138pt.
 
 1: section
-[178
+[179
 
- <./Appendices/9/new_body_glance.pdf>]) [179 <./Appendices/9/Observation_notes.
+ <./Appendices/9/new_body_glance.pdf>]) [180 <./Appendices/9/Observation_notes.
 pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 332.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 332.
@@ -3356,13 +3226,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 27016 strings out of 493089
- 573013 string characters out of 6134843
- 849821 words of memory out of 5000000
+ 27017 strings out of 493089
+ 573021 string characters out of 6134843
+ 849819 words of memory out of 5000000
  28874 multiletter control sequences out of 15000+600000
  35854 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,21n,78p,10377b,1004s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,21n,78p,10377b,1004s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texl
@@ -3393,10 +3263,10 @@ r/sfti1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/
 sftt0900.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sf
 tt1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.
 pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on main.pdf (193 pages, 36595519 bytes).
+Output written on main.pdf (194 pages, 36595601 bytes).
 PDF statistics:
- 3801 PDF objects out of 4296 (max. 8388607)
- 3251 compressed objects within 33 object streams
- 1014 named destinations out of 1200 (max. 500000)
+ 3806 PDF objects out of 4296 (max. 8388607)
+ 3255 compressed objects within 33 object streams
+ 1015 named destinations out of 1200 (max. 500000)
  2156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
