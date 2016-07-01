@@ -5,10 +5,12 @@
 \newpage
 
 \section{Introduction}
-The use of technology in advertisement plays a major role in advertisement industries, it would have been much difficult to reach to their customers without technologies, and technology enhances the two-way communication with client and customers. The companies can now easily express their thoughts and vision to their customers with the use new technologies. Advertisement are everywhere like in websites, in your smartphone, in television and radio and especially from past decade it is more common on the streets, supermarkets, airports and areas where is crowded, so for every context or setting there are set of technologies that are being used to make the advertisement more appropriate, and when it comes to interactive advertisement the use of right technology plays another major role in terms of usability and understandability, interactive advertisement in websites are usually interactive using keyboard and mouse, in smartphone they are using the capability of the touch or other sensors to make the interaction easy, and interactive advertisement in public space has again another bunch of technologies that could make the interaction usable like using face recognition, body and position recognition, hand gesture recognition and also touch sensors, proximity sensors and much more.
+The use of technology in advertisement plays a major role in advertisement industries. It would have been much difficult to reach to customers without technologies, and technology enhances the two-way communication with the client and the customers. The companies can now easily express their thoughts and vision to their customers with the help of the latest technologies. Advertisements are everywhere, in websites, in your smartphone, in television and radio. Since the last decade, it is more common to see advertisements on the streets, in supermarkets, airports and any place of public gatherings.
+So, for every context or settings there are different kinds of technology that are being used to make the advertisement more appropriate. When it comes to interactive advertisement, the use of right technology plays another major role in terms of usability and understandability. Interactive advertisements on websites are usually interactive using keyboard and mouse, whereas in smartphone, advertisements use only the capability of the touch or other sensors to make the interaction easy. Interactive advertisements in public spaces have another bunch of technologies that make the interaction usable like using face recognition, body position recognition, hand gesture recognition and also touch sensors, proximity sensors and much more.
 
 
-This chapter explains all the technical aspects of advertisement system that were developed during the thesis work for attracting attention application and main advertisement application, it discusses what technologies and hardware had been used and what algorithm and methods were implemented to accomplish the goals. Beside the technical details it describes the interaction design of interactive advertisement display.
+This chapter explains all the technical aspects of the advertisements system that were developed during the thesis work for attracting attention and the main advertisement application. It discusses what technologies and hardware have been used and what algorithm and methods were implemented to accomplish the goals. Besides the technical details it describes the interaction design of interactive advertisement.
+
 
 
 \iffalse
@@ -55,14 +57,14 @@ For more detail please check the CD for source code.
 \section{Applications}
 
 \subsection{Silhouette representation}
-The reason behind silhouette representation of passers-by was to attract their attention toward the display. There are a lot of body sensing technologies, and the most easy way was to use Microsoft Kinect camera \footnote{Microsoft Kinect: https://developer.microsoft.com/de-de/windows/kinect, last accessed 5 jun 2016}, that has built-in algorithm to track people, the camera has a resolution of 640x480 pixels. I created the colored silhouette representation from the \emph{UserMap} array sent by camera, which is a 1xD integer array that corresponds to the pixels of the image, the array looks like below \\
+The reason behind silhouette representation of passersby was to attract their attention toward the display. There are a lot of body sensing technologies, and the most easy way was to use Microsoft Kinect camera\footnote{Microsoft Kinect: https://developer.microsoft.com/de-de/windows/kinect, last accessed 5 jun 2016}, that has built-in algorithm to track people. The camera has a resolution of 640x480 pixels. I created the colored silhouette representation from the \emph{UserMap} array sent by the camera, which was a 1xD integer array that corresponds to the pixels of the image. The array looks like below \\
 
 \emph {Int upix = context.userMap();}
 
 \emph{upix = [1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,-1,-1,-1,-1,-1,-1,2,2,2,2,....]}
 
-The above example shows the structure of the array, the index of the elements of array correspond to the pixel number of image and the element values correspond to the user id standing in front of the camera, the user id is always above zero, any value which is not above zero in fact could be background or non-user pixel, the example shows that there are at least two people standing in front of the camera, which has user id (1 and 2) the -1 value is a non-user pixels. 
-So the application iterates to this array and assigns specific color to each of the pixels of the user image and does not give color to the non-user pixels, and after assigning the color value to each index of the user in the picture and leave out the background as null, the below picture will be created.
+The above example shows the structure of the array, the index of the elements of the array correspond to the pixel number of image, and the element values correspond to the user ID tracked by the camera. The user ID is always above zero, any value that is not above zero could be related to background or non-user pixel. The example shows that there are at least two people standing in front of the camera, which have user ID (1 and 2), the -1 value is a non-user pixels. 
+So the application iterates to this array and assigns specific color to each of the pixels of the user image, and does not give color to the non-user pixels. After assigning the color value to each user in the picture and leave out the background as null, the below picture will be created.
 
 
 
@@ -97,20 +99,21 @@ So the application iterates to this array and assigns specific color to each of 
 \end{tabular}
 }
 \end{table}
-The above picture has very limited pixels; it is not an original picture but is made to clear the idea of how the coloring of silhouette  works.
-As you can see from above picture, the white areas or the -1 values are background and non-user and the remaining positive number represent the pixelse related to the user.
-Check the Silhouette video\footnote{Attraction attention method: \url{https://www.youtube.com/watch?v=1EtHVqS412M}, last accessed 5 jun 2016} and For more information about the source codes, please refer to the DVD.
+
+The above picture has very limited pixels. It is not an original picture but is made to clear the idea of how the coloring of silhouette works. From the above picture, the white areas or the -1 values are background and non-user and the remaining positive numbers represent the pixels related to the user.
+Check the Silhouette video\footnote{Attraction attention method: \url{https://www.youtube.com/watch?v=1EtHVqS412M}, last accessed 5 jun 2016}. For more information about the source codes, please refer to the DVD.
 
 
 \subsection{Main advertisement application}
 In this section the main advertisement applications are being discussed.
 According to the plane there was a need to develop three-advertisement application (non-interactive, body interactive and mobile interactive), which had the same functionality but were different in terms of interactivity and control.
 
-The advertisement application was designed to show important places of Bauhaus that were included in Bauhaus-Walk tour, the pictures of these places are attached on top of the Weimar map with a name on top and a small description at below this technique helps participants to build a relationship of location and the map, only five locations are randomly chosen by the software to be shown on the map, each come one after another and when all the locations are explored then the advertisement video will be played and after that the application will repeat it self.
+The advertisement application was designed to show important places of \emph{Bauhaus} that are included in \emph{Bauhaus-Walk} tour, the pictures of these places are attached on the Weimar map with a name at top and a small description below of the picture frame. This technique helps participants to build a relationship of the locations and the map. Only five locations are randomly chosen by the software to be shown on the map, each animates one after another and. When all the locations are explored then the advertisement video is played and the application repeats itself again.
 
 
 \subsubsection{Non-Interactive application}
-As can be understood from the name, the application is not influenced by the passers-by but triggers automatically, it automates through whole three hierarchical levels of interfaces, (1)Initial interface, (2) Map interface, and (3) the advertisement video interface, all the interfaces have a fixed time in which it will switch from one to another, see the below figure.
+It can be understood from the name, passersby have no control over the flow of this advertisement, but it triggers automatically. It automates through whole three hierarchical levels of interfaces, (1) Initial interface, (2) Map interface, and (3) the advertisement video interface. All the interfaces have a fixed time in which it will switch from one to another. Watch this Video\footnote{Non-interactive advertisement: \url{https://www.youtube.com/watch?v=ZLszzfbZJgI}, last accessed 1 july 2016} to see the flow of the interfaces.
+
 
 \begin{figure}[H]
     \centering
@@ -122,7 +125,7 @@ As can be understood from the name, the application is not influenced by the pas
 \begin{enumerate}
 
 \item Initial Interface: \\
-Initial interface of advertisement shows is the \emph{Gropius walter} room, and the Bauhaus-Walk name on the upper left side, and the Bauhaus University logo at the bottom right.
+The initial interface of the advertisement shows the \emph{Gropius walter} room, the \emph{Bauhaus-Walk} name on the upper left side, and the Bauhaus University logo at the bottom right corner.
 
 \begin{figure}[H]
     \centering
@@ -177,7 +180,8 @@ This is the last frame of the video that shows information about how and where t
 
 The advertisement video was created in PowToon\footnote{PowToon: \url{https://www.powtoon.com/index/?gclid=CJqSqrf5l80CFesV0wod1u8IEQ&edgetrackerid=10083804111572}, last accessed 5 jun 2016} with a free version account, visit this video\footnote{Advertisement Video:  \url{https://www.youtube.com/watch?v=-y1Dbz6E6bU&feature=youtu.be}, last accessed 5 jun 2016} that shows the advertisement video or browse the animation from the DVD. 
 
-To see the full non-interactive advertisement flow of interfaces and its animations visit this video\footnote{Non-interactive Ad: \url{https://www.youtube.com/watch?v=ZLszzfbZJgI}, last accessed: 5 Jun 2016} or browse the video from DVD.
+To see the full the non-interactive advertisement flow of the interfaces and its animations visit this video\footnote{Non-interactive Ad: \url{https://www.youtube.com/watch?v=ZLszzfbZJgI}, last accessed: 5 Jun 2016} or browse the video from DVD.
+
 
 \end{enumerate}
 
@@ -216,12 +220,12 @@ The below setup is the hardware setup for the advertisement. The same setup is u
 
 
 \subsubsection{Body Interactive application}
-As discussed earlier there are three interfaces or phases (initial interface, map interface and advertisement video) of the application, and in body interaction the same interfaces are used, but with a difference of interactivity, the first two interfaces are interactive and allows participants to interact with using their body with the advertisement, in this case exploring the interest points on the map by moving physically (forward, backward, right and left) in front of the screen. Kinect camera is used to track user’s body position.
+As discussed earlier, there are three interfaces or phases (initial interface, map interface and advertisement video) of the application, and in body interaction the same interfaces are used, but two of them are interactive. The first two interfaces are interactive and allow participants to interact with using their body like exploring the interest points on the map by moving physically (forward, backward, right and left) in front of the screen. The last interface shows advertisement video, which is not interactive.  All the interfaces are explained in the following sections.
 
 \begin{enumerate}
 
-\item Initial Interface (Call-to-Action) : \\
-This interface is basically the same interface as non-interactive but with a difference, that it projects passers-by silhouette on interface, this interface is also called \emph{call-to-action} interface because it calls passers-by to interact with the screen, as you can see below there is someone standing in front of the screen and the interface calls him to come near. This interface also has alert messages on the top right that alerts the participant if they move away from the camera range, in this example a second person had got untracked from the camera and the system pops that message to raise his hand to be tracked again.
+\item Initial Interface (\emph{Call-to-Action}) : \\
+This interface is basically the same interface as the non-interactive but with a difference. It projects passersby silhouette on the interface, this interface is also called \emph{Call-to-Action} interface because it calls passers-by to interact with the screen. As can be seen in the below picture, there is someone standing in front of the screen and the interface calls him to come near. This interface also has alert messages on the top right corner of screen that alerts the participant if they move away from the camera range. In this example a second person had got untracked from the camera and the system has shown that message to raise his hand to be tracked again.
 
 \begin{figure}[H]
     \centering
@@ -232,13 +236,13 @@ This interface is basically the same interface as non-interactive but with a dif
 
 
 \item Transition to Map Interfaces: \\
-The transition happens when the person stands close to the screen for more than 3 seconds and the below process happen.
+The transition happens when the person stands close to the screen for more than 3 seconds and the processes is as follow.
 
 \begin{enumerate}
 \item Loading animation:\\
-  The loading animation is implemented to show reaction to the action of the participants, and at the same time participants waits for something to be loaded.
+ The loading animation is a reaction to the action of the participants, which gives the user a clue that the interaction will be started. 
 \item Scaling down the silhouette: \\
-To walk freely on the map environment and to give the participant the feeling of real walking, the participant's silhouette is scaled down, the scaling happens smoothly frame-by-frame.
+To walk freely on the map environment and to give the participant the feeling of real walking. The participant's silhouette is scaled down, the scaling happens smoothly frame-by-frame.
 \item Show task instruction:  \\
 Every interaction has instructions, the instruction is fairly very easy and it is simplified in one sentence to explore locations on the map.
 \end{enumerate}
@@ -267,10 +271,11 @@ Every interaction has instructions, the instruction is fairly very easy and it i
     \label{fig:transition_sequence}
 \end{figure}
 
-As can be seen in picture A, the person is close to the screen and the loading animation is started, in picture B the person silhouette is being scaled down (in this example the silhouette color is green) and in picture C the instruction is shown.
+The picture A shows that the person is close to the screen and the loading of the animation begins. In picture B, the person's silhouette is being scaled down (in this example the silhouette color is green) and in picture C, the instructions are shown.
+
 
 \item Map Interface (Interaction): \\
-In this interface participant can interact with the elements on the map. In below picture, the silhouette has visited two locations therefor has 2/5 score, to finish the interaction he needs to visit all the location or the timer(40 seconds) on the corner right will be over.\begin{figure}[H]
+In this interface participants can interact with the elements on the map. In the below picture, the silhouette has visited two locations therefor has 2/5 score, to finish the interaction he needs to visit all the location or the timer(40 seconds) on the corner right will be over.\begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth,height=70mm]{Figures/7/body_interactive/second_interface}
     \caption{Map Interface}%
@@ -278,7 +283,7 @@ In this interface participant can interact with the elements on the map. In belo
 \end{figure}
 
 \item Advertisement video:\\
-The same advertisement video, which was for non-interactive, is shown after the interaction is overed.
+The same advertisement video, which was for non-interactive, is shown after the interaction is completed.
 
 \end{enumerate}
 
@@ -314,9 +319,8 @@ In this application, the display interface is absolutely the same as the other t
 
 \begin{enumerate}
 
-\item Initial Interface (Call-to-Action) : \\
-This interface is designed in such a way to attract passers-by and also guide the participant on how to use their smartphone to access the advertisement application. The attraction is again the same method that was used for body, the passers-by silhouette is projected at the back of Access information. The interface has QR code that could be easy to be scanned instead of typing the whole IP address, and there is an alert area, that gets activated when a logged in person has not turned their phone in landscape orientation.
-
+\item Initial Interface (\emph{Call-to-Action}) : \\
+This interface is designed in such a way to attract passers-by and also guide the participants on how to use their smartphone to access the advertisement application. The attraction is again the same method that was used for the body, the passers-by silhouette is projected at the back of Access information. The interface has a QR code that could be easily scanned instead of typing the whole IP address. There is an alert area that gets activated when a logged in person has not turned their phone in landscape orientation.
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth,height=70mm]{Figures/7/mobile_interactive/first_interface}
@@ -327,11 +331,11 @@ This interface is designed in such a way to attract passers-by and also guide th
 
 
 \item Transition to Map Interface: \\
-The user should login to the advertisement system and open the interaction controller and hold the mobile in landscape mode and then the below process will be triggered. 
+The user should login to the advertisement system, open the interaction controller, hold the mobile in landscape mode and then the following process will be triggered. 
 
 \begin{enumerate}
 \item Loading animation:\\
- The loading animation is a reaction to the action of the participants, and at the same time participants waits for something to be loaded.
+The loading animation is a reaction to the action of the participants, which gives the user a clue that the interaction will be started. 
 \item  Creating Colored cursor: \\
 A colored circle will be created for the participant in the center of the screen; each participant would have different colors matching to their controller interface in their phone.
 \item Show task instruction:  \\
@@ -362,7 +366,7 @@ In picture (A) a user has logged in and the screen is loading, in picture (B) th
 
 
 \item Map Interface (Interaction): \\
-Map interface is interactive for the participants; participants can navigate the cursor using their phone controller page. As can be seen in below picture, the user is controlling the cursor and has explored one location, the user's defined name is also shown on the cursor, to provide a hint that they have reached an interest point a small circle is shown to determine the area of that interest point. The interaction finishes when all the locations are explored or the interaction time (40 seconds) gets over.
+This interface is where the users interact with the map; participants can navigate using the controller page on their phones. The image \ref{fig:mobile_secondinterface} displays that the user is controlling the cursor and has explored one location. The user's defined login name is also shown on the cursor to provide a hint that he/she is his circle. To reach an interest point a small circle is shown to determine the area of intersection. The interaction finishes when all the locations are explored or the interaction time (40 seconds) gets over.
 
 
 \begin{figure}[H]
@@ -373,11 +377,11 @@ Map interface is interactive for the participants; participants can navigate the
 \end{figure}
 
 \item Advertisement video:\\
-The same advertisement video, which was for non-interactive, is shown after the interaction is overed.
+The same advertisement video used for non-interactive is shown after the interaction is completed.
 
 
 \item Mobile interface: \\
-The interaction controller in smartphone is shown in below picture, the interface is very simply designed and has two elements, the cursor and the select button, with cursor the user can navigate inside the map for interest points and when reached on an interest point the participant presses the select button to explore that location, see the picture below.
+The interaction controller in the smartphone is shown below. The interface is very simply designed and has two elements, the cursor and the select button. With the cursor, the user can navigate inside the map to interest points and on reaching on an interest point the participant presses the select button to explore that location. 
 
 \begin{figure}[H]
     \centering
@@ -436,12 +440,12 @@ The below chart roughly shows the flow of the application.
 \fi
 
 \section{Interaction Design}
-The body interaction model is designed based on \emph{Audience funnel},  because it suites well for public setup like Tourist information center and advertising, with the design of this interaction model different levels of interactions and phases can be observed. Based on this model the three phases of the applications were designed (Call-to-Action, Interaction interface and ad video), this model attracts passers-by and gradually motivates them toward display for interaction to be engaged and at the same time it is convenient for passers-by to avoid the display. 
-
+The body interaction model is designed based on \emph{Audience funnel},  a it suites well for public setups like the Tourist information center and advertising. With the design of this interaction model different levels of interactions and phases can be observed. Based on this model the three phases of the applications were designed (\emph{Call-to-Action}, Interaction interface and ad video). This model attracts passersby and gradually motivates them toward the display to engage them in interaction and at the same time it is also convenient for the passers-by to avoid the display
 
 
 \subsection{Body Interaction Design}
-As can be seen in below diagram, that shows the display on top, the body-tracking area illustrated by a triangle, which is divided in two sections that is separated by dashed lines, (1) gray region defines the least interest regions, because in this area it is assumed that people maybe busy with other things around display, and people in this region can easily avoid the display and display will not motivate them for interaction, and (2) the highest interest region that it is assumed that people are aware of display and display would motivate them for interactions only if they are facing toward display.
+The diagram below shows the display at the top, the body-tracking area illustrated by a triangle. This triangle is divided into two sections that is separated by dashed lines, (1) gray region defines the least interest regions, because in this area it is assumed that people maybe busy with other things around the display, and people in this region can easily avoid the display and the display will not motivate them for interaction, and (2) the highest interest region, it is assumed that people are aware of the display and the display would motivate them for interactions only if they are facing towards display.
+
 
 \begin{figure}[H]
     \centering
@@ -451,27 +455,51 @@ As can be seen in below diagram, that shows the display on top, the body-trackin
 \end{figure}
 
 
-The model consists of seven phases, (1) Passing by phase, which demonstrates passers-by who are not in display tracking range, (2) Implicit Interaction phase, when passers-by are gray region of display tracking range but are far or at the side of the display, (3) Subtle interaction phase, where the user is in near and center area of tracking range and facing toward display, the system motivates the user for direction interaction with the call-to-action feature ``\emph{To play, Come near}'', (4) Direct body interaction phase, is when the user has actively started the game interaction and is playing, at this phase the whole tracking range (gray and white) could be used for direct interaction until the end of interaction phase. (5) Watch ad video phase, happens when the interaction is over and a short advertisement video is shown,(6)multi interaction phase, demonstrates that the user can perform interaction multiple times, and (7) Follow up action phase, is when the user leaves the display’s tracking range and performs other actions.
+The model consists of seven phases, each of them are explain in the following list.
 
-The Black curve below the diagram shows the transition of user between each phase and shows the flow of the attention, motivation, interaction and other phases. The attention is captured mainly in implicit interaction phase, the motivation occurs when the user is in subtle interaction phase and the interaction is when the user is directly playing with the his/her body in the entire tracking coverage area, after the interaction and watching ad video the curve changes direction to down which illustrates that the user would likely leave the interaction area and follow other actions unrelated to the screen. 
+\begin{enumerate}
+\item \emph{Passing by phase:} \\
+This phase demonstrates passersby, who are not in the display tracking range.
+
+\item \emph{Implicit Interaction phase:} \\
+This phase starts, when passersby are in tracking range but are standing far or at side of the display. 
+
+\item \emph{Subtle interaction phase:} \\
+In this phase, the user is in near or center area of tracking range and facing toward display. The system motivates the user for direction interaction with the \emph{Call-to-Action} feature (``\emph{To play, Come near}'').
+
+\item \emph{Direct body interaction phase:} \\
+This phase happens, when the user has actively started the game interaction and is playing. At this phase the whole tracking range (gray and white color) could be used for direct interaction until the end of interaction phase.
+
+\item \emph{Watch ad video phase:} \\
+When the interaction is over, a short advertisement video is shown.
+
+\item \emph{Multi interaction phase:} \\
+This phase demonstrates that the user can perform interaction multiple times.
+
+\item \emph{Follow up action phase:} \\
+Follow up action phase is, when the user leaves the display’s tracking range and performs other actions.
+
+\end{enumerate}
+
+
+The Black curve below the diagram shows the transition of the user between each phase and shows the flow of the attention, motivation, interaction and other phases. The attention is captured mainly in \emph{Implicit interaction phase}, the motivation occurs when the user is in \emph{Subtle interaction phase} and the interaction is when the user is directly playing with the his/her silhouette in the entire tracking coverage area. After the interaction and watching ad video, the curve changes direction moving down, which illustrates that the user would likely leave the interaction area and follow other actions unrelated to the screen. 
 
 \begin{itemize}
 
 \item Attention: \\
-A bottom-up approach was used to achieve the passers-by attention because the approach can help get attention by showing a sudden object, or by contrasting various colors. To do so, the silhouette representation of passers-by were projected on the screen, this representation can bring higher level of attraction because it is responsive on user movements, and has different contrast colors in relation to background. In chapter 3, this method was compared with other forms of representation and attracting attention and the silhouette was the top candidate.
+A \emph{Bottom-Up} approach was used to achieve the passers-by attention because the approach can help get attention by showing a sudden object, or by contrasting various colors. To do so, the silhouette representation of passers-by were projected on the screen, this representation can bring higher level of attraction as it is responsive to the user movements, and has different contrast colors in relation to background. In chapter 3, this method was compared with other forms of representation and attracting attention and the silhouette was the top candidate.
 
 \item Motivation: \\
-The motivation is done by bring joy, fun, curiosity and challenge\cite{ toward_motivation} to the users who are attracted toward display. In body interaction design the use of passers-by’s silhouette presentation would be a good motivational force to bring passers-by near the display, because this technique can become a source of fun and entertainment and can give a sense of connectedness with the display, and at the same time it also motivates passers-by by showing a \emph{call-to-action} message like “to play! Come near”, which is responsive to user movement and gives confident to them to play.
+The motivation is done by bring joy, fun, curiosity and challenge\cite{ toward_motivation} to the users who are attracted toward thedisplay. In body interaction design the use of passers-by’s silhouette presentation would be a good motivational force to bring passers-by near the display. This technique can become a source of fun and entertainment and can give a sense of connectedness with the display. And at the same time it also motivates passersby by showing a \emph{Call-to-Action} message like “to play! Come near”, which is responsive to user movement and gives them confidence to play.
 
 \item Interaction and follow up actions: \\
-When the user starts the interaction, the interaction carried out should be meaningful, understandable and easy else the user will leave immediately after some tries. Therefor many focus groups and evaluations of many prototypes were conducted to assure the usability of the body interaction. The interaction is explained in detail in the previous sections.
-After the end of interaction the advertisement video is shown and then the user can start again interaction or leave the screen.
+When the user starts the interaction, the interaction being carried out should be meaningful, understandable and easy, else the user will leave immediately after some tries. Therefore many focus groups and evaluations of many prototypes were conducted to assure the usability of the body interaction. The interaction is explained in detail in the previous sections.
+After the end of the interaction, the advertisement video is shown and then the user can start again interaction or leave the screen.
 \end{itemize}
 
 
-
 \subsection{Mobile Interaction Design}
-The below diagram shows the mobile interaction design; the diagram shows the display on top, and the triangle, which is body-tracking range for passers-by. The design has 8 phases. (1) Passing by phase, which demonstrates passers-by who are not in display tracking range, (2) Implicit Interaction phase, the mobile version also has the implicit body interaction for attracting attention only and it is not limited to a certain region, but the whole the tracking area could be used for this purpose, and no further direct interaction is possible, (3) Read Access info, after the user is attracted toward the screen, the user reads how to use his/her mobile phone to connect to the display, (4) connect to system, in this phase the user connects to Wi-Fi and opens the controller, (5) direct interaction phase, is when the user actively interacts using smartphone with the display, (6) Watch ad video, this phase is triggered when the interaction is over, (7) multi interaction phase, demonstrates that the user can perform interaction multiple times, (8) Follow up action phase, is when the user leaves the display’s tracking range and performs other actions.
+Below diagram shows the mobile interaction design. The diagram shows the display at the top, and the triangle represents body-tracking range for passersby. The design has the same 8 phases as proposed for the body interaction. (1) Passing by phase, which demonstrates passers-by who are not in display tracking range, (2) Implicit Interaction phase, the mobile version also has the implicit body interaction for attracting attention only and it is not limited to a certain region, but the whole the tracking area could be used for this purpose, and no further direct interaction is possible, (3) Read Access info, after the user is attracted toward the screen, the user reads how to use his/her mobile phone to connect to the display, (4) connect to system, in this phase the user connects to Wi-Fi and opens the controller, (5) direct interaction phase, is when the user actively interacts using smartphone with the display, (6) Watch ad video, this phase is triggered when the interaction is over, (7) multi interaction phase, demonstrates that the user can perform interaction multiple times, (8) Follow up action phase, is when the user leaves the display’s tracking range and performs other actions.
 
 \begin{figure}[H]
     \centering
@@ -484,16 +512,20 @@ The below diagram shows the mobile interaction design; the diagram shows the dis
 \begin{enumerate}
 
 \item Attention: \\
-Technologies like Bluetooth, infrared and NFC\footnote{NFC: Near Field Communication} of mobile devices in fact could be used for attracting attention of passers-by, but these technologies have their limitations and limited usage and not all mobile phones support all of the technologies and at the same time it is possible that the passers-by have not switched on these technologies because of battery consumption or other purpose. Therefor to attract all the passers-by without any limitation, the silhouette representation was used as it was used for body interaction design.
+Technologies like Bluetooth, infrared and NFC\footnote{NFC: Near Field Communication} of mobile devices in fact could be used for attracting attention of passersby, but these technologies have their limitations and limited usage and not all mobile phones support all of the technologies. At the same time it is possible that the passers-by have not switched on these technologies because of battery consumption or other purpose. Therefore to attract all the passers-by without any limitation, the silhouette representation was used as it was used for body interaction design.
 
 \item Motivation: \\
-The motivation is also similar to the body interaction, because of the silhouette that bring curiosity and joy, and beside that an Info text is shown on the screen to give sufficient information on how to access the advertisement system and play the game.
+The motivation is also similar to the body interaction. Due to the display of the silhouette, it brings curiosity and joy to the users. Besides that, an Information text is shown on the screen to give sufficient information on how to access the advertisement system and play the game.
 
 \item Interaction and follow up actions: \\
-The interaction with the game element is only possible with the use of a smart phone, the interaction usability is important in order to keep the passers-by engaged with the display. Therefor two prototype versions of mobile interactions were evaluated to remove any possible usability issue. After the interaction is over the advertisement video and other follow up action is taken by user.
+The interaction with the game element is only possible with the use of a smart phone. The interaction usability is important in order to keep the passersby engaged with the display. Therefore two prototype versions of the mobile interactions were evaluated to remove any possible usability issue. After the interaction is over the advertisement video and other following up action is taken on user.
 
 
 \end{enumerate}
+
+
+
+
 
 
 
