@@ -1,42 +1,51 @@
 \BOOKMARK [0][-]{section*.1}{Abstract}{}% 1
 \BOOKMARK [0][-]{section*.2}{Acknowledgements}{}% 2
-\BOOKMARK [0][-]{chapter.1}{Advertisement application}{}% 3
-\BOOKMARK [1][-]{section.1.1}{Introduction}{chapter.1}% 4
-\BOOKMARK [1][-]{section.1.2}{Applications}{chapter.1}% 5
-\BOOKMARK [2][-]{subsection.1.2.1}{Silhouette representation}{section.1.2}% 6
-\BOOKMARK [2][-]{subsection.1.2.2}{Main advertisement application}{section.1.2}% 7
-\BOOKMARK [1][-]{section.1.3}{Interaction Design}{chapter.1}% 8
-\BOOKMARK [2][-]{subsection.1.3.1}{Body Interaction Design}{section.1.3}% 9
-\BOOKMARK [2][-]{subsection.1.3.2}{Mobile Interaction Design}{section.1.3}% 10
-\BOOKMARK [0][-]{section*.27}{Appendices}{}% 11
-\BOOKMARK [0][-]{Appendix.1.A}{Attracting attention}{}% 12
-\BOOKMARK [1][-]{section.1.A.1}{Glance count sheet}{Appendix.1.A}% 13
-\BOOKMARK [1][-]{section.1.A.2}{Interview Questionnaire}{Appendix.1.A}% 14
-\BOOKMARK [1][-]{section.1.A.3}{Interview consent form}{Appendix.1.A}% 15
-\BOOKMARK [1][-]{section.1.A.4}{Interview Color codes}{Appendix.1.A}% 16
-\BOOKMARK [0][-]{Appendix.1.B}{Focus Group}{}% 17
-\BOOKMARK [1][-]{section.1.B.1}{First sketch}{Appendix.1.B}% 18
-\BOOKMARK [1][-]{section.1.B.2}{Second sketch}{Appendix.1.B}% 19
-\BOOKMARK [1][-]{section.1.B.3}{Third sketch}{Appendix.1.B}% 20
-\BOOKMARK [0][-]{Appendix.1.C}{Low Fidelity}{}% 21
-\BOOKMARK [1][-]{section.1.C.1}{Coded Interviews}{Appendix.1.C}% 22
-\BOOKMARK [0][-]{Appendix.1.D}{Heigh Fidelity}{}% 23
-\BOOKMARK [1][-]{section.1.D.1}{Body Interview codes}{Appendix.1.D}% 24
-\BOOKMARK [1][-]{section.1.D.2}{Mobile Interview codes}{Appendix.1.D}% 25
-\BOOKMARK [1][-]{section.1.D.3}{Pariticipant performance}{Appendix.1.D}% 26
-\BOOKMARK [2][-]{subsection.1.D.3.1}{Body}{section.1.D.3}% 27
-\BOOKMARK [2][-]{subsection.1.D.3.2}{Mobile}{section.1.D.3}% 28
-\BOOKMARK [0][-]{Appendix.1.E}{Field Study}{}% 29
-\BOOKMARK [1][-]{section.1.E.1}{Interview Questionnaire}{Appendix.1.E}% 30
-\BOOKMARK [1][-]{section.1.E.2}{Non-Interactive glance count}{Appendix.1.E}% 31
-\BOOKMARK [1][-]{section.1.E.3}{Body Interactive glance count}{Appendix.1.E}% 32
-\BOOKMARK [1][-]{section.1.E.4}{Body Interactive glance count}{Appendix.1.E}% 33
-\BOOKMARK [1][-]{section.1.E.5}{Non-Interactive interview code}{Appendix.1.E}% 34
-\BOOKMARK [1][-]{section.1.E.6}{Body Interactive interview code}{Appendix.1.E}% 35
-\BOOKMARK [1][-]{section.1.E.7}{Mobile Interactive interview code}{Appendix.1.E}% 36
-\BOOKMARK [1][-]{section.1.E.8}{Non-Interactive observation notes}{Appendix.1.E}% 37
-\BOOKMARK [1][-]{section.1.E.9}{Body Interactive observation notes}{Appendix.1.E}% 38
-\BOOKMARK [1][-]{section.1.E.10}{Mobile Interactive observation notes}{Appendix.1.E}% 39
-\BOOKMARK [0][-]{Appendix.1.F}{Enhanced body interactive Field Study}{}% 40
-\BOOKMARK [1][-]{section.1.F.1}{Enhanced Interactive advertisement Glance count}{Appendix.1.F}% 41
-\BOOKMARK [1][-]{section.1.F.2}{Enhanced Interactive observation notes}{Appendix.1.F}% 42
+\BOOKMARK [0][-]{chapter.1}{Background}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Advertisement}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.1}{History of advertisement}{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.2}{Traditional Advertising}{section.1.1}% 6
+\BOOKMARK [2][-]{subsection.1.1.3}{Online advertising}{section.1.1}% 7
+\BOOKMARK [2][-]{subsection.1.1.4}{Pervasive Advertising}{section.1.1}% 8
+\BOOKMARK [2][-]{subsection.1.1.5}{Advertising program}{section.1.1}% 9
+\BOOKMARK [2][-]{subsection.1.1.6}{Advertisement performance}{section.1.1}% 10
+\BOOKMARK [1][-]{section.1.2}{Public displays}{chapter.1}% 11
+\BOOKMARK [2][-]{subsection.1.2.1}{History of public display research}{section.1.2}% 12
+\BOOKMARK [2][-]{subsection.1.2.2}{Auto-active displays}{section.1.2}% 13
+\BOOKMARK [2][-]{subsection.1.2.3}{Interactive displays}{section.1.2}% 14
+\BOOKMARK [2][-]{subsection.1.2.4}{Engagement with displays}{section.1.2}% 15
+\BOOKMARK [2][-]{subsection.1.2.5}{Metaphors}{section.1.2}% 16
+\BOOKMARK [2][-]{subsection.1.2.6}{Interaction models}{section.1.2}% 17
+\BOOKMARK [2][-]{subsection.1.2.7}{Technologies}{section.1.2}% 18
+\BOOKMARK [0][-]{section*.15}{Appendices}{}% 19
+\BOOKMARK [0][-]{Appendix.1.A}{Attracting attention}{}% 20
+\BOOKMARK [1][-]{section.1.A.1}{Glance count sheet}{Appendix.1.A}% 21
+\BOOKMARK [1][-]{section.1.A.2}{Interview Questionnaire}{Appendix.1.A}% 22
+\BOOKMARK [1][-]{section.1.A.3}{Interview consent form}{Appendix.1.A}% 23
+\BOOKMARK [1][-]{section.1.A.4}{Interview Color codes}{Appendix.1.A}% 24
+\BOOKMARK [0][-]{Appendix.1.B}{Focus Group}{}% 25
+\BOOKMARK [1][-]{section.1.B.1}{First sketch}{Appendix.1.B}% 26
+\BOOKMARK [1][-]{section.1.B.2}{Second sketch}{Appendix.1.B}% 27
+\BOOKMARK [1][-]{section.1.B.3}{Third sketch}{Appendix.1.B}% 28
+\BOOKMARK [0][-]{Appendix.1.C}{Low Fidelity}{}% 29
+\BOOKMARK [1][-]{section.1.C.1}{Coded Interviews}{Appendix.1.C}% 30
+\BOOKMARK [0][-]{Appendix.1.D}{Heigh Fidelity}{}% 31
+\BOOKMARK [1][-]{section.1.D.1}{Body Interview codes}{Appendix.1.D}% 32
+\BOOKMARK [1][-]{section.1.D.2}{Mobile Interview codes}{Appendix.1.D}% 33
+\BOOKMARK [1][-]{section.1.D.3}{Pariticipant performance}{Appendix.1.D}% 34
+\BOOKMARK [2][-]{subsection.1.D.3.1}{Body}{section.1.D.3}% 35
+\BOOKMARK [2][-]{subsection.1.D.3.2}{Mobile}{section.1.D.3}% 36
+\BOOKMARK [0][-]{Appendix.1.E}{Field Study}{}% 37
+\BOOKMARK [1][-]{section.1.E.1}{Interview Questionnaire}{Appendix.1.E}% 38
+\BOOKMARK [1][-]{section.1.E.2}{Non-Interactive glance count}{Appendix.1.E}% 39
+\BOOKMARK [1][-]{section.1.E.3}{Body Interactive glance count}{Appendix.1.E}% 40
+\BOOKMARK [1][-]{section.1.E.4}{Body Interactive glance count}{Appendix.1.E}% 41
+\BOOKMARK [1][-]{section.1.E.5}{Non-Interactive interview code}{Appendix.1.E}% 42
+\BOOKMARK [1][-]{section.1.E.6}{Body Interactive interview code}{Appendix.1.E}% 43
+\BOOKMARK [1][-]{section.1.E.7}{Mobile Interactive interview code}{Appendix.1.E}% 44
+\BOOKMARK [1][-]{section.1.E.8}{Non-Interactive observation notes}{Appendix.1.E}% 45
+\BOOKMARK [1][-]{section.1.E.9}{Body Interactive observation notes}{Appendix.1.E}% 46
+\BOOKMARK [1][-]{section.1.E.10}{Mobile Interactive observation notes}{Appendix.1.E}% 47
+\BOOKMARK [0][-]{Appendix.1.F}{Enhanced body interactive Field Study}{}% 48
+\BOOKMARK [1][-]{section.1.F.1}{Enhanced Interactive advertisement Glance count}{Appendix.1.F}% 49
+\BOOKMARK [1][-]{section.1.F.2}{Enhanced Interactive observation notes}{Appendix.1.F}% 50
+\BOOKMARK [0][-]{Appendix.1.G}{Files and folders}{}% 51
