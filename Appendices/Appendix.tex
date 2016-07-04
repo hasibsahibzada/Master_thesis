@@ -2,6 +2,14 @@
 
 \begin{appendices}
 
+\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
+\makeatletter
+\addtocontents{toc}{%
+  \begingroup
+  \let\protect\l@chapter\protect\l@section
+  \let\protect\l@section\protect\l@subsection
+}
+\makeatother
 
 %\label{AppendixA} % For referencing this appendix elsewhere, use \ref{AppendixA}
 %\counterwithin{figure}{section}
@@ -11,7 +19,7 @@
 %\setcounter{figure}{0}
 %\setcounter{table}{1}
 
-\section {Glance count sheet}
+\section{Glance count sheet}
 
 \begin{figure}[H]
  \centering 
@@ -129,7 +137,7 @@
 
 \newpage
 % Hifi- usability
-\chapter{Heigh Fidelity}
+\chapter{High Fidelity}
 
 \setcounter{figure}{0}
 \setcounter{table}{0}
@@ -340,4 +348,6 @@
 \end{figure}
 
 
+
+\addtocontents{toc}{\endgroup}
 \end{appendices}
