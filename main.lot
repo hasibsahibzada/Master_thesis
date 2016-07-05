@@ -1,45 +1,45 @@
 \select@language {english}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {1.1}{\ignorespaces Thesis Outline\relax }}{6}{table.caption.6}
+\contentsline {table}{\numberline {1.1}{\ignorespaces Thesis Outline\relax }}{7}{table.caption.6}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces Cross tabulation of deployment and attention level \relax }}{28}{table.caption.23}
-\contentsline {table}{\numberline {3.2}{\ignorespaces Cross tabulation of Following and traditional attention level \relax }}{29}{table.caption.24}
-\contentsline {table}{\numberline {3.3}{\ignorespaces Cross tabulation of Firework and traditional attention level \relax }}{29}{table.caption.25}
-\contentsline {table}{\numberline {3.4}{\ignorespaces Cross tabulation of Silhoutte and traditional attention level \relax }}{29}{table.caption.26}
+\contentsline {table}{\numberline {3.1}{\ignorespaces Cross tabulation of deployment and attention level \relax }}{31}{table.caption.23}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Cross tabulation of Following and traditional attention level \relax }}{32}{table.caption.24}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Cross tabulation of Firework and traditional attention level \relax }}{32}{table.caption.25}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Cross tabulation of Silhoutte and traditional attention level \relax }}{32}{table.caption.26}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {5.1}{\ignorespaces First persona\relax }}{48}{table.caption.47}
-\contentsline {table}{\numberline {5.2}{\ignorespaces Second persona\relax }}{49}{table.caption.48}
-\contentsline {table}{\numberline {5.3}{\ignorespaces Number of usability issues\relax }}{54}{table.caption.52}
+\contentsline {table}{\numberline {5.1}{\ignorespaces First persona\relax }}{55}{table.caption.47}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Second persona\relax }}{56}{table.caption.48}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Number of usability issues\relax }}{61}{table.caption.52}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {7.1}{\ignorespaces UserMap and application color mapping\relax }}{88}{table.caption.87}
+\contentsline {table}{\numberline {7.1}{\ignorespaces UserMap and application color mapping\relax }}{99}{table.caption.87}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {8.1}{\ignorespaces Week sequence\relax }}{95}{table.caption.96}
-\contentsline {table}{\numberline {8.2}{\ignorespaces Landing and honeypot effects\relax }}{101}{table.caption.104}
-\contentsline {table}{\numberline {8.3}{\ignorespaces Landing and honeypot effects\relax }}{108}{table.caption.114}
-\contentsline {table}{\numberline {8.4}{\ignorespaces Mobile Interactive Landing and honeypot effect\relax }}{115}{table.caption.127}
-\contentsline {table}{\numberline {8.5}{\ignorespaces Number of passersby in three weeks\relax }}{117}{table.caption.129}
-\contentsline {table}{\numberline {8.6}{\ignorespaces Cross tabulation for each week attention level \relax }}{118}{table.caption.131}
-\contentsline {table}{\numberline {8.7}{\ignorespaces Number of engaged passersby in three weeks\relax }}{119}{table.caption.133}
-\contentsline {table}{\numberline {8.8}{\ignorespaces Post-Hoc Tukey\IeC {\textquoteright }s HSD\relax }}{119}{table.caption.134}
-\contentsline {table}{\numberline {8.9}{\ignorespaces Number of \emph {Landing effect} in three weeks\relax }}{120}{table.caption.136}
-\contentsline {table}{\numberline {8.10}{\ignorespaces Post-Hoc Tukey\IeC {\textquoteright }s HSD results\relax }}{120}{table.caption.137}
-\contentsline {table}{\numberline {8.11}{\ignorespaces Number of \emph {Honeypot effect} in three weeks\relax }}{121}{table.caption.139}
-\contentsline {table}{\numberline {8.12}{\ignorespaces \emph {Post-Hoc Tukey\IeC {\textquoteright }s HSD} results\relax }}{121}{table.caption.140}
+\contentsline {table}{\numberline {8.1}{\ignorespaces Week sequence\relax }}{107}{table.caption.96}
+\contentsline {table}{\numberline {8.2}{\ignorespaces Landing and honeypot effects\relax }}{113}{table.caption.104}
+\contentsline {table}{\numberline {8.3}{\ignorespaces Landing and honeypot effects\relax }}{120}{table.caption.114}
+\contentsline {table}{\numberline {8.4}{\ignorespaces Mobile Interactive Landing and honeypot effect\relax }}{127}{table.caption.127}
+\contentsline {table}{\numberline {8.5}{\ignorespaces Number of passersby in three weeks\relax }}{129}{table.caption.129}
+\contentsline {table}{\numberline {8.6}{\ignorespaces Cross tabulation for each week attention level \relax }}{130}{table.caption.131}
+\contentsline {table}{\numberline {8.7}{\ignorespaces Number of engaged passersby in three weeks\relax }}{131}{table.caption.133}
+\contentsline {table}{\numberline {8.8}{\ignorespaces Post-Hoc Tukey\IeC {\textquoteright }s HSD\relax }}{131}{table.caption.134}
+\contentsline {table}{\numberline {8.9}{\ignorespaces Number of \emph {Landing effect} in three weeks\relax }}{132}{table.caption.136}
+\contentsline {table}{\numberline {8.10}{\ignorespaces Post-Hoc Tukey\IeC {\textquoteright }s HSD results\relax }}{132}{table.caption.137}
+\contentsline {table}{\numberline {8.11}{\ignorespaces Number of \emph {Honeypot effect} in three weeks\relax }}{133}{table.caption.139}
+\contentsline {table}{\numberline {8.12}{\ignorespaces \emph {Post-Hoc Tukey\IeC {\textquoteright }s HSD} results\relax }}{133}{table.caption.140}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {9.1}{\ignorespaces Number of people for three conditions\relax }}{136}{table.caption.156}
-\contentsline {table}{\numberline {9.2}{\ignorespaces Cross tabulation for each condition attention level\relax }}{137}{table.caption.157}
-\contentsline {table}{\numberline {9.3}{\ignorespaces Number of engaged passersby in three weeks\relax }}{137}{table.caption.158}
-\contentsline {table}{\numberline {9.4}{\ignorespaces Post-Hoc Tukey\IeC {\textquoteright }s HSD\relax }}{137}{table.caption.159}
-\contentsline {table}{\numberline {9.5}{\ignorespaces Cross tabulation for each condition Landing effect \relax }}{138}{table.caption.160}
-\contentsline {table}{\numberline {9.6}{\ignorespaces Cross tabulation for each condition Honeypot effect \relax }}{138}{table.caption.161}
+\contentsline {table}{\numberline {9.1}{\ignorespaces Number of people for three conditions\relax }}{149}{table.caption.156}
+\contentsline {table}{\numberline {9.2}{\ignorespaces Cross tabulation for each condition attention level\relax }}{150}{table.caption.157}
+\contentsline {table}{\numberline {9.3}{\ignorespaces Number of engaged passersby in three weeks\relax }}{150}{table.caption.158}
+\contentsline {table}{\numberline {9.4}{\ignorespaces Post-Hoc Tukey\IeC {\textquoteright }s HSD\relax }}{150}{table.caption.159}
+\contentsline {table}{\numberline {9.5}{\ignorespaces Cross tabulation for each condition Landing effect \relax }}{151}{table.caption.160}
+\contentsline {table}{\numberline {9.6}{\ignorespaces Cross tabulation for each condition Honeypot effect \relax }}{151}{table.caption.161}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {10.1}{\ignorespaces Week sequence\relax }}{142}{table.caption.162}
-\contentsline {table}{\numberline {10.2}{\ignorespaces Week sequence\relax }}{142}{table.caption.163}
+\contentsline {table}{\numberline {10.1}{\ignorespaces Week sequence\relax }}{156}{table.caption.162}
+\contentsline {table}{\numberline {10.2}{\ignorespaces Week sequence\relax }}{156}{table.caption.163}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {A.2}{\ignorespaces Questions\relax }}{158}{table.caption.174}
+\contentsline {table}{\numberline {A.2}{\ignorespaces Questions\relax }}{174}{table.caption.174}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
